@@ -27,7 +27,7 @@ La eficacia de cualquier proceso de limpieza se puede modelar mediante el Círcu
 
 ---
 
-**2\. La Química de los Agentes Limpiadores: Ingredientes Activos y Mecanismos**
+## **2\. La Química de los Agentes Limpiadores: Ingredientes Activos y Mecanismos**
 
 Para construir una intuición operativa sobre cuándo utilizar cada herramienta, es imperativo diseccionar los agentes químicos disponibles en el entorno doméstico según su clasificación funcional: control de pH, tensioactividad y capacidad redox.
 
@@ -69,7 +69,7 @@ El agua por sí sola tiene una alta tensión superficial y no moja eficazmente l
 
 ---
 
-**3\. Protocolos de Limpieza para Cocinas: Gestión de Lípidos y Materia Orgánica**
+## **3\. Protocolos de Limpieza para Cocinas: Gestión de Lípidos y Materia Orgánica**
 
 La cocina presenta un desafío químico dual: la presencia de grasas polimerizadas (cochambre) y la necesidad de desinfección segura para alimentos.
 
@@ -110,7 +110,7 @@ Para tablas de madera o plástico con cortes profundos donde se acumulan bacteri
 
 ---
 
-**4\. Protocolos de Limpieza para Baños: Gestión de Depósitos Minerales y Biológicos**
+## **4\. Protocolos de Limpieza para Baños: Gestión de Depósitos Minerales y Biológicos**
 
 El entorno del baño se caracteriza por la presencia de incrustaciones inorgánicas (carbonato de calcio/magnesio) y contaminación biológica (moho, bacterias, biopelículas de Serratia marcescens).
 
@@ -141,7 +141,7 @@ Los limpiadores comerciales a menudo contienen ceras o fragancias que dejan resi
 
 ---
 
-**5\. Restauración de Metales: Electroquímica Aplicada y Tratamiento de Óxidos**
+## **5\. Restauración de Metales: Electroquímica Aplicada y Tratamiento de Óxidos**
 
 La limpieza de metales difiere fundamentalmente de otras superficies: no se trata de remover suciedad externa, sino de revertir una reacción química de corrosión (oxidación) que ha alterado el propio material.
 
@@ -171,7 +171,7 @@ El cobre desarrolla una pátina de óxido de cobre (marrón/verde).
 
 ---
 
-**6\. Superficies Especiales: Madera, Piedra y Polímeros**
+## **6\. Superficies Especiales: Madera, Piedra y Polímeros**
 
 La aplicación incorrecta de la química en materiales naturales y sintéticos puede causar daños irreversibles (quemaduras químicas, grabado, deshidratación).
 
@@ -198,7 +198,7 @@ Como se mencionó en la sección de baños, las juntas son cementosas y porosas.
 
 ---
 
-**7\. Tecnologías Físicas: Limpieza con Vapor y Abrasión Controlada**
+## **7\. Tecnologías Físicas: Limpieza con Vapor y Abrasión Controlada**
 
 Cuando la química es insuficiente o indeseable (por alergias o sensibilidad química), la física ofrece alternativas potentes.
 
@@ -222,7 +222,7 @@ La elección del abrasivo adecuado sigue la regla de dureza: el abrasivo debe se
 
 ---
 
-**8\. Toxicología y Seguridad en la Formulación Doméstica**
+## **8\. Toxicología y Seguridad en la Formulación Doméstica**
 
 El mayor riesgo en la limpieza casera no es la ineficacia, sino la toxicidad accidental. La creencia de que "natural es igual a seguro" es peligrosa.
 
@@ -259,7 +259,7 @@ Para desagües lentos, la gente suele recurrir a químicos corrosivos (sosa cáu
 
 ---
 
-**9\. Matriz de Decisión y Compendio de Soluciones**
+## **9\. Matriz de Decisión y Compendio de Soluciones**
 
 A continuación, se presenta una síntesis operativa diseñada para la consulta rápida, clasificando los problemas comunes por su naturaleza química y prescribiendo la solución óptima basada en los principios expuestos.
 

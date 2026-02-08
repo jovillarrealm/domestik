@@ -27,7 +27,7 @@ Este documento analiza exhaustivamente el arsenal químico disponible en el hoga
 
 ---
 
-**2\. Fundamentos de Química Doméstica: El Arsenal Reactivo**
+## **2\. Fundamentos de Química Doméstica: El Arsenal Reactivo**
 
 Para construir una intuición operativa, primero debemos categorizar las herramientas químicas no por su nombre comercial o tradicional, sino por su grupo funcional y su comportamiento reactivo en solución acuosa. Los agentes de limpieza caseros se dividen principalmente en modificadores de pH (ácidos y bases), agentes redox (oxidantes) y agentes físicos (adsorbentes y surfactantes).
 
@@ -109,7 +109,7 @@ Materiales sólidos con alta superficie específica.
 
 ---
 
-**3\. La Ciencia del Sustrato: Comprendiendo lo que Limpiamos**
+## ## **3\. La Ciencia del Sustrato: Comprendiendo lo que Limpiamos**
 
 La intuición química falla si ignoramos el material sobre el que trabajamos. La interacción entre el limpiador y el sustrato es tan crítica como la interacción con la mancha.
 
@@ -132,7 +132,7 @@ La intuición química falla si ignoramos el material sobre el que trabajamos. L
 
 ---
 
-**4\. El Mito de la "Volcán" y la Seguridad Química**
+## **4\. El Mito de la "Volcán" y la Seguridad Química**
 
 Antes de detallar los protocolos, es imperativo desmantelar el mito más persistente y contraproducente de la limpieza casera: la mezcla simultánea de vinagre y bicarbonato.
 
@@ -157,7 +157,7 @@ La intuición química también es supervivencia. Ciertas mezclas generan especi
 
 ---
 
-**5\. Protocolos Avanzados de Restauración Textil: Despercudido y Blanqueo**
+## **5\. Protocolos Avanzados de Restauración Textil: Despercudido y Blanqueo**
 
 El término "percudido" (dinginess) es químicamente complejo. Es la acumulación sinérgica de tres factores:
 
@@ -203,7 +203,7 @@ Si la ropa blanca se ve gris y se siente acartonada, el problema es mineral (jab
 
 ---
 
-**6\. Mecanismos de Acción por Tipo de Mancha: Guía de Intuición**
+## **6\. Mecanismos de Acción por Tipo de Mancha: Guía de Intuición**
 
 Para tratar una mancha, primero debemos diagnosticar su naturaleza química.
 
@@ -247,7 +247,7 @@ Las tintas de bolígrafo son pigmentos suspendidos en un vehículo aceitoso o so
 
 ---
 
-**7\. Restauración de Superficies Duras: Baños, Cocinas y Metales**
+## **7\. Restauración de Superficies Duras: Baños, Cocinas y Metales**
 
 Las superficies inorgánicas (azulejos, metal, piedra) presentan desafíos diferentes: porosidad y resistencia a la corrosión ácida.
 
@@ -295,7 +295,7 @@ Si las juntas no tienen moho sino mugre negra/grasa (común en cocinas y pisos).
 
 ---
 
-**8\. Estudios de Caso y Soluciones Específicas**
+## **8\. Estudios de Caso y Soluciones Específicas**
 
 Para consolidar la intuición, analicemos escenarios complejos donde un solo producto no basta.
 
@@ -331,7 +331,7 @@ Olores a humo, comida o humedad en abrigos, alfombras o sofás.
 
 ---
 
-**9\. Tabla Maestra de Intuición y Solución**
+## **9\. Tabla Maestra de Intuición y Solución**
 
 La siguiente tabla resume los principios discutidos, sirviendo como guía rápida de toma de decisiones.
 

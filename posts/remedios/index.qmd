@@ -27,7 +27,7 @@ A lo largo de este documento, exploraremos la farmacocinética de compuestos azu
 
 ---
 
-**Capítulo 1: Dinámica Enzimática y Compuestos Azufrados: El Principio de Activación por Daño Tisular**
+## ## **Capítulo 1: Dinámica Enzimática y Compuestos Azufrados: El Principio de Activación por Daño Tisular**
 
 Uno de los conceptos más críticos en la fitoquímica aplicada es que muchos de los compuestos medicinales más potentes no existen en la planta viva en su forma activa. Las plantas han evolucionado mecanismos de defensa "binarios" en los que un precursor inerte y una enzima activadora se almacenan en compartimentos celulares separados (vacuolas y citoplasma). Solo cuando el tejido de la planta sufre un trauma físico—masticación por un herbívoro o corte con un cuchillo—se rompen estas barreras, permitiendo que la enzima y el sustrato se mezclen. Esta reacción química instantánea genera el compuesto defensivo, que a menudo es la molécula terapéutica que buscamos.1
 
@@ -68,7 +68,7 @@ Para restaurar la potencia farmacológica del brócoli cocido, existen dos estra
 
 ---
 
-**Capítulo 2: Biodisponibilidad y Sinergia Metabólica: Superando la Eliminación Hepática**
+## ## **Capítulo 2: Biodisponibilidad y Sinergia Metabólica: Superando la Eliminación Hepática**
 
 La eficacia clínica de un compuesto no depende solo de cuánto se ingiere, sino de cuánto llega a la circulación sistémica y a los tejidos diana. Muchos fitocompuestos potentes *in vitro* fallan *in vivo* debido a una pobre absorción o un metabolismo de eliminación rápido.
 
@@ -100,7 +100,7 @@ La vitamina C (ácido ascórbico) no solo mejora la absorción; es un interrupto
 
 ---
 
-**Capítulo 3: Termodinámica Fitoquímica: El Calor como Interruptor Molecular**
+## ## **Capítulo 3: Termodinámica Fitoquímica: El Calor como Interruptor Molecular**
 
 La aplicación de calor es una herramienta de doble filo en la preparación de remedios. Puede destruir enzimas vitales o, inversamente, catalizar reacciones de deshidratación que potencian la actividad farmacológica.
 
@@ -131,7 +131,7 @@ La glucosa oxidasa es particularmente relevante; en presencia de agua (cuando la
 
 ---
 
-**Capítulo 4: Fermentación y Biotransformación**
+## ## **Capítulo 4: Fermentación y Biotransformación**
 
 La fermentación controlada utiliza microorganismos para predigerir compuestos complejos, aumentar la biodisponibilidad y generar nuevos metabolitos postbióticos.
 
@@ -146,7 +146,7 @@ La combinación de ajos crudos y miel cruda crea un entorno de fermentación ún
 
 ---
 
-**Capítulo 5: Física y Química Inorgánica: pH, Ósmosis y Adsorción**
+## **Capítulo 5: Física y Química Inorgánica: pH, Ósmosis y Adsorción**
 
 Algunos de los remedios más efectivos operan a través de principios básicos de química física, como la manipulación de gradientes de concentración y el equilibrio ácido-base.
 
@@ -179,7 +179,7 @@ Es crucial distinguir entre estos dos fenómenos físicos para entender la utili
 
 ---
 
-**Capítulo 6: Mecanismos Tópicos y Transdérmicos**
+## **Capítulo 6: Mecanismos Tópicos y Transdérmicos**
 
 La piel es una barrera formidable, pero ciertos compuestos lipofílicos o mecanismos físicos pueden penetrarla para ejercer efectos locales profundos.
 
@@ -218,7 +218,7 @@ El aceite de menta es un espasmolítico digestivo probado.
 
 ---
 
-**Capítulo 7: Sinergias Enzimáticas y Digestivas**
+## **Capítulo 7: Sinergias Enzimáticas y Digestivas**
 
 ### **7.1 Piña y Bromelina: Actividad Proteolítica**
 
@@ -229,7 +229,7 @@ La piña contiene **bromelina**, un complejo de enzimas proteolíticas (digieren
 
 ---
 
-**Capítulo 8: Seguridad, Toxicología y Contraindicaciones**
+## **Capítulo 8: Seguridad, Toxicología y Contraindicaciones**
 
 La intuición farmacognóstica incluye saber cuándo *no* usar un remedio. Los compuestos naturales tienen ventanas terapéuticas y perfiles de toxicidad que deben respetarse, especialmente en poblaciones vulnerables.
 
@@ -260,7 +260,7 @@ Pacientes medicados con anticoagulantes (Warfarina, Heparina) o antiplaquetarios
 
 ---
 
-**Tabla de Intuición Clínica: Protocolos y Mecanismos**
+## **Tabla de Intuición Clínica: Protocolos y Mecanismos**
 
 Esta tabla resume la lógica operativa para la aplicación de remedios, diseñada para consulta rápida una vez comprendidos los principios anteriores.
 
@@ -284,7 +284,7 @@ Esta tabla resume la lógica operativa para la aplicación de remedios, diseñad
 
 ---
 
-**Conclusión**
+## **Conclusión**
 
 La eficacia de la medicina casera reside en los detalles del proceso. Cortar un ajo, moler pimienta sobre la cúrcuma o esperar a que el té se enfríe antes de añadir miel no son rituales vacíos; son pasos necesarios para modular reacciones químicas complejas. Al internalizar estos mecanismos—la inestabilidad térmica de las enzimas, la cinética de la alicina, la necesidad de transportadores grasos para polifenoles—el usuario deja de seguir recetas y comienza a aplicar farmacología. Esta intuición permite adaptar los remedios a la situación clínica específica, respetando siempre los límites de seguridad que la biología impone, especialmente en los miembros más vulnerables de la familia. La cocina recupera así su dignidad científica como la primera línea de defensa de la salud.
 
