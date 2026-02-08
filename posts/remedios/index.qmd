@@ -23,6 +23,8 @@ La intersección entre la gastronomía tradicional y la farmacología moderna re
 Este informe técnico tiene como objetivo desglosar exhaustivamente la ciencia detrás de los remedios caseros, trascendiendo la mera recopilación de recetas para construir una **intuición farmacognóstica** en el usuario. Al comprender el mecanismo subyacente—el "porqué" molecular—el practicante puede deducir el "cuándo" y el "cómo" con precisión clínica, transformando ingredientes inertes en agentes bioactivos potentes. Analizaremos cómo la ruptura mecánica celular activa sistemas de defensa vegetal latentes, cómo la energía térmica puede actuar como catalizador o destructor dependiendo del sustrato, y cómo las sinergias entre compuestos pueden "hackear" el metabolismo hepático humano para superar barreras de absorción.  
 A lo largo de este documento, exploraremos la farmacocinética de compuestos azufrados, polifenoles, terpenos y enzimas proteolíticas, estableciendo protocolos estrictos basados en la evidencia científica para maximizar el potencial terapéutico y minimizar la toxicidad.
 
+![image.png](image.png)
+
 ---
 
 **Capítulo 1: Dinámica Enzimática y Compuestos Azufrados: El Principio de Activación por Daño Tisular**
