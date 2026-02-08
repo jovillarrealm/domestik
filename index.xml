@@ -35,7 +35,9 @@ A lo largo de este documento, exploraremos la farmacocinética de compuestos azu
 </figure>
 </div>
 <hr>
-<p><strong>Capítulo 1: Dinámica Enzimática y Compuestos Azufrados: El Principio de Activación por Daño Tisular</strong></p>
+</section>
+<section id="capítulo-1-dinámica-enzimática-y-compuestos-azufrados-el-principio-de-activación-por-daño-tisular" class="level2">
+<h2 class="anchored" data-anchor-id="capítulo-1-dinámica-enzimática-y-compuestos-azufrados-el-principio-de-activación-por-daño-tisular">## <strong>Capítulo 1: Dinámica Enzimática y Compuestos Azufrados: El Principio de Activación por Daño Tisular</strong></h2>
 <p>Uno de los conceptos más críticos en la fitoquímica aplicada es que muchos de los compuestos medicinales más potentes no existen en la planta viva en su forma activa. Las plantas han evolucionado mecanismos de defensa “binarios” en los que un precursor inerte y una enzima activadora se almacenan en compartimentos celulares separados (vacuolas y citoplasma). Solo cuando el tejido de la planta sufre un trauma físico—masticación por un herbívoro o corte con un cuchillo—se rompen estas barreras, permitiendo que la enzima y el sustrato se mezclen. Esta reacción química instantánea genera el compuesto defensivo, que a menudo es la molécula terapéutica que buscamos.1</p>
 <section id="el-ajo-allium-sativum-y-la-cinética-de-la-alicina" class="level3">
 <h3 class="anchored" data-anchor-id="el-ajo-allium-sativum-y-la-cinética-de-la-alicina"><strong>1.1 El Ajo (<em>Allium sativum</em>) y la Cinética de la Alicina</strong></h3>
@@ -73,10 +75,12 @@ La alicina es la molécula responsable del aroma acre característico del ajo y 
 </ol>
 <p><strong>Intuición:</strong> El brócoli cocido sin reposo previo ni adición de mostaza es nutricionalmente valioso (fibra, vitaminas) pero farmacológicamente subóptimo en cuanto a su potencial anticancerígeno y desintoxicante debido a la inactivación enzimática.</p>
 <hr>
-<p><strong>Capítulo 2: Biodisponibilidad y Sinergia Metabólica: Superando la Eliminación Hepática</strong></p>
+</section>
+</section>
+</section>
+<section id="capítulo-2-biodisponibilidad-y-sinergia-metabólica-superando-la-eliminación-hepática" class="level2">
+<h2 class="anchored" data-anchor-id="capítulo-2-biodisponibilidad-y-sinergia-metabólica-superando-la-eliminación-hepática">## <strong>Capítulo 2: Biodisponibilidad y Sinergia Metabólica: Superando la Eliminación Hepática</strong></h2>
 <p>La eficacia clínica de un compuesto no depende solo de cuánto se ingiere, sino de cuánto llega a la circulación sistémica y a los tejidos diana. Muchos fitocompuestos potentes <em>in vitro</em> fallan <em>in vivo</em> debido a una pobre absorción o un metabolismo de eliminación rápido.</p>
-</section>
-</section>
 <section id="la-paradoja-de-la-cúrcuma-curcuma-longa" class="level3">
 <h3 class="anchored" data-anchor-id="la-paradoja-de-la-cúrcuma-curcuma-longa"><strong>2.1 La Paradoja de la Cúrcuma (<em>Curcuma longa</em>)</strong></h3>
 <p>La <strong>curcumina</strong>, el principal polifenol de la cúrcuma, posee propiedades antiinflamatorias pleiotrópicas, inhibiendo vías como NF-κB, COX-2 y LOX.13 Sin embargo, su utilidad clínica en estado puro es limitada debido a su pésima biodisponibilidad. El hígado y el intestino delgado reconocen a la curcumina como un xenobiótico y la someten a una rápida <strong>glucuronidación</strong> y sulfatación, marcándola para su excreción inmediata a través de la bilis y la orina. Como resultado, solo trazas de curcumina libre aparecen en el plasma incluso tras dosis elevadas.14</p>
@@ -104,10 +108,12 @@ La alicina es la molécula responsable del aroma acre característico del ajo y 
 </ol>
 <p><strong>Protocolo Dietético:</strong> Para tratar la anemia o maximizar la nutrición de fuentes vegetales, es imperativo consumir el alimento rico en hierro (lentejas, espinacas) simultáneamente con una fuente de vitamina C (limón, pimientos, fresas). La separación temporal de estos elementos anula el efecto sinérgico quelante y reductor.</p>
 <hr>
-<p><strong>Capítulo 3: Termodinámica Fitoquímica: El Calor como Interruptor Molecular</strong></p>
+</section>
+</section>
+</section>
+<section id="capítulo-3-termodinámica-fitoquímica-el-calor-como-interruptor-molecular" class="level2">
+<h2 class="anchored" data-anchor-id="capítulo-3-termodinámica-fitoquímica-el-calor-como-interruptor-molecular">## <strong>Capítulo 3: Termodinámica Fitoquímica: El Calor como Interruptor Molecular</strong></h2>
 <p>La aplicación de calor es una herramienta de doble filo en la preparación de remedios. Puede destruir enzimas vitales o, inversamente, catalizar reacciones de deshidratación que potencian la actividad farmacológica.</p>
-</section>
-</section>
 <section id="jengibre-zingiber-officinale-fresco-vs.-seco" class="level3">
 <h3 class="anchored" data-anchor-id="jengibre-zingiber-officinale-fresco-vs.-seco"><strong>3.1 Jengibre (<em>Zingiber officinale</em>): Fresco vs.&nbsp;Seco</strong></h3>
 <p>El perfil químico del jengibre cambia drásticamente con el procesamiento térmico, alterando sus indicaciones clínicas.</p>
@@ -136,10 +142,12 @@ La alicina es la molécula responsable del aroma acre característico del ajo y 
 </ul>
 <p><strong>Protocolo:</strong> Para remedios de garganta o inmunidad, la miel nunca debe añadirse al agua hirviendo. Se debe preparar la infusión (de jengibre, limón, etc.), dejar enfriar hasta que sea soportable al tacto (&lt;40-45°C), y solo entonces disolver la miel para preservar su carga enzimática.</p>
 <hr>
-<p><strong>Capítulo 4: Fermentación y Biotransformación</strong></p>
+</section>
+</section>
+</section>
+<section id="capítulo-4-fermentación-y-biotransformación" class="level2">
+<h2 class="anchored" data-anchor-id="capítulo-4-fermentación-y-biotransformación">## <strong>Capítulo 4: Fermentación y Biotransformación</strong></h2>
 <p>La fermentación controlada utiliza microorganismos para predigerir compuestos complejos, aumentar la biodisponibilidad y generar nuevos metabolitos postbióticos.</p>
-</section>
-</section>
 <section id="ajo-fermentado-en-miel" class="level3">
 <h3 class="anchored" data-anchor-id="ajo-fermentado-en-miel"><strong>4.1 Ajo Fermentado en Miel</strong></h3>
 <p>La combinación de ajos crudos y miel cruda crea un entorno de fermentación único que potencia ambos ingredientes.</p>
@@ -150,9 +158,11 @@ La alicina es la molécula responsable del aroma acre característico del ajo y 
 </ul>
 <p><strong>Uso:</strong> Un diente de ajo fermentado al día como profiláctico inmunológico y cardiovascular, combinando los efectos antiinfecciosos del ajo con las propiedades demulcentes de la miel.</p>
 <hr>
-<p><strong>Capítulo 5: Física y Química Inorgánica: pH, Ósmosis y Adsorción</strong></p>
-<p>Algunos de los remedios más efectivos operan a través de principios básicos de química física, como la manipulación de gradientes de concentración y el equilibrio ácido-base.</p>
 </section>
+</section>
+<section id="capítulo-5-física-y-química-inorgánica-ph-ósmosis-y-adsorción" class="level2">
+<h2 class="anchored" data-anchor-id="capítulo-5-física-y-química-inorgánica-ph-ósmosis-y-adsorción"><strong>Capítulo 5: Física y Química Inorgánica: pH, Ósmosis y Adsorción</strong></h2>
+<p>Algunos de los remedios más efectivos operan a través de principios básicos de química física, como la manipulación de gradientes de concentración y el equilibrio ácido-base.</p>
 <section id="gárgaras-de-agua-salada-gradientes-osmóticos" class="level3">
 <h3 class="anchored" data-anchor-id="gárgaras-de-agua-salada-gradientes-osmóticos"><strong>5.1 Gárgaras de Agua Salada: Gradientes Osmóticos</strong></h3>
 <p>El uso de agua con sal para el dolor de garganta se basa en la <strong>ósmosis</strong>, no solo en la desinfección directa.</p>
@@ -183,9 +193,11 @@ La alicina es la molécula responsable del aroma acre característico del ajo y 
 </ul>
 <p><strong>Intuición:</strong> Útil para intoxicación alimentaria o sobredosis de ciertos fármacos si se toma poco tiempo después de la ingestión (antes de la absorción sistémica). Inútil para prevenir la resaca alcohólica (no une bien el etanol) o para metales.</p>
 <hr>
-<p><strong>Capítulo 6: Mecanismos Tópicos y Transdérmicos</strong></p>
-<p>La piel es una barrera formidable, pero ciertos compuestos lipofílicos o mecanismos físicos pueden penetrarla para ejercer efectos locales profundos.</p>
 </section>
+</section>
+<section id="capítulo-6-mecanismos-tópicos-y-transdérmicos" class="level2">
+<h2 class="anchored" data-anchor-id="capítulo-6-mecanismos-tópicos-y-transdérmicos"><strong>Capítulo 6: Mecanismos Tópicos y Transdérmicos</strong></h2>
+<p>La piel es una barrera formidable, pero ciertos compuestos lipofílicos o mecanismos físicos pueden penetrarla para ejercer efectos locales profundos.</p>
 <section id="aceite-de-ricino-y-ácido-ricinoleico" class="level3">
 <h3 class="anchored" data-anchor-id="aceite-de-ricino-y-ácido-ricinoleico"><strong>6.1 Aceite de Ricino y Ácido Ricinoleico</strong></h3>
 <p>El aceite de ricino (<em>Ricinus communis</em>) aplicado tópicamente en compresas (“packs”) es un pilar de la medicina naturista para la inflamación.</p>
@@ -226,8 +238,10 @@ La alicina es la molécula responsable del aroma acre característico del ajo y 
 <li><strong>Entrega Dirigida:</strong> Si se toma aceite de menta sin protección, relajará también el esfínter esofágico inferior, causando reflujo severo (acidez). Por ello, es crucial usar cápsulas con recubrimiento entérico que resistan el ácido estomacal y liberen el aceite solo en el intestino delgado, donde se necesita la acción relajante.53</li>
 </ul>
 <hr>
-<p><strong>Capítulo 7: Sinergias Enzimáticas y Digestivas</strong></p>
 </section>
+</section>
+<section id="capítulo-7-sinergias-enzimáticas-y-digestivas" class="level2">
+<h2 class="anchored" data-anchor-id="capítulo-7-sinergias-enzimáticas-y-digestivas"><strong>Capítulo 7: Sinergias Enzimáticas y Digestivas</strong></h2>
 <section id="piña-y-bromelina-actividad-proteolítica" class="level3">
 <h3 class="anchored" data-anchor-id="piña-y-bromelina-actividad-proteolítica"><strong>7.1 Piña y Bromelina: Actividad Proteolítica</strong></h3>
 <p>La piña contiene <strong>bromelina</strong>, un complejo de enzimas proteolíticas (digieren proteínas).</p>
@@ -237,9 +251,11 @@ La alicina es la molécula responsable del aroma acre característico del ajo y 
 <li><strong>Sensibilidad Térmica:</strong> Al igual que la mirosinasa y la invertasa, la bromelina se destruye con el calor (pasteurización). El jugo de piña enlatado o cocido es inútil para este propósito. Se requiere piña fresca o suplementos enzimáticos estandarizados.</li>
 </ul>
 <hr>
-<p><strong>Capítulo 8: Seguridad, Toxicología y Contraindicaciones</strong></p>
-<p>La intuición farmacognóstica incluye saber cuándo <em>no</em> usar un remedio. Los compuestos naturales tienen ventanas terapéuticas y perfiles de toxicidad que deben respetarse, especialmente en poblaciones vulnerables.</p>
 </section>
+</section>
+<section id="capítulo-8-seguridad-toxicología-y-contraindicaciones" class="level2">
+<h2 class="anchored" data-anchor-id="capítulo-8-seguridad-toxicología-y-contraindicaciones"><strong>Capítulo 8: Seguridad, Toxicología y Contraindicaciones</strong></h2>
+<p>La intuición farmacognóstica incluye saber cuándo <em>no</em> usar un remedio. Los compuestos naturales tienen ventanas terapéuticas y perfiles de toxicidad que deben respetarse, especialmente en poblaciones vulnerables.</p>
 <section id="embarazo-y-salud-reproductiva" class="level3">
 <h3 class="anchored" data-anchor-id="embarazo-y-salud-reproductiva"><strong>8.1 Embarazo y Salud Reproductiva</strong></h3>
 <p>Durante el embarazo, el umbral de seguridad cambia drásticamente. Muchas hierbas que son seguras como condimento son peligrosas en dosis medicinales concentradas.</p>
@@ -276,7 +292,10 @@ La alicina es la molécula responsable del aroma acre característico del ajo y 
 <li><strong>Cúrcuma y Oxalatos:</strong> La cúrcuma es muy alta en oxalatos solubles. Dosis masivas de cúrcuma (para tratar dolor) en personas propensas a cálculos renales pueden precipitar nefrolitiasis por oxalato de calcio. Se debe moderar la dosis y asegurar hidratación.73</li>
 </ul>
 <hr>
-<p><strong>Tabla de Intuición Clínica: Protocolos y Mecanismos</strong></p>
+</section>
+</section>
+<section id="tabla-de-intuición-clínica-protocolos-y-mecanismos" class="level2">
+<h2 class="anchored" data-anchor-id="tabla-de-intuición-clínica-protocolos-y-mecanismos"><strong>Tabla de Intuición Clínica: Protocolos y Mecanismos</strong></h2>
 <p>Esta tabla resume la lógica operativa para la aplicación de remedios, diseñada para consulta rápida una vez comprendidos los principios anteriores.</p>
 <table class="caption-top table">
 <colgroup>
@@ -421,7 +440,9 @@ La alicina es la molécula responsable del aroma acre característico del ajo y 
 </tbody>
 </table>
 <hr>
-<p><strong>Conclusión</strong></p>
+</section>
+<section id="conclusión" class="level2">
+<h2 class="anchored" data-anchor-id="conclusión"><strong>Conclusión</strong></h2>
 <p>La eficacia de la medicina casera reside en los detalles del proceso. Cortar un ajo, moler pimienta sobre la cúrcuma o esperar a que el té se enfríe antes de añadir miel no son rituales vacíos; son pasos necesarios para modular reacciones químicas complejas. Al internalizar estos mecanismos—la inestabilidad térmica de las enzimas, la cinética de la alicina, la necesidad de transportadores grasos para polifenoles—el usuario deja de seguir recetas y comienza a aplicar farmacología. Esta intuición permite adaptar los remedios a la situación clínica específica, respetando siempre los límites de seguridad que la biología impone, especialmente en los miembros más vulnerables de la familia. La cocina recupera así su dignidad científica como la primera línea de defensa de la salud.</p>
 <section id="fuentes-citadas" class="level4">
 <h4 class="anchored" data-anchor-id="fuentes-citadas"><strong>Fuentes citadas</strong></h4>
@@ -579,7 +600,6 @@ La alicina es la molécula responsable del aroma acre característico del ajo y 
 </section>
 </section>
 </section>
-</section>
 
  ]]></description>
   <category>remedios</category>
@@ -611,7 +631,9 @@ Este documento analiza exhaustivamente el arsenal químico disponible en el hoga
 </figure>
 </div>
 <hr>
-<p><strong>2. Fundamentos de Química Doméstica: El Arsenal Reactivo</strong></p>
+</section>
+<section id="fundamentos-de-química-doméstica-el-arsenal-reactivo" class="level2">
+<h2 class="anchored" data-anchor-id="fundamentos-de-química-doméstica-el-arsenal-reactivo"><strong>2. Fundamentos de Química Doméstica: El Arsenal Reactivo</strong></h2>
 <p>Para construir una intuición operativa, primero debemos categorizar las herramientas químicas no por su nombre comercial o tradicional, sino por su grupo funcional y su comportamiento reactivo en solución acuosa. Los agentes de limpieza caseros se dividen principalmente en modificadores de pH (ácidos y bases), agentes redox (oxidantes) y agentes físicos (adsorbentes y surfactantes).</p>
 <section id="ácidos-orgánicos-protones-contra-minerales" class="level3">
 <h3 class="anchored" data-anchor-id="ácidos-orgánicos-protones-contra-minerales"><strong>2.1. Ácidos Orgánicos: Protones contra Minerales</strong></h3>
@@ -705,10 +727,12 @@ Este documento analiza exhaustivamente el arsenal químico disponible en el hoga
 <li><strong>Mecanismo:</strong> Actúan por capilaridad y adsorción física. En manchas de grasa líquida o vino reciente, estos polvos ofrecen una matriz porosa con mayor afinidad por el líquido que la propia tela (si se aplican inmediatamente). “Extraen” la mancha de la fibra hacia el polvo antes de que se fije o se oxide.11</li>
 </ul>
 <hr>
-<p><strong>3. La Ciencia del Sustrato: Comprendiendo lo que Limpiamos</strong></p>
+</section>
+</section>
+</section>
+<section id="la-ciencia-del-sustrato-comprendiendo-lo-que-limpiamos" class="level2">
+<h2 class="anchored" data-anchor-id="la-ciencia-del-sustrato-comprendiendo-lo-que-limpiamos">## <strong>3. La Ciencia del Sustrato: Comprendiendo lo que Limpiamos</strong></h2>
 <p>La intuición química falla si ignoramos el material sobre el que trabajamos. La interacción entre el limpiador y el sustrato es tan crítica como la interacción con la mancha.</p>
-</section>
-</section>
 <section id="fibras-celulósicas-algodón-lino" class="level3">
 <h3 class="anchored" data-anchor-id="fibras-celulósicas-algodón-lino"><strong>3.1. Fibras Celulósicas (Algodón, Lino)</strong></h3>
 <ul>
@@ -737,9 +761,11 @@ Este documento analiza exhaustivamente el arsenal químico disponible en el hoga
 <li><strong>El Problema del Percudido:</strong> El poliéster tiende a volverse grisáceo porque atrapa suciedad micelar del agua de lavado si no hay suficientes agentes anti-redeposición. Además, el elastano es muy sensible al cloro, que rompe sus fibras elásticas, dejando la ropa deformada (“bocona”).16</li>
 </ul>
 <hr>
-<p><strong>4. El Mito de la “Volcán” y la Seguridad Química</strong></p>
-<p>Antes de detallar los protocolos, es imperativo desmantelar el mito más persistente y contraproducente de la limpieza casera: la mezcla simultánea de vinagre y bicarbonato.</p>
 </section>
+</section>
+<section id="el-mito-de-la-volcán-y-la-seguridad-química" class="level2">
+<h2 class="anchored" data-anchor-id="el-mito-de-la-volcán-y-la-seguridad-química"><strong>4. El Mito de la “Volcán” y la Seguridad Química</strong></h2>
+<p>Antes de detallar los protocolos, es imperativo desmantelar el mito más persistente y contraproducente de la limpieza casera: la mezcla simultánea de vinagre y bicarbonato.</p>
 <section id="la-neutralización-inútil" class="level3">
 <h3 class="anchored" data-anchor-id="la-neutralización-inútil"><strong>4.1. La Neutralización Inútil</strong></h3>
 <p>La literatura popular sugiere mezclar bicarbonato y vinagre para crear una “pasta potente”. Químicamente, esto es un error conceptual grave para la limpieza.17</p>
@@ -760,7 +786,10 @@ Este documento analiza exhaustivamente el arsenal químico disponible en el hoga
 <strong>Lejía + Alcohol</strong> | <strong>Cloroformo (<img src="https://latex.codecogs.com/png.latex?%5Cmathrm%7BCHCl_3%7D">)</strong> | Reacción del haloformo. Genera cloroformo (depresor del sistema nervioso central, cancerígeno) y ácido clorhídrico. |<br>
 <strong>Vinagre + Agua Oxigenada</strong> | <strong>Ácido Peracético</strong> | Si se mezclan en el mismo envase, forman ácido peracético. Aunque es un desinfectante, es altamente corrosivo e irritante para piel y mucosas en concentraciones domésticas incontroladas. Usar secuencialmente sobre la superficie es seguro; mezclar en botella no.2 |</div>
 <hr>
-<p><strong>5. Protocolos Avanzados de Restauración Textil: Despercudido y Blanqueo</strong></p>
+</section>
+</section>
+<section id="protocolos-avanzados-de-restauración-textil-despercudido-y-blanqueo" class="level2">
+<h2 class="anchored" data-anchor-id="protocolos-avanzados-de-restauración-textil-despercudido-y-blanqueo"><strong>5. Protocolos Avanzados de Restauración Textil: Despercudido y Blanqueo</strong></h2>
 <p>El término “percudido” (dinginess) es químicamente complejo. Es la acumulación sinérgica de tres factores:</p>
 <ol type="1">
 <li><strong>Oxidación de Sebo:</strong> Grasas corporales no lavadas que se oxidan y polimerizan, volviéndose amarillas y pegajosas (como el aceite viejo en una cocina).<br>
@@ -770,7 +799,6 @@ Este documento analiza exhaustivamente el arsenal químico disponible en el hoga
 <li><strong>Incrustación Mineral:</strong> Sales de calcio y magnesio (del agua dura) que precipitan sobre la fibra, atrapando suciedad y dando un tono grisáceo.</li>
 </ol>
 <p>Para revertir esto, necesitamos un enfoque multifacético.</p>
-</section>
 <section id="protocolo-a-restauración-de-blancos-por-oxidación-controlada-el-método-del-percarbonato" class="level3">
 <h3 class="anchored" data-anchor-id="protocolo-a-restauración-de-blancos-por-oxidación-controlada-el-método-del-percarbonato"><strong>5.1. Protocolo A: Restauración de Blancos por Oxidación Controlada (El Método del Percarbonato)</strong></h3>
 <p>Este es el método estándar de oro para recuperar ropa blanca amarillenta sin destruirla con cloro.</p>
@@ -827,9 +855,11 @@ Este documento analiza exhaustivamente el arsenal químico disponible en el hoga
 <li><strong>Mecanismo:</strong> El ácido acético disuelve los depósitos de carbonato de calcio y rompe los “jabones de cal” insolubles que atrapan la suciedad gris en las fibras, liberándolos para ser enjuagados.14</li>
 </ul>
 <hr>
-<p><strong>6. Mecanismos de Acción por Tipo de Mancha: Guía de Intuición</strong></p>
-<p>Para tratar una mancha, primero debemos diagnosticar su naturaleza química.</p>
 </section>
+</section>
+<section id="mecanismos-de-acción-por-tipo-de-mancha-guía-de-intuición" class="level2">
+<h2 class="anchored" data-anchor-id="mecanismos-de-acción-por-tipo-de-mancha-guía-de-intuición"><strong>6. Mecanismos de Acción por Tipo de Mancha: Guía de Intuición</strong></h2>
+<p>Para tratar una mancha, primero debemos diagnosticar su naturaleza química.</p>
 <section id="manchas-proteicas-sangre-huevo-fluidos-corporales" class="level3">
 <h3 class="anchored" data-anchor-id="manchas-proteicas-sangre-huevo-fluidos-corporales"><strong>6.1. Manchas Proteicas (Sangre, Huevo, Fluidos Corporales)</strong></h3>
 <p>Las proteínas son polímeros plegados tridimensionalmente.</p>
@@ -882,9 +912,11 @@ Este documento analiza exhaustivamente el arsenal químico disponible en el hoga
 <li><strong>Leche Tibia:</strong> Un remedio clásico. La leche es una emulsión de grasas y agua. Las grasas de la leche interactúan con las grasas de la tinta, mientras que el agua permite la movilidad. Es menos agresiva que el alcohol, ideal para tejidos delicados, aunque más lenta (requiere remojo prolongado).30</li>
 </ul>
 <hr>
-<p><strong>7. Restauración de Superficies Duras: Baños, Cocinas y Metales</strong></p>
-<p>Las superficies inorgánicas (azulejos, metal, piedra) presentan desafíos diferentes: porosidad y resistencia a la corrosión ácida.</p>
 </section>
+</section>
+<section id="restauración-de-superficies-duras-baños-cocinas-y-metales" class="level2">
+<h2 class="anchored" data-anchor-id="restauración-de-superficies-duras-baños-cocinas-y-metales"><strong>7. Restauración de Superficies Duras: Baños, Cocinas y Metales</strong></h2>
+<p>Las superficies inorgánicas (azulejos, metal, piedra) presentan desafíos diferentes: porosidad y resistencia a la corrosión ácida.</p>
 <section id="la-guerra-contra-el-moho-en-juntas-y-silicona" class="level3">
 <h3 class="anchored" data-anchor-id="la-guerra-contra-el-moho-en-juntas-y-silicona"><strong>7.1. La Guerra contra el Moho en Juntas y Silicona</strong></h3>
 <p>El moho (hongos) en baños no es solo una mancha superficial; es un organismo con micelio (raíces) que penetra la porosidad de la lechada y la silicona.</p>
@@ -952,9 +984,11 @@ Este documento analiza exhaustivamente el arsenal químico disponible en el hoga
 <li><strong>Por qué:</strong> El vinagre y el alcohol son completamente volátiles; se evaporan al 100% sin dejar residuos sólidos. El papel periódico (tradicionalmente) es denso y no deja pelusa, aunque la tinta moderna puede manchar marcos; un paño de microfibra es la alternativa moderna superior.43</li>
 </ul>
 <hr>
-<p><strong>8. Estudios de Caso y Soluciones Específicas</strong></p>
-<p>Para consolidar la intuición, analicemos escenarios complejos donde un solo producto no basta.</p>
 </section>
+</section>
+<section id="estudios-de-caso-y-soluciones-específicas" class="level2">
+<h2 class="anchored" data-anchor-id="estudios-de-caso-y-soluciones-específicas"><strong>8. Estudios de Caso y Soluciones Específicas</strong></h2>
+<p>Para consolidar la intuición, analicemos escenarios complejos donde un solo producto no basta.</p>
 <section id="el-caso-de-las-costras-de-desodorante" class="level3">
 <h3 class="anchored" data-anchor-id="el-caso-de-las-costras-de-desodorante"><strong>8.1. El Caso de las “Costras” de Desodorante</strong></h3>
 <p>Esa mancha dura y cerosa en las axilas de las camisas no es solo sudor; es una mezcla polimérica de sales de aluminio (del antitranspirante), proteínas del sudor y sebo, todo solidificado.</p>
@@ -1004,7 +1038,10 @@ Este documento analiza exhaustivamente el arsenal químico disponible en el hoga
 </ul></li>
 </ul>
 <hr>
-<p><strong>9. Tabla Maestra de Intuición y Solución</strong></p>
+</section>
+</section>
+<section id="tabla-maestra-de-intuición-y-solución" class="level2">
+<h2 class="anchored" data-anchor-id="tabla-maestra-de-intuición-y-solución"><strong>9. Tabla Maestra de Intuición y Solución</strong></h2>
 <p>La siguiente tabla resume los principios discutidos, sirviendo como guía rápida de toma de decisiones.</p>
 <table class="caption-top table">
 <colgroup>
@@ -1110,7 +1147,6 @@ Este documento analiza exhaustivamente el arsenal químico disponible en el hoga
 </tr>
 </tbody>
 </table>
-</section>
 </section>
 <section id="conclusión" class="level2">
 <h2 class="anchored" data-anchor-id="conclusión"><strong>10. Conclusión</strong></h2>
@@ -1259,9 +1295,11 @@ El objetivo de este análisis es dotar al lector de una intuición química robu
 </ul>
 <p>La eficacia de cualquier proceso de limpieza se puede modelar mediante el Círculo de Sinner, que postula que la limpieza depende de cuatro factores variables: <strong>Química</strong> (el agente limpiador), <strong>Temperatura</strong> (energía térmica), <strong>Tiempo</strong> (duración del contacto) y <strong>Acción Mecánica</strong> (fricción). Las soluciones caseras a menudo carecen de la potencia química agresiva de los solventes industriales, por lo que este informe enfatizará cómo compensar esa carencia optimizando las variables de tiempo y temperatura para lograr resultados equivalentes o superiores.1</p>
 <hr>
-<p><strong>2. La Química de los Agentes Limpiadores: Ingredientes Activos y Mecanismos</strong></p>
-<p>Para construir una intuición operativa sobre cuándo utilizar cada herramienta, es imperativo diseccionar los agentes químicos disponibles en el entorno doméstico según su clasificación funcional: control de pH, tensioactividad y capacidad redox.</p>
 </section>
+</section>
+<section id="la-química-de-los-agentes-limpiadores-ingredientes-activos-y-mecanismos" class="level2">
+<h2 class="anchored" data-anchor-id="la-química-de-los-agentes-limpiadores-ingredientes-activos-y-mecanismos"><strong>2. La Química de los Agentes Limpiadores: Ingredientes Activos y Mecanismos</strong></h2>
+<p>Para construir una intuición operativa sobre cuándo utilizar cada herramienta, es imperativo diseccionar los agentes químicos disponibles en el entorno doméstico según su clasificación funcional: control de pH, tensioactividad y capacidad redox.</p>
 <section id="el-ph-como-eje-rector-ácidos-y-bases" class="level3">
 <h3 class="anchored" data-anchor-id="el-ph-como-eje-rector-ácidos-y-bases"><strong>2.1. El pH como Eje Rector: Ácidos y Bases</strong></h3>
 <p>La escala de pH, que mide la concentración de iones de hidrógeno (<img src="https://latex.codecogs.com/png.latex?%5Cmathrm%7BH%5E+%7D">) en una solución acuosa, es la brújula principal para la selección de agentes de limpieza. La escala logarítmica implica que cada unidad de cambio representa una diferencia de diez veces en la concentración de iones, lo que significa que un limpiador de pH 2 es cien veces más ácido que uno de pH 4.3</p>
@@ -1301,9 +1339,11 @@ Aunque el bicarbonato es demasiado débil para saponificar completamente las gra
 <li><strong>Jabón de Castilla vs.&nbsp;Detergentes Sintéticos:</strong> El jabón tradicional (como el de Castilla) se hace mediante saponificación de grasas vegetales. Es biodegradable y suave, pero puede formar precipitados insolubles (“nata de jabón”) en agua dura (rica en calcio). Los detergentes sintéticos (como el lavavajillas líquido) están diseñados para no precipitar en agua dura, siendo generalmente más efectivos para la limpieza general en zonas de agua dura.2</li>
 </ul>
 <hr>
-<p><strong>3. Protocolos de Limpieza para Cocinas: Gestión de Lípidos y Materia Orgánica</strong></p>
-<p>La cocina presenta un desafío químico dual: la presencia de grasas polimerizadas (cochambre) y la necesidad de desinfección segura para alimentos.</p>
 </section>
+</section>
+<section id="protocolos-de-limpieza-para-cocinas-gestión-de-lípidos-y-materia-orgánica" class="level2">
+<h2 class="anchored" data-anchor-id="protocolos-de-limpieza-para-cocinas-gestión-de-lípidos-y-materia-orgánica"><strong>3. Protocolos de Limpieza para Cocinas: Gestión de Lípidos y Materia Orgánica</strong></h2>
+<p>La cocina presenta un desafío químico dual: la presencia de grasas polimerizadas (cochambre) y la necesidad de desinfección segura para alimentos.</p>
 <section id="desengrasado-profundo-campanas-extractoras-y-hornos" class="level3">
 <h3 class="anchored" data-anchor-id="desengrasado-profundo-campanas-extractoras-y-hornos"><strong>3.1. Desengrasado Profundo: Campanas Extractoras y Hornos</strong></h3>
 <p>La grasa de cocina, al exponerse al calor y al oxígeno, sufre un proceso de polimerización, transformándose en una resina pegajosa y oscura similar al barniz. Los detergentes comunes fallan porque no pueden penetrar esta matriz polimérica. Se requiere un enfoque alcalino agresivo o solvencia específica.</p>
@@ -1350,9 +1390,11 @@ Aunque el bicarbonato es demasiado débil para saponificar completamente las gra
 <li><strong>Mecanismo:</strong> La sal gruesa actúa como un abrasivo fuerte para “lijar” mecánicamente la superficie y extraer restos de comida de las grietas. El ácido cítrico del limón desinfecta y neutraliza olores (las aminas responsables del olor a pescado son básicas y se neutralizan con ácido). El bicarbonato actúa como abrasivo suave y desodorizante.17</li>
 </ol>
 <hr>
-<p><strong>4. Protocolos de Limpieza para Baños: Gestión de Depósitos Minerales y Biológicos</strong></p>
-<p>El entorno del baño se caracteriza por la presencia de incrustaciones inorgánicas (carbonato de calcio/magnesio) y contaminación biológica (moho, bacterias, biopelículas de Serratia marcescens).</p>
 </section>
+</section>
+<section id="protocolos-de-limpieza-para-baños-gestión-de-depósitos-minerales-y-biológicos" class="level2">
+<h2 class="anchored" data-anchor-id="protocolos-de-limpieza-para-baños-gestión-de-depósitos-minerales-y-biológicos"><strong>4. Protocolos de Limpieza para Baños: Gestión de Depósitos Minerales y Biológicos</strong></h2>
+<p>El entorno del baño se caracteriza por la presencia de incrustaciones inorgánicas (carbonato de calcio/magnesio) y contaminación biológica (moho, bacterias, biopelículas de Serratia marcescens).</p>
 <section id="desincrustación-de-sarro-y-cal" class="level3">
 <h3 class="anchored" data-anchor-id="desincrustación-de-sarro-y-cal"><strong>4.1. Desincrustación de Sarro y Cal</strong></h3>
 <p>El agua dura deposita minerales al evaporarse. Estos minerales forman una matriz cristalina dura que atrapa la suciedad y las bacterias.</p>
@@ -1389,9 +1431,11 @@ Aunque el bicarbonato es demasiado débil para saponificar completamente las gra
 <li><strong>Mecanismo:</strong> El ácido acético disuelve los depósitos minerales de las gotas de agua. El alcohol reduce la tensión superficial y acelera la evaporación, evitando las vetas. El uso de agua destilada es crítico para no introducir nuevos minerales en la superficie.21</li>
 </ol>
 <hr>
-<p><strong>5. Restauración de Metales: Electroquímica Aplicada y Tratamiento de Óxidos</strong></p>
-<p>La limpieza de metales difiere fundamentalmente de otras superficies: no se trata de remover suciedad externa, sino de revertir una reacción química de corrosión (oxidación) que ha alterado el propio material.</p>
 </section>
+</section>
+<section id="restauración-de-metales-electroquímica-aplicada-y-tratamiento-de-óxidos" class="level2">
+<h2 class="anchored" data-anchor-id="restauración-de-metales-electroquímica-aplicada-y-tratamiento-de-óxidos"><strong>5. Restauración de Metales: Electroquímica Aplicada y Tratamiento de Óxidos</strong></h2>
+<p>La limpieza de metales difiere fundamentalmente de otras superficies: no se trata de remover suciedad externa, sino de revertir una reacción química de corrosión (oxidación) que ha alterado el propio material.</p>
 <section id="óxido-de-hierro-herrumbre-disolución-asistida-por-electrolitos" class="level3">
 <h3 class="anchored" data-anchor-id="óxido-de-hierro-herrumbre-disolución-asistida-por-electrolitos"><strong>5.1. Óxido de Hierro (Herrumbre): Disolución Asistida por Electrolitos</strong></h3>
 <ol type="1">
@@ -1430,9 +1474,11 @@ El azufre tiene mayor afinidad química por el aluminio que por la plata. En pre
 <li><strong>Alternativa:</strong> Medio limón sumergido en sal y usado como esponja para frotar el objeto. La reacción es rápida y devuelve el brillo metálico rosado/dorado casi instantáneamente.29</li>
 </ol>
 <hr>
-<p><strong>6. Superficies Especiales: Madera, Piedra y Polímeros</strong></p>
-<p>La aplicación incorrecta de la química en materiales naturales y sintéticos puede causar daños irreversibles (quemaduras químicas, grabado, deshidratación).</p>
 </section>
+</section>
+<section id="superficies-especiales-madera-piedra-y-polímeros" class="level2">
+<h2 class="anchored" data-anchor-id="superficies-especiales-madera-piedra-y-polímeros"><strong>6. Superficies Especiales: Madera, Piedra y Polímeros</strong></h2>
+<p>La aplicación incorrecta de la química en materiales naturales y sintéticos puede causar daños irreversibles (quemaduras químicas, grabado, deshidratación).</p>
 <section id="piedra-natural-mármol-granito-travertino" class="level3">
 <h3 class="anchored" data-anchor-id="piedra-natural-mármol-granito-travertino"><strong>6.1. Piedra Natural (Mármol, Granito, Travertino)</strong></h3>
 <p>Estas piedras son químicamente alcalinas (base de carbonato de calcio).</p>
@@ -1462,9 +1508,11 @@ El azufre tiene mayor afinidad química por el aluminio que por la plata. En pre
 <h3 class="anchored" data-anchor-id="juntas-de-azulejo-y-lechada-grout"><strong>6.3. Juntas de Azulejo y Lechada (Grout)</strong></h3>
 <p>Como se mencionó en la sección de baños, las juntas son cementosas y porosas. Los limpiadores ácidos (vinagre) pueden, con el uso excesivo y a largo plazo, erosionar el cemento de la junta, haciéndola arenosa y quebradiza. Para mantenimiento regular, es preferible el bicarbonato (alcalino suave) o limpiadores de pH neutro, reservando los ácidos fuertes o la lejía solo para correcciones puntuales de manchas severas.41</p>
 <hr>
-<p><strong>7. Tecnologías Físicas: Limpieza con Vapor y Abrasión Controlada</strong></p>
-<p>Cuando la química es insuficiente o indeseable (por alergias o sensibilidad química), la física ofrece alternativas potentes.</p>
 </section>
+</section>
+<section id="tecnologías-físicas-limpieza-con-vapor-y-abrasión-controlada" class="level2">
+<h2 class="anchored" data-anchor-id="tecnologías-físicas-limpieza-con-vapor-y-abrasión-controlada"><strong>7. Tecnologías Físicas: Limpieza con Vapor y Abrasión Controlada</strong></h2>
+<p>Cuando la química es insuficiente o indeseable (por alergias o sensibilidad química), la física ofrece alternativas potentes.</p>
 <section id="limpieza-con-vapor-seco-termodinámica-de-la-desinfección" class="level3">
 <h3 class="anchored" data-anchor-id="limpieza-con-vapor-seco-termodinámica-de-la-desinfección"><strong>7.1. Limpieza con Vapor Seco: Termodinámica de la Desinfección</strong></h3>
 <p>Los limpiadores a vapor calientan agua bajo presión para producir vapor a temperaturas superiores a 100°C (típicamente 120-150°C en la boquilla).</p>
@@ -1492,9 +1540,11 @@ El azufre tiene mayor afinidad química por el aluminio que por la plata. En pre
 <li><strong>Piedra Pómez:</strong> Muy abrasiva. Útil para eliminar anillos de sarro duro dentro del inodoro (porcelana vitrificada), pero destruirá el acabado de un inodoro de plástico o una bañera de fibra de vidrio.</li>
 </ul>
 <hr>
-<p><strong>8. Toxicología y Seguridad en la Formulación Doméstica</strong></p>
-<p>El mayor riesgo en la limpieza casera no es la ineficacia, sino la toxicidad accidental. La creencia de que “natural es igual a seguro” es peligrosa.</p>
 </section>
+</section>
+<section id="toxicología-y-seguridad-en-la-formulación-doméstica" class="level2">
+<h2 class="anchored" data-anchor-id="toxicología-y-seguridad-en-la-formulación-doméstica"><strong>8. Toxicología y Seguridad en la Formulación Doméstica</strong></h2>
+<p>El mayor riesgo en la limpieza casera no es la ineficacia, sino la toxicidad accidental. La creencia de que “natural es igual a seguro” es peligrosa.</p>
 <section id="reacciones-de-fase-gaseosa-tóxica-mezclas-prohibidas" class="level3">
 <h3 class="anchored" data-anchor-id="reacciones-de-fase-gaseosa-tóxica-mezclas-prohibidas"><strong>8.1. Reacciones de Fase Gaseosa Tóxica (Mezclas Prohibidas)</strong></h3>
 <p>La mezcla arbitraria de productos de limpieza puede generar gases letales in situ.</p>
@@ -1533,9 +1583,11 @@ Genera <strong>Cloroformo (<img src="https://latex.codecogs.com/png.latex?%5Cmat
 <li><strong>Por qué funciona:</strong> La mayoría de los atascos son emulsiones de grasa solidificada y cabello. El agua hirviendo funde la grasa (cambio de fase sólido-líquido), y el detergente emulsiona esa grasa líquida para que fluya. El vinagre y bicarbonato no disuelven grasa ni cabello eficazmente.52</li>
 </ul>
 <hr>
-<p><strong>9. Matriz de Decisión y Compendio de Soluciones</strong></p>
-<p>A continuación, se presenta una síntesis operativa diseñada para la consulta rápida, clasificando los problemas comunes por su naturaleza química y prescribiendo la solución óptima basada en los principios expuestos.</p>
 </section>
+</section>
+<section id="matriz-de-decisión-y-compendio-de-soluciones" class="level2">
+<h2 class="anchored" data-anchor-id="matriz-de-decisión-y-compendio-de-soluciones"><strong>9. Matriz de Decisión y Compendio de Soluciones</strong></h2>
+<p>A continuación, se presenta una síntesis operativa diseñada para la consulta rápida, clasificando los problemas comunes por su naturaleza química y prescribiendo la solución óptima basada en los principios expuestos.</p>
 <section id="tabla-comparativa-de-soluciones-caseras-y-mecanismos" class="level3">
 <h3 class="anchored" data-anchor-id="tabla-comparativa-de-soluciones-caseras-y-mecanismos"><strong>Tabla Comparativa de Soluciones Caseras y Mecanismos</strong></h3>
 <table class="caption-top table">
