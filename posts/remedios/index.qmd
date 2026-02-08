@@ -27,7 +27,7 @@ A lo largo de este documento, exploraremos la farmacocinética de compuestos azu
 
 ---
 
-## ## **Capítulo 1: Dinámica Enzimática y Compuestos Azufrados: El Principio de Activación por Daño Tisular**
+## **Capítulo 1: Dinámica Enzimática y Compuestos Azufrados: El Principio de Activación por Daño Tisular**
 
 Uno de los conceptos más críticos en la fitoquímica aplicada es que muchos de los compuestos medicinales más potentes no existen en la planta viva en su forma activa. Las plantas han evolucionado mecanismos de defensa "binarios" en los que un precursor inerte y una enzima activadora se almacenan en compartimentos celulares separados (vacuolas y citoplasma). Solo cuando el tejido de la planta sufre un trauma físico—masticación por un herbívoro o corte con un cuchillo—se rompen estas barreras, permitiendo que la enzima y el sustrato se mezclen. Esta reacción química instantánea genera el compuesto defensivo, que a menudo es la molécula terapéutica que buscamos.1
 
@@ -68,7 +68,7 @@ Para restaurar la potencia farmacológica del brócoli cocido, existen dos estra
 
 ---
 
-## ## **Capítulo 2: Biodisponibilidad y Sinergia Metabólica: Superando la Eliminación Hepática**
+## **Capítulo 2: Biodisponibilidad y Sinergia Metabólica: Superando la Eliminación Hepática**
 
 La eficacia clínica de un compuesto no depende solo de cuánto se ingiere, sino de cuánto llega a la circulación sistémica y a los tejidos diana. Muchos fitocompuestos potentes *in vitro* fallan *in vivo* debido a una pobre absorción o un metabolismo de eliminación rápido.
 
@@ -100,7 +100,7 @@ La vitamina C (ácido ascórbico) no solo mejora la absorción; es un interrupto
 
 ---
 
-## ## **Capítulo 3: Termodinámica Fitoquímica: El Calor como Interruptor Molecular**
+## **Capítulo 3: Termodinámica Fitoquímica: El Calor como Interruptor Molecular**
 
 La aplicación de calor es una herramienta de doble filo en la preparación de remedios. Puede destruir enzimas vitales o, inversamente, catalizar reacciones de deshidratación que potencian la actividad farmacológica.
 
@@ -131,7 +131,7 @@ La glucosa oxidasa es particularmente relevante; en presencia de agua (cuando la
 
 ---
 
-## ## **Capítulo 4: Fermentación y Biotransformación**
+## **Capítulo 4: Fermentación y Biotransformación**
 
 La fermentación controlada utiliza microorganismos para predigerir compuestos complejos, aumentar la biodisponibilidad y generar nuevos metabolitos postbióticos.
 
