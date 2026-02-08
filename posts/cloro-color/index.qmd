@@ -1,0 +1,243 @@
+---
+title: "ELI10: qué es el cloro de color y cuáles comprar en Medellín y Bogotá"
+author: "GPT-5"
+date: "2026-06-27"
+categories: [limpieza, ropa, compras, química]
+---
+
+# Qué es el cloro de color
+
+“Cloro de color” es una frase confusa. Suena a cloro que no destiñe, pero en el comercio suele ser un nombre para quitamanchas sin hipoclorito; no es una categoría química única:
+
+> No asumas el activo por el nombre: confirma en la etiqueta si es percarbonato, peróxido u otra formulación sin hipoclorito.
+
+El cloro real de casa suele ser **hipoclorito de sodio**. Es un oxidante fuerte y sus usos dependen de concentración, etiqueta y superficie. Los productos vendidos como “para color” pueden usar **peróxido de hidrógeno**, **percarbonato de sodio**, activadores, enzimas o mezclas de tensioactivos. Suelen ser menos agresivos con colores estables que el hipoclorito, pero no son inocuos.
+
+ELI10:
+
+> El cloro normal es como borrar con lija.
+>
+> El cloro de color es como usar un borrador más suave que intenta atacar la mancha sin borrar tanto el dibujo.
+
+## Por qué puede funcionar sin desteñir tanto
+
+Muchas manchas tienen color porque sus moléculas tienen “cromóforos”: partes que absorben luz visible. Los oxidantes con oxígeno activo rompen o cambian esos cromóforos, y la mancha se ve menos.
+
+Los tintes de la ropa también tienen cromóforos. Por eso ningún “cloro de color” es magia 100% segura. La diferencia es que el oxígeno activo suele ser menos agresivo que el hipoclorito y se formula para ropa lavable de color.
+
+La American Cleaning Institute explica que los blanqueadores con oxígeno, como peróxido de hidrógeno y percarbonato, se usan para remover manchas y blanquear de manera más compatible con color que el blanqueador con cloro, según etiqueta y tela.[^aci-bleach]
+
+## Cloro real vs cloro de color
+
+| Producto | Activo típico | Mejor para | Riesgo |
+|---|---|---|---|
+| Cloro doméstico / hipoclorito | Hipoclorito de sodio | Desinfectar superficies, algodón blanco resistente | Destiñe, daña elastano, lana/seda, mezcla peligrosa con ácidos/amoniaco |
+| Quitamanchas color líquido | A menudo peróxido, tensioactivos o enzimas; confirmar SKU | Ropa de color lavable, si la etiqueta lo permite | Puede aclarar tintes inestables |
+| Quitamanchas color en polvo | A menudo percarbonato + activadores/surfactantes; confirmar SKU | Blancos/color resistentes, remojos, manchas orgánicas | Más alcalino; cuidado con delicados |
+| Quitamanchas color con enzimas | Oxígeno activo + enzimas/surfactantes | Comida, sudor, grasa, manchas mixtas | Depende de pH, tiempo, colorfastness |
+
+## Qué debe tener uno bueno
+
+### 1. Decir “sin cloro” o “seguro para color”
+
+Debe dejar claro que no es hipoclorito. Si dice hipoclorito de sodio, no es “cloro de color” para ropa de color.
+
+### 2. Oxígeno activo real
+
+Busca:
+
+- Peróxido de hidrógeno.
+- Percarbonato de sodio.
+- “Oxígeno activo”.
+- “Oxi”.
+
+### 3. Instrucciones de pretratamiento y remojo
+
+Un buen producto explica dosis, tiempo máximo y si se puede aplicar directo. Si no dice cuánto tiempo dejarlo, mala señal.
+
+### 4. Compatibilidad con color
+
+Debe pedir prueba en zona escondida. Eso no es debilidad: es honestidad química.
+
+### 5. Surfactantes o enzimas, si quieres antimanchas completo
+
+Oxígeno activo ayuda con color de la mancha, pero no siempre remueve grasa/proteína. Un producto mejor puede traer surfactantes y enzimas para manchas mixtas.
+
+### 6. Envase y estabilidad
+
+Si es líquido con peróxido, necesita envase que proteja estabilidad. Si es polvo, debe mantenerse seco. Un polvo apelmazado o húmedo ya perdió parte de gracia.
+
+### 7. No prometer desinfección universal
+
+Ropa “sin manchas” no equivale a ropa desinfectada. Si el producto promete desinfección, debe explicar activo, dosis y tiempo.
+
+## Cuándo sirve
+
+| Mancha | ¿Cloro de color ayuda? | Comentario |
+|---|---:|---|
+| Café / té | Sí | Muy buen caso para oxígeno activo. |
+| Vino / fruta | Sí | Mejor si se trata rápido. |
+| Sudor amarillo | Sí, a veces | Mejor con detergente; si hay desodorante mineral, puede necesitar ácido antes. |
+| Salsa / comida | Sí, si trae surfactantes/enzimas | Oxígeno solo no siempre basta. |
+| Grasa | Poco solo | Primero lavaplatos/detergente, luego oxígeno si queda halo. |
+| Sangre | Con cuidado | Agua fría primero; peróxido puede ayudar, pero prueba color. |
+| Óxido | No | Usar ácido cítrico/removedor de óxido. |
+| Tinte transferido | Depende | Puede empeorar si el tinte es inestable. |
+| Moho superficial | Sí en telas compatibles | Si está profundo, no hay milagro. |
+
+## Cómo usarlo sin dañar color
+
+1. Haz prueba en costura interna.
+2. No uses agua muy caliente en colores.
+3. No excedas tiempo de remojo.
+4. No dejes secar el producto sobre la tela.
+5. No lo mezcles con cloro real.
+6. Lava y enjuaga después.
+7. No lo uses en lana, seda, cuero o prendas “solo lavado en seco”.
+
+## Mezclas peligrosas
+
+No mezclar:
+
+- Cloro/hipoclorito + vinagre/limón/ácido cítrico.
+- Cloro/hipoclorito + amoniaco.
+- Cloro/hipoclorito + alcohol.
+- Cloro/hipoclorito + quitamanchas oxigenado.
+
+El Departamento de Salud de Washington advierte que mezclar hipoclorito con ácidos o amoniaco puede producir gases peligrosos.[^washington-bleach] Poison Control también recomienda no mezclar limpiadores domésticos.[^poison-mixing]
+
+## Checklist de compra
+
+| Criterio | Puntos |
+|---|---:|
+| Dice sin cloro / apto para color | 3 |
+| Declara oxígeno activo, peróxido o percarbonato | 3 |
+| Tiene instrucciones claras de dosis y tiempo | 2 |
+| Incluye surfactantes o enzimas | 2 |
+| Marca/ficha confiable y fácil de conseguir | 2 |
+| Envase estable y fecha vigente | 1 |
+| Advierte prueba en zona oculta | 1 |
+
+No convierto esta lista en un puntaje fijo: sin composición completa y ensayo comparable, un número daría falsa precisión. La checklist sirve para excluir productos opacos, no para declarar un ganador.
+
+## Recomendaciones en Medellín y Bogotá
+
+La disponibilidad exacta cambia por barrio y supermercado, pero estas opciones suelen encontrarse en grandes superficies, droguerías, tiendas de cadena y marketplace en Colombia. Consultado el 27 de junio de 2026.
+
+### 1. Vanish Oxi Action para color
+
+**Veredicto:** candidato verificable, no ganador universal.
+
+**Por qué pasa la checklist:**
+
+- Línea Oxi/oxígeno activo.
+- Versiones para color.
+- Buenas instrucciones de pretratamiento/remojado para el SKU consultado.
+- El fabricante declara percarbonato, TAED, enzimas y tensioactivos en la presentación en polvo consultada.[^vanish-colombia]
+- La disponibilidad cambia por presentación y tienda; los enlaces de retail son una fotografía, no una garantía.
+
+**Mejor para:** café, té, vino, sudor, manchas orgánicas, ropa de color lavable.
+
+**Cuidado:** no asumir que sirve para lana/seda. Hacer prueba en colores fuertes.
+
+### 2. Clorox Ropa Color / quitamanchas sin cloro
+
+**Veredicto:** opción a comparar por etiqueta, no por la marca.
+
+**Por qué pasa la checklist:**
+
+- Marca de blanqueadores con línea específica para ropa color.
+- Confirmar en el envase que la referencia sea para ropa de color y sin hipoclorito.
+- El formato líquido puede ser cómodo para pretratar, pero el desempeño depende del activo y la dosis.
+
+**Mejor para:** manchas diarias, ropa de color lavable, pretratamiento rápido.
+
+**Cuidado:** revisar que la etiqueta diga ropa color/sin cloro. Clorox también vende hipoclorito real; no confundir envases.
+
+**Dónde buscar:** Éxito, Jumbo, Olímpica, droguerías y Mercado Libre. En Bogotá y Medellín la disponibilidad suele ser mejor por densidad de tiendas.
+
+### 3. Blancox Ropa Color / Blancox quitamanchas color
+
+**Veredicto:** candidato local práctico, revisar SKU y etiqueta.
+
+**Por qué podría pasar:**
+
+- Marca muy disponible en Colombia.
+- Tiene productos de lavandería y variantes para ropa/color.
+- Suele ser más fácil de encontrar en supermercados y tiendas de barrio.
+
+**Mejor para:** uso cotidiano si el precio es bueno y la etiqueta confirma sin cloro/oxígeno activo.
+
+**Cuidado:** Blancox también vende hipoclorito tradicional. Para ropa de color necesitas la línea específica, no “blancox” genérico.
+
+### 4. Marcas propias de supermercado tipo “Oxi color”
+
+**Veredicto:** buena compra si la etiqueta es clara.
+
+**Checklist mínimo:**
+
+- Sin cloro.
+- Oxígeno activo/percarbonato/peróxido.
+- Apto para color.
+- Tiempo máximo de remojo.
+- Advertencia de prueba de color.
+
+**Mejor para:** presupuesto ajustado.
+
+**Cuidado:** si solo dice “blanqueador” y no explica activo, no lo compraría para ropa de color.
+
+## Medellín vs Bogotá
+
+No cambia la química; cambia la facilidad de compra.
+
+**Medellín:** buscaría primero Éxito/Carulla, Jumbo, Olímpica, Alkosto, droguerías y Mercado Libre. Si compras en tienda química, pedir explícitamente percarbonato/oxígeno activo y no hipoclorito.
+
+**Bogotá:** además de esos canales, suele haber más disponibilidad en Homecenter, Pricesmart/clubes, tiendas de aseo institucional y marketplaces con entrega rápida.
+
+La recomendación práctica en ambas, siempre verificando la presentación exacta:
+
+1. Producto cuya etiqueta declare activo, dosis y tiempo de contacto.
+2. Producto que indique claramente compatibilidad con color y prueba previa.
+3. Producto con fabricante y rotulado verificables en Colombia.
+4. Solo después, comparar precio por uso y disponibilidad.
+
+## Qué no comprar para ropa de color
+
+- Hipoclorito común, aunque diga “ropa” si no especifica color.
+- Cloro perfumado.
+- Blanqueador para baño.
+- Producto sin ingredientes ni instrucciones.
+- Producto que diga “no usar en ropa de color” en letra pequeña.
+
+## Protocolo base
+
+Para mancha en ropa de color:
+
+1. Retira exceso.
+2. Prueba el producto en zona escondida.
+3. Aplica según etiqueta, poco tiempo.
+4. No dejes secar.
+5. Lava con detergente.
+6. Revisa antes de meter a secadora: el calor fija manchas.
+
+## La regla final
+
+El “cloro de color” bueno no es cloro. Es oxígeno activo con instrucciones claras.
+
+ELI10:
+
+> Cloro normal: borra fuerte y puede borrar la ropa.
+>
+> Cloro de color: oxida manchas intentando respetar tintes estables.
+>
+> Buen producto: sin cloro, oxígeno activo, dosis clara, prueba de color y buena disponibilidad.
+
+## Fuentes consultadas
+
+[^aci-bleach]: American Cleaning Institute. “Bleaches.” Consultado el 27 de junio de 2026. <https://www.cleaninginstitute.org/cleaning-tips/clothes/bleaches>
+
+[^washington-bleach]: Washington State Department of Health. “Dangers of Mixing Bleach with Cleaners.” Consultado el 27 de junio de 2026. <https://doh.wa.gov/community-and-environment/contaminants/bleach-mixing-dangers>
+
+[^poison-mixing]: Poison Control. “Top tips for a safe spring cleaning.” Consultado el 27 de junio de 2026. <https://www.poison.org/articles/spring-cleaning>
+
+[^vanish-colombia]: Vanish Colombia. “Desmanchador Oxi Action Polvo Rosa.” Consultado el 12 de julio de 2026. <https://www.vanish.com.co/productos/polvos/desmanchador-oxi-action-polvo-rosa/>

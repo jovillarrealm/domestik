@@ -1,0 +1,486 @@
+---
+title: "ELI10: cuándo la luz UV ayuda o empeora manchas con químicos domésticos"
+author: "GPT-5"
+date: "2026-06-27"
+categories: [limpieza, ropa, química]
+---
+
+# ELI10: luz UV, manchas y químicos domésticos
+
+La luz del sol parece magia doméstica: uno pone una camiseta al sol y a veces sale más blanca. Pero otras veces sale desteñida, amarilla, tiesa o con la mancha más rara.
+
+La explicación ELI10:
+
+> La luz UV es como una tijera de energía. Puede cortar moléculas de color, pero también puede cortar tintes buenos y fibras.
+
+Entonces la pregunta no es “¿el sol ayuda?”, sino:
+
+> ¿Qué molécula quiero romper: la mancha o la ropa?
+
+## Luz UV no es lo mismo que calor
+
+Cuando pones ropa al sol pasan tres cosas al mismo tiempo:
+
+1. **Luz UV:** energía que puede romper moléculas.
+2. **Oxígeno del aire:** participa en oxidaciones.
+3. **Calor y secado:** evapora agua y concentra químicos.
+
+Esta diferencia importa. Muchas veces no fue “el UV” el que dañó algo, sino el químico secándose concentrado sobre la tela, o el calor fijando una mancha.
+
+## Regla rápida
+
+| Situación | ¿El UV ayuda? | Por qué |
+|---|---|---|
+| Algodón blanco con mancha orgánica clara | Sí, con cuidado | UV + oxígeno/peróxido puede romper cromóforos. |
+| Ropa de color | Riesgo alto | El UV también rompe tintes buenos. |
+| Ropa negra | Casi nunca | Destiñe y envejece la fibra. |
+| Lana, seda, elastano | Mejor evitar | UV + oxidantes dañan fibras delicadas. |
+| Mancha de grasa fresca | No es lo principal | Primero surfactante/lavaplatos; UV puede oxidar grasa y amarillear. |
+| Sangre, huevo, leche | No empezar con sol/calor | El calor puede fijar proteínas. |
+| Óxido/minerales | UV casi no importa | Lo importante es ácido/quelante, no luz. |
+
+## Mapa de químicos domésticos + UV
+
+Esta es la tabla grande. No reemplaza la etiqueta del producto, pero sirve para pensar.
+
+| Químico o mezcla | Qué hace sin UV | Qué cambia con sol/UV | Cuándo puede ayudar | Cuándo puede empeorar |
+|---|---|---|---|---|
+| **Percarbonato de sodio** | Libera peróxido + carbonato; oxida manchas y trabaja alcalino | UV puede acelerar oxidación | Blancos resistentes con café, té, vino, sudor, moho superficial | Colores, elastano, lana/seda, grasa fresca, químico seco sobre tela |
+| **Agua oxigenada** | Oxidante suave/moderado según concentración | La luz acelera su descomposición y puede aumentar fotoblanqueo | Manchas orgánicas en blanco, sangre en telas compatibles | Destiñe colores, debilita fibras si se deja secar o se concentra |
+| **Ácido cítrico / limón** | Acidifica y quela minerales/metales | UV no es esencial; puede sumar fotoblanqueo leve | Óxido leve, sales de desodorante, manchas amarillas minerales en blanco | Halos en color, fibra debilitada si se seca ácido, fotosensibilización de compuestos vegetales |
+| **Vinagre / ácido acético** | Disuelve minerales, neutraliza alcalinidad | UV aporta poco; el secado concentra ácido | Sarro/mineral en superficies o textiles resistentes | Piedra natural, colores, elásticos, uso largo sobre algodón |
+| **Bicarbonato de sodio** | Alcalino suave, abrasivo leve, desodoriza | UV casi no cambia su química | Olores, pasta suave, pretratamiento alcalino leve | Residuo blanco, tela tiesa, no blanquea por sí mismo |
+| **Carbonato de sodio** | Alcalino fuerte para grasa/suciedad | Sol seca y concentra alcalinidad | Algodón blanco resistente, ropa muy sucia | Lana/seda, colores, elastano, piel sensible si mal enjuagado |
+| **Detergente enzimático** | Enzimas cortan proteínas/grasas/almidones | Calor/UV pueden desactivar enzimas si se deja al sol | Usar primero en sombra; luego sol después de enjuagar | Poner la prenda enjabonada al sol esperando que las enzimas trabajen mejor |
+| **Lavaplatos líquido** | Surfactantes desengrasantes | UV no ayuda a emulsificar; calor puede oxidar grasa | Pretratar grasa puntual antes de lavar | Dejar grasa + jabón al sol: halos, oxidación, residuo |
+| **Cloro / hipoclorito** | Oxidante muy fuerte y desinfectante | Sol/calor aceleran degradación y daño textil | Superficies compatibles, siguiendo etiqueta; rara vez como truco de manchas | Ropa de color, elastano, lana/seda, mezcla con ácidos/amoniaco, exposición larga |
+| **Alcohol etílico/isopropílico** | Solvente para tinta, resina, grasa ligera | Evapora más rápido; es inflamable | Tinta/pegante con ventilación, lejos de llama/sol fuerte | Usarlo al sol o cerca de calor; puede fijar o expandir tintas si no se absorbe |
+| **Amonios cuaternarios** | Desinfectantes catiónicos de superficies | UV no los vuelve quitamanchas | Desinfectar superficies ya limpias, según etiqueta | Mezclar con detergentes aniónicos, usar sobre ropa/manchas, superficies con comida sin enjuague indicado |
+| **Sal** | Absorbe agua, aporta abrasión/iones | UV casi no importa | Mancha fresca de vino como extracción física; óxido con ácido | Puede fijar o corroer si se deja, no es blanqueador |
+
+La idea corta: **UV potencia oxidaciones y fotodegradación**. Eso es bueno si quieres romper una mancha orgánica en tela blanca; malo si rompe tinte, elastano, lana, seda o grasa oxidándose a amarillo.
+
+## Percarbonato de sodio + UV
+
+El percarbonato de sodio es un polvo que en agua libera dos cosas:
+
+- **Carbonato de sodio:** alcalino, ayuda con grasa y suciedad.
+- **Peróxido de hidrógeno:** oxidante, ayuda con manchas coloreadas.
+
+La OECD describe el percarbonato como un compuesto que se disuelve en agua liberando carbonato de sodio y peróxido de hidrógeno.[^oecd-percarbonate]
+
+El peróxido puede romper moléculas coloreadas. La luz UV puede acelerar esa ruptura porque ayuda a formar especies reactivas de oxígeno. ELI10: el percarbonato trae tijeras químicas, y el UV les pone turbo.
+
+### Cuándo ayuda
+
+**Ayuda más cuando se cumplen estas condiciones:**
+
+- Tela blanca o muy clara.
+- Fibra resistente: algodón o lino.
+- Mancha orgánica: café, té, vino, sudor oxidado, fruta, moho superficial, olor de toalla.
+- La prenda está mojada, no seca.
+- El químico está diluido, no en pasta concentrada secándose.
+- Tiempo controlado: minutos a pocas horas, no días.
+- Luego hay enjuague/lavado.
+
+Ejemplo sensato:
+
+1. Disolver percarbonato en agua tibia.
+2. Remojar la prenda blanca.
+3. Si quieres usar sol, ponerla húmeda al sol un rato, vigilando.
+4. No dejar que se seque como cartón con percarbonato encima.
+5. Lavar y enjuagar bien.
+
+### Cuándo empeora
+
+Puede empeorar cuando:
+
+- La prenda tiene color: destiñe o deja halos.
+- La mancha es grasa: el UV puede oxidar aceites y volverlos amarillos/pegajosos.
+- Hay elastano: oxidantes + UV + calor envejecen el caucho/elástico.
+- Es lana o seda: las fibras proteicas sufren.
+- Hay metales en la mancha o agua: hierro/cobre pueden catalizar oxidaciones raras.
+- Se seca el químico sobre la tela: queda una zona concentrada que puede debilitar fibra.
+
+La investigación en textiles muestra que la luz puede fotodegradar tintes y fibras; por eso el sol también es responsable del desteñido de ropa y materiales teñidos.[^textile-photodegradation]
+
+## Ácido cítrico + UV
+
+El ácido cítrico es el ácido del limón. Sirve sobre todo para:
+
+- Disolver minerales.
+- Quelar metales como calcio, magnesio o hierro.
+- Cambiar el pH de algunas manchas.
+- Ayudar con ciertos amarillos/minerales asociados a sudor o desodorante.
+
+ELI10: el ácido cítrico no es tanto una tijera. Es más como una pinza que agarra minerales.
+
+### Cuándo ayuda
+
+Ayuda más cuando la mancha tiene componente mineral o metálico:
+
+- Óxido leve.
+- Sales de desodorante.
+- Sarro o agua dura en telas resistentes.
+- Amarilleo donde hay sudor + desodorante + minerales.
+
+El UV no es el actor principal en esos casos. El ácido cítrico trabaja aunque estés en sombra. El sol puede ayudar a secar y a aportar algo de fotoblanqueo en blancos, pero no necesitas UV para que el citrato agarre metales.
+
+Ejemplo sensato para axilas amarillas en camiseta blanca resistente:
+
+1. Humedecer la zona.
+2. Aplicar solución diluida de ácido cítrico o jugo de limón.
+3. Esperar poco tiempo: 10-30 minutos.
+4. Enjuagar.
+5. Lavar con detergente.
+6. Si sigue amarilla y la tela lo permite, usar percarbonato en un paso separado.
+
+### Cuándo empeora
+
+Puede empeorar cuando:
+
+- Lo aplicas en ropa de color y la pones al sol: puede dejar halos.
+- Lo dejas secar sobre algodón por horas: el ácido concentrado puede debilitar fibra.
+- Lo usas sobre lana/seda: las fibras delicadas no aman los extremos de pH.
+- Lo mezclas directo con percarbonato esperando “más poder”: el ácido neutraliza parte del carbonato y cambia el pH que el percarbonato necesita para trabajar bien.
+- Lo usas sobre manchas proteicas con calor: no resuelve el problema principal.
+
+ELI10: ácido cítrico + sol en ropa de color es como usar borrador en un dibujo que sí querías conservar.
+
+## ¿Puedo mezclar ácido cítrico y percarbonato?
+
+Mejor no como mezcla “todo en uno”.
+
+Químicamente pasa esto:
+
+- El percarbonato quiere un ambiente alcalino para trabajar bien en lavandería.
+- El ácido cítrico baja el pH.
+- El ácido puede consumir carbonato y liberar burbujas de CO2.
+- También puede acelerar descomposición del peróxido según condiciones.
+
+No necesariamente es una bomba en un recipiente abierto, pero suele ser mala estrategia: gastas parte de los ingredientes peleando entre ellos.
+
+Mejor usar por pasos:
+
+1. **Ácido cítrico** para minerales/desodorante/óxido leve.
+2. Enjuagar.
+3. **Percarbonato** para mancha orgánica/color/olor.
+4. Lavar normal.
+
+## Agua oxigenada + UV
+
+El agua oxigenada es peróxido de hidrógeno en botella. Es prima química de lo que libera el percarbonato, pero ya viene en líquido y normalmente en concentración baja para uso doméstico.
+
+Con luz, el peróxido se descompone más rápido. Eso puede ayudar al blanqueo porque aparecen especies reactivas que atacan cromóforos, las partes de la molécula que dan color. Pero también significa que se gasta más rápido y puede atacar lo que no querías.
+
+### Cuándo ayuda
+
+- Algodón blanco.
+- Manchas orgánicas: sangre, café, té, fruta, sudor.
+- Tratamiento corto, húmedo y con enjuague posterior.
+- Prueba previa si hay costuras, estampados o hilos de color.
+
+### Cuándo empeora
+
+- Ropa de color: puede dejar manchas más claras.
+- Telas delicadas: lana, seda, encaje, elastano.
+- Si se deja secar al sol: el peróxido se concentra localmente antes de descomponerse.
+- Si hay metales: hierro o cobre pueden acelerar reacciones y crear halos.
+
+Regla: agua oxigenada en blanco resistente puede ser amiga; en color es ruleta.
+
+## Cloro / hipoclorito + UV
+
+El cloro doméstico, normalmente hipoclorito de sodio, es un oxidante fuerte. Ya es agresivo sin sol. Con sol, calor y tiempo, aumenta el riesgo de degradar fibras, amarillear ciertos materiales y destruir tintes.
+
+ELI10: si el percarbonato es una tijera, el cloro es una podadora eléctrica. Sirve en algunos materiales, pero no se usa jugando.
+
+### Cuándo puede servir
+
+- Superficies duras compatibles.
+- Desinfección o blanqueo según etiqueta.
+- Algodón blanco muy resistente, con mucha cautela y dilución correcta.
+
+### Cuándo NO
+
+- Ropa de color.
+- Ropa con elastano.
+- Lana, seda, cuero.
+- Manchas de óxido: puede empeorarlas o amarillear.
+- Mezclado con otros productos.
+
+El Departamento de Salud de Washington advierte contra mezclar hipoclorito con ácidos o amoniaco porque puede liberar gases peligrosos.[^washington-bleach] Poison Control también resume la regla doméstica: no mezclar limpiadores, especialmente productos con cloro, ácidos, amoniaco o alcoholes.[^poison-mixing]
+
+## Vinagre / ácido acético + UV
+
+El vinagre funciona parecido al ácido cítrico, pero sin tanta capacidad quelante. Es útil para minerales: sarro, residuos alcalinos, algo de jabón cálcico.
+
+La luz UV no es su superpoder. Si funciona, casi siempre funciona por pH ácido, no por sol.
+
+### Cuándo ayuda
+
+- Residuos minerales.
+- Toallas ásperas por exceso de detergente/minerales, usando un ciclo separado.
+- Algunas manchas de desodorante con sales.
+
+### Cuándo empeora
+
+- Ropa de color al sol: halos.
+- Algodón con ácido secándose por horas.
+- Piedra natural: mármol, travertino, caliza.
+- Mezclado con cloro: no.
+
+Regla: vinagre/ácido primero para mineral; enjuague; después detergente u oxidante si hace falta.
+
+## Bicarbonato, carbonato y sol
+
+El bicarbonato no se vuelve blanqueador por ponerlo al sol. Es una base suave, desodoriza, ayuda como abrasivo leve y puede neutralizar olores ácidos.
+
+El carbonato de sodio es más alcalino. Es más útil para grasa y ropa muy sucia, pero también más capaz de maltratar fibras delicadas.
+
+### Cuándo ayuda
+
+- Olores ácidos.
+- Grasa ligera si se combina con detergente.
+- Algodón blanco resistente.
+- Pastas de limpieza donde lo importante es abrasión suave, no UV.
+
+### Cuándo empeora
+
+- Si se deja secar: residuo blanco y tela tiesa.
+- Lana/seda: pH alto las maltrata.
+- Colores delicados: puede opacar.
+- Mezclado con vinagre como “volcán limpiador”: se neutralizan y pierdes las ventajas separadas.
+
+ELI10: bicarbonato + sol no es láser blanqueador. Es polvo alcalino secándose.
+
+## Detergente enzimático + UV
+
+Las enzimas trabajan mejor con agua, tiempo, temperatura moderada y pH de la fórmula. No trabajan mejor porque les dé sol directo. De hecho, calor excesivo y luz pueden desactivarlas.
+
+### Buen uso
+
+1. Tratar la mancha con detergente enzimático en sombra.
+2. Dejar actuar 15-60 minutos según prenda y producto.
+3. Lavar.
+4. Si la prenda es blanca y resistente, secar al sol después del enjuague.
+
+### Mal uso
+
+Poner una prenda enjabonada al sol por horas esperando que “las enzimas se activen”. Lo más probable es que el agua se evapore, el detergente se concentre, la mancha quede con halo y la enzima pierda gracia.
+
+Regla: enzimas antes; sol después, si conviene.
+
+## Lavaplatos + UV
+
+El lavaplatos sirve para grasa porque trae surfactantes desengrasantes. El UV no emulsifica grasa. De hecho, puede oxidar aceites y volverlos más amarillos, rancios o pegajosos.
+
+Buen uso:
+
+1. Gota de lavaplatos sobre mancha de aceite.
+2. Masaje suave.
+3. Esperar.
+4. Lavar con detergente de ropa.
+
+Mal uso:
+
+- Echar lavaplatos y poner al sol.
+- Dejar grasa medio tratada al sol.
+- Usarlo como detergente de lavadora.
+
+Regla: grasa primero se emulsifica; solo después, si queda color en blanco resistente, se piensa en oxidante/sol.
+
+## Alcohol + UV
+
+Alcohol etílico o isopropílico sirve como solvente para tinta, marcadores, resinas, perfumes, pegantes y algunas grasas ligeras.
+
+El sol no mejora esa química. Más bien evapora el alcohol rápido y aumenta riesgo de inflamabilidad si hay calor, llama, chispa o mala ventilación.
+
+Buen uso:
+
+- Trabajar en sombra y ventilado.
+- Poner paño absorbente debajo de la mancha.
+- Aplicar poco alcohol y transferir la tinta al paño.
+- Lavar después.
+
+Mal uso:
+
+- Rociar alcohol y poner al sol.
+- Usarlo cerca de cocina, velas, secadora o plancha.
+- Frotar tinta sin paño absorbente: puede expandirla.
+
+## Amonios cuaternarios + UV
+
+Los amonios cuaternarios son desinfectantes catiónicos para superficies. No son quitamanchas de ropa. El CDC describe que actúan dañando membranas y proteínas microbianas, pero su actividad puede verse afectada por materia orgánica, dureza del agua y algunos materiales.[^cdc-quats]
+
+La luz UV no los convierte en blanqueadores. Si quieres desinfectar una superficie, primero limpias la mugre, luego usas el desinfectante según etiqueta y respetas tiempo de contacto.
+
+No los mezcles con detergentes aniónicos o jabones sin enjuagar, porque pueden inactivarse parcialmente.
+
+## Mezclas comunes: usar por pasos, no como coctel
+
+| Mezcla | ¿Sirve con UV? | Veredicto |
+|---|---|---|
+| Percarbonato + sol | Sí, en blancos resistentes | Útil si está diluido, húmedo y con tiempo controlado. |
+| Agua oxigenada + sol | Sí, con cautela | Similar: blancos resistentes, no colores. |
+| Limón/ácido cítrico + sol | A veces | Útil en blancos con mineral/amarillo leve; riesgo de halos. |
+| Vinagre + sol | Poco | El ácido trabaja sin UV; cuidado con secado ácido. |
+| Bicarbonato + sol | Casi nada | No blanquea por UV; puede dejar residuo. |
+| Detergente enzimático + sol | Mejor por separado | Enzimas primero en sombra, sol después de enjuagar. |
+| Lavaplatos + sol | No | Tratar grasa en sombra y lavar. |
+| Alcohol + sol | No | Inflamabilidad y evaporación rápida. |
+| Cloro + sol | Riesgoso | Oxidante fuerte; seguir etiqueta, no “potenciar”. |
+| Cloro + vinagre/limón/ácido cítrico | Peligroso | Puede liberar cloro gaseoso. |
+| Cloro + amoniaco | Peligroso | Puede liberar cloraminas. |
+| Vinagre + agua oxigenada en botella | No | Puede formar ácido peracético irritante; no almacenar mezclas. |
+| Amonio cuaternario + jabón/detergente aniónico | Mala idea | Puede inactivarse; limpiar, enjuagar, desinfectar. |
+
+## Tipos de manchas y luz UV
+
+| Mancha | UV ayuda | Mejor primera herramienta | Comentario |
+|---|---:|---|---|
+| Café / té | Sí en blanco | Percarbonato | Son manchas con moléculas coloreadas oxidables. |
+| Vino / frutos rojos | Sí en blanco | Enjuague rápido + percarbonato | En color, cuidado con halos. |
+| Sudor amarillo | A veces | Detergente + percarbonato; ácido cítrico si hay desodorante/mineral | Puede ser mezcla de grasa, proteína, sales y metal. |
+| Desodorante duro | UV no es clave | Ácido cítrico/vinagre diluido, luego detergente | Primero romper sales/minerales. |
+| Grasa / aceite | Puede empeorar | Lavaplatos o detergente sobre mancha | UV oxida grasa y puede amarillear. |
+| Sangre | No al inicio | Agua fría + enzimas/peróxido según tela | Calor fija proteína. |
+| Moho superficial | Sí en blanco | Percarbonato + lavado + sol | Si está dentro de silicona/fibra, no hay milagro. |
+| Óxido | No es clave | Ácido cítrico | La química importante es quelación/disolución. |
+| Tinte transferido | Riesgo | Removedor adecuado/color-safe | UV puede fijar daño o decolorar alrededor. |
+
+## El caso limón + sol
+
+El truco de limón al sol tiene algo de sentido, pero no es universal.
+
+Puede funcionar en:
+
+- Tela blanca.
+- Algodón resistente.
+- Mancha vegetal o amarilla leve.
+- Exposición corta.
+- Buen enjuague posterior.
+
+Puede salir mal en:
+
+- Ropa de color.
+- Tela delicada.
+- Exposición larga.
+- Ácido secándose al sol.
+- Manchas con grasa no removida.
+
+Además, limón no es solo ácido cítrico puro: tiene otros compuestos vegetales. En piel humana algunos cítricos pueden causar fotosensibilidad; en ropa el problema no es el mismo, pero la idea general sirve: luz + compuestos vegetales + superficie puede producir reacciones inesperadas.[^furocoumarins]
+
+## Protocolos ELI10
+
+### Para camiseta blanca con mancha de café
+
+1. Enjuaga la mancha si está fresca.
+2. Remoja en percarbonato diluido.
+3. Sol corto si quieres potenciar, manteniendo húmedo.
+4. Lava normal.
+5. No uses cloro encima ni mezcles químicos.
+
+### Para axilas amarillas con costra de desodorante
+
+1. Ácido cítrico diluido 10-30 minutos.
+2. Enjuague.
+3. Detergente o lavaplatos en la zona si hay grasa.
+4. Percarbonato si es prenda blanca y resistente.
+5. Sol corto opcional, no secado eterno con químico.
+
+### Para grasa de comida
+
+1. Nada de sol al inicio.
+2. Quita exceso.
+3. Gota de lavaplatos o detergente líquido.
+4. Espera.
+5. Lava.
+6. Si queda halo amarillo en blanco, ahí sí considerar percarbonato.
+
+### Para ropa de color
+
+1. Evita UV como “tratamiento”.
+2. Usa detergente con enzimas.
+3. Haz prueba escondida antes de oxidantes o ácidos.
+4. Seca a la sombra si quieres conservar color.
+
+### Para moho superficial en tela blanca
+
+1. Cepilla en seco al aire libre si hay material suelto.
+2. Lava con detergente.
+3. Remoja con percarbonato si la tela lo permite.
+4. Sol corto puede ayudar a fotoblanquear.
+5. Si el olor vuelve, el problema puede ser humedad persistente, no falta de químico.
+
+No mezcles cloro con vinagre ni con limpiadores ácidos para “matar más”. Esa mezcla es de las malas de verdad.
+
+### Para tinta o marcador
+
+1. No empieces con sol.
+2. Pon paño absorbente debajo.
+3. Usa alcohol poco a poco en sombra y ventilación.
+4. Cambia el paño a medida que recibe tinta.
+5. Lava con detergente.
+
+El sol puede fijar o expandir el desastre si primero no sacas el pigmento/solvente.
+
+### Para óxido
+
+1. No uses cloro.
+2. Usa ácido cítrico o un removedor de óxido compatible.
+3. Mantén húmedo el tratamiento.
+4. Enjuaga bien.
+5. Lava normal.
+
+UV no es protagonista. El óxido necesita química de metales, no bronceado.
+
+### Para superficies del baño
+
+Separar problemas:
+
+- Sarro blanco duro: ácido cítrico o vinagre, sin cloro.
+- Moho superficial: limpieza + oxidante o desinfectante compatible.
+- Grasa/jabón corporal: detergente/desengrasante suave.
+- Desinfección: amonio cuaternario o desinfectante según etiqueta, después de limpiar.
+
+El sol casi nunca importa en el baño. Importan pH, tiempo de contacto, ventilación y no mezclar.
+
+## La regla de oro
+
+El UV ayuda cuando quieres romper una molécula de color que **no te importa conservar**.
+
+El UV empeora cuando la molécula que rompe es:
+
+- el tinte de la ropa,
+- la fibra,
+- el elastano,
+- o una grasa que se oxida y amarillea.
+
+La versión doméstica:
+
+> Sol + percarbonato = buena idea para blancos resistentes y manchas orgánicas.
+>
+> Sol + ácido cítrico = útil puntualmente en blancos, pero el ácido trabaja más por minerales que por UV.
+>
+> Sol + detergente enzimático = mejor después del lavado, no durante el pretratamiento.
+>
+> Sol + grasa = sospechoso: primero surfactante.
+>
+> Sol + cloro = no es un upgrade casero; es más riesgo de daño.
+>
+> Sol + ropa de color = cuidado, estás blanqueando también lo que querías mantener.
+
+## Fuentes consultadas
+
+[^oecd-percarbonate]: OECD SIDS / UNEP. “Sodium Percarbonate CAS N° 15630-89-4.” Consultado el 27 de junio de 2026. <https://hpvchemicals.oecd.org/UI/handler.axd?id=5681c280-6686-4260-b629-2f23a6db2319>
+
+[^textile-photodegradation]: A. Riva, J. Elsner, H. R. Reiss. “Textile photodegradation.” *Textile Research Journal* / referencias técnicas sobre fotodegradación de fibras y tintes. Consultado el 27 de junio de 2026. <https://doi.org/10.1177/004051759206200106>
+
+[^furocoumarins]: DermNet. “Phytophotodermatitis.” Consultado el 27 de junio de 2026. <https://dermnetnz.org/topics/phytophotodermatitis>
+
+[^washington-bleach]: Washington State Department of Health. “Dangers of Mixing Bleach with Cleaners.” Consultado el 27 de junio de 2026. <https://doh.wa.gov/community-and-environment/contaminants/bleach-mixing-dangers>
+
+[^poison-mixing]: Poison Control. “Top tips for a safe spring cleaning.” Consultado el 27 de junio de 2026. <https://www.poison.org/articles/spring-cleaning>
+
+[^cdc-quats]: CDC. “Chemical Disinfectants: Quaternary Ammonium Compounds.” Consultado el 27 de junio de 2026. <https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html>

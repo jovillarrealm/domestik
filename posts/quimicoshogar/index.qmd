@@ -1,0 +1,747 @@
+---
+title: "Aprendiendo de Quimicos para el hogar"
+author: "GPT5.5"
+date: "2026-02-08"
+categories: [limpieza, química-doméstica]
+image: "image.png"
+---
+
+# **Aprendiendole a los que saben**
+
+Este blog parte de un conjunto comercial de productos de Químicos para el Hogar y lo somete a una lectura independiente: qué dice la etiqueta, qué puede explicar la química y qué no conviene afirmar sin pruebas.
+Conseguí el "Super Combo Set los 7 Esenciales de la limpieza" sin saber en que me estaba metiendo pero estas cosas se aprenden por las buenas o por las malas (o por academia).
+
+Según la página, compré esto.
+
+```markdown
+✅ ¿Qué incluye este set?
+1 Percarbonato de Sodio (600 g)
+Limpieza profunda con oxígeno activo. Ideal para ropa, baños, juntas, eliminación de olores y blanqueo sin cloro.
+
+1 Amonio Cuaternario (quinta generación)
+Desinfectante de amplio espectro para superficies del hogar. Ideal para pisos, baños, cocinas y áreas de alto contacto.
+
+1 Ácido Bórico
+Usado tradicionalmente para control de olores y aplicaciones domésticas específicas (no cosmético).
+
+1 Carbón Activado
+Excelente para absorción de olores, purificación y filtración en distintos usos del hogar.
+
+1 Ácido Acético al 10% (1 litro)
+Desincrustante eficaz contra sarro, restos minerales y residuos de jabón. Mucho más potente que el vinagre convencional.
+
+1 Sucrosol
+Solubilizante vegetal ideal para preparar aromatizantes y soluciones caseras con aceites esenciales.
+
+1 Desengrasante Industrial Biodegradable (1 litro)
+Alta capacidad para disolver grasa pesada y suciedad adherida en cocinas, pisos y superficies lavables.
+```
+
+No sé que hacer con esas cosas. Para lavar baños he visto decenas de formas diferentes, y no tengo criterio para discernir que es mejor. Como gran parte de mi generación, hay huecos de sabiduría básica que mis padres de alguna manera nunca me impartieron. Lo que si me dieron es bases para poder resolver y averiguar por mi cuenta, y este blog es parte de eso :P
+
+> La labor domestica requiere especialización y yo no tengo plata, tiempo o ganas
+
+Por eso es que encontrar una forma correcta, validada tanto por las abuelas de toda la vida y por gente académica, es necesaria. 
+No quiero andar gastando plata y tiempo en lavar ropa, pero tampoco quiero tener ropa en mal estado.
+
+Tonces, `Quimicos para el hogar` se resume en una pagina de 
+[Youtube](https://www.youtube.com/@quimicosparaelhogar/shorts), 
+[un blog](https://www.quimicosparaelhogar.com/blogs/hablemos-del-percarbonato-de-sodio).
+
+Vamos a ir uno a uno investigando usos de estas herramientas. La serie busca encontrar casos de uso —desde manchas y termos hasta pantallas— sin convertir una descripción comercial en una garantía de seguridad o desempeño.
+
+La serie quedó separada en guías por herramienta:
+
+- [Percarbonato de sodio](../percarbonato-sodio/): oxígeno activo para manchas, olores, ropa blanca y termos.
+- [Amonio cuaternario](../amonio-cuaternario/): desinfectar superficies duras después de limpiar.
+- [Ácido bórico](../acido-borico/): plagas en grietas, no limpieza general.
+- [Carbón activado](../carbon-activado/): adsorber olores residuales.
+- [Ácido acético al 10%](../acido-acetico-10/): sarro, cal y minerales.
+- [Bicarbonato de sodio](../bicarbonato-sodio/): base suave, abrasivo amable y control de olores.
+- [Ácido cítrico](../acido-citrico/): sarro, cal y quelación sin olor a vinagre.
+- [Sucrosol](../sucrosol/): pantallas, huellas y solvente volátil, si la etiqueta confirma compatibilidad.
+- [Desengrasante biodegradable](../desengrasante-biodegradable/): grasa real, cocina, pisos y pre-limpieza antes de desinfectar.
+
+## Problema primero, producto después
+
+Antes de ir químico por químico, la pregunta que de verdad importa no es “¿con qué limpio el baño?” sino:
+
+> ¿Qué estoy intentando remover?
+
+Porque “suciedad” es una palabra floja para meter en la misma bolsa grasa de cocina, sarro, bacterias, mal olor, sudor, aceite esencial, moho, polvo de pantalla y cucarachas. Cada una pide una herramienta distinta. Si uno usa la herramienta equivocada, pasa una de tres cosas: no limpia, daña la superficie, o se inventa un gas tóxico en el baño. Mal negocio.
+
+Esta guía intenta construir criterio, no memorizar recetas. La limpieza se puede pensar como cuatro palancas:
+
+1. **Química:** ácido, base, oxidante, desinfectante, solvente, adsorbente o surfactante.
+2. **Tiempo:** dejar actuar casi siempre vale más que frotar como desesperado.
+3. **Temperatura:** el calor acelera reacciones y ablanda grasa, pero también fija proteínas y puede dañar telas.
+4. **Acción mecánica:** cepillo, paño, remojo, enjuague. La química levanta; el agua se lleva.
+
+## El mapa mental: qué usar según el problema
+
+| Problema | Qué es químicamente | Mejor candidato del combo | Por qué ese y no otro |
+|---|---|---|---|
+| Ropa percudida, manchas de café, té, vino, sudor, olor orgánico | Moléculas orgánicas coloreadas u olorosas | **Percarbonato de sodio** | Libera peróxido de hidrógeno y carbonato: oxida cromóforos y trabaja en medio alcalino. El ácido acético no blanquea; el amonio cuaternario desinfecta pero no despercude. |
+| Sarro, cal, marcas blancas de agua dura, residuos minerales | Carbonatos de calcio/magnesio | **Ácido acético 10%** | El ácido convierte carbonatos insolubles en sales solubles. El percarbonato es alcalino y no disuelve sarro; el desengrasante ataca grasa, no piedra mineral. |
+| Grasa de cocina, campana, pisos grasosos, mugre pegajosa | Aceites, grasas, polímeros de grasa oxidada | **Desengrasante industrial biodegradable** | Trae surfactantes, solventes y/o alcalinidad para emulsificar grasa. El ácido acético puede ayudar con minerales, pero contra grasa pesada es el actor equivocado. |
+| Superficies de alto contacto ya limpias que se quieren desinfectar | Microorganismos en superficie dura | **Amonio cuaternario** | Rompe membranas y desnaturaliza proteínas microbianas. Sirve después de limpiar; si hay grasa o tierra encima, se desperdicia. |
+| Olores en nevera, zapatos, armarios, recipientes secos | Moléculas volátiles atrapables | **Carbón activado** | Adsorbe moléculas en sus poros. No “mata” ni limpia mugre visible; solo captura parte de lo que huele. |
+| Pantallas, teclados, grasa ligera en electrónicos apagados | Huellas, aceites livianos, polvo | **Sucrosol**, si la ficha del producto confirma bajo residuo | Es un alcohol/mezcla de alcoholes volátil, similar en uso al isopropanol. No se usa ácido, percarbonato, quat ni desengrasante en una pantalla. |
+| Cucarachas, hormigas, plagas en grietas | Insectos que ingieren o atraviesan polvo | **Ácido bórico** | Actúa como pesticida de baja volatilidad por ingestión/abrasión. No es limpiador general ni producto cosmético. |
+| Aceites esenciales en agua o aromatizantes | Aceites hidrofóbicos que no se mezclan con agua | **Sucrosol / solubilizante**, si el producto está formulado para eso | Ayuda a dispersar o solubilizar sustancias aromáticas. El carbón las quitaría, el ácido no las mezcla y el quat no está para perfumar. |
+
+Regla de supervivencia doméstica: **si no sabes qué reacción estás buscando, usa un solo producto, enjuaga, seca y recién ahí evalúa el siguiente paso.** Mezclar por intuición visual (“hizo espuma, entonces funciona”) es una trampa.
+
+## Las mezclas que no se hacen
+
+El combo no trae cloro, pero una casa promedio sí. Entonces toca decirlo antes de que alguien se ponga creativo:
+
+| Mezcla | Qué puede producir | Veredicto |
+|---|---|---|
+| Cloro/hipoclorito + ácido acético/vinagre/desincrustante | Cloro gaseoso y ácidos irritantes | No. Nunca. |
+| Cloro/hipoclorito + amoníaco o limpiadores con amonio/amoniaco | Cloraminas | No. Nunca. |
+| Cloro/hipoclorito + alcoholes | Subproductos clorados irritantes/tóxicos | No. Nunca. |
+| Peróxido/percarbonato + ácido en botella cerrada | Oxidantes más irritantes y presión por gases | No guardar mezclas. |
+| Amonio cuaternario + detergentes aniónicos/jabones sin enjuagar | Inactivación parcial del desinfectante | Limpia, enjuaga, y después desinfecta. |
+| Ácido acético + bicarbonato/carbonato | Acetato, agua y CO2 | No es peligroso en abierto, pero se neutralizan. Úsalos por pasos, no como “volcán limpiador”. |
+
+Poison Control resume la regla de oro de forma simple: no mezclar limpiadores domésticos y trabajar con ventilación.[^poison-cleaning] El Departamento de Salud de Washington explica específicamente el peligro de mezclar hipoclorito con ácidos o amoniaco.[^washington-bleach]
+
+## 1. Percarbonato de sodio
+
+El percarbonato de sodio es el “oxígeno activo” de los productos tipo Vanish/Oxi. No es magia blanca, es un sólido que en agua se disocia en **carbonato de sodio** y **peróxido de hidrógeno**:
+
+$$
+2Na_2CO_3 \cdot 3H_2O_2 \rightarrow 4Na^+ + 2CO_3^{2-} + 3H_2O_2
+$$
+
+Luego el peróxido termina degradándose hacia agua y oxígeno:
+
+$$
+2H_2O_2 \rightarrow 2H_2O + O_2
+$$
+
+La parte elegante es que vienen dos herramientas en un polvo:
+
+- **Carbonato de sodio:** sube el pH, ayuda a ablandar agua dura y favorece el desprendimiento de grasa/suciedad orgánica.
+- **Peróxido de hidrógeno:** oxida moléculas coloreadas. Muchas manchas tienen “cromóforos”, estructuras con dobles enlaces conjugados que absorben luz visible. El oxidante rompe o altera esas estructuras y la mancha deja de verse.
+
+La OECD describe el percarbonato como un compuesto de carbonato de sodio y peróxido de hidrógeno que se disuelve rápidamente en agua en esas dos especies.[^oecd-percarbonate]
+
+### Cuándo usarlo
+
+**Ropa blanca o clara percudida.**  
+El percarbonato gana porque ataca dos partes del problema: la grasa/sudor oxidado y el color amarillento. El cloro blanquea más rápido, pero es más agresivo con fibras y elastanos. El ácido acético puede quitar minerales, pero no oxida el amarillo.
+
+**Manchas orgánicas: café, té, vino, chocolate, sudor, olor de toallas.**  
+Aquí conviene remojo. El percarbonato no es instantáneo; necesita tiempo para oxidar. Agua tibia o caliente acelera, siempre que la tela lo tolere.
+
+**Termos, botellas, tazas manchadas de café o té.**  
+El residuo marrón suele ser orgánico/polifenólico. Percarbonato + agua caliente + tiempo suele desprenderlo sin raspar. Después se enjuaga muchas veces.
+
+**Juntas de baldosas y superficies lavables con mugre orgánica.**  
+Puede ayudar si lo que hay es biofilm, moho superficial o coloración orgánica. Si la junta está blanca por sarro, manda ácido, no percarbonato.
+
+### Cuándo NO usarlo
+
+- Lana, seda, cuero, madera, superficies enceradas o telas delicadas: el medio alcalino y el oxidante pueden dañarlas.
+- Colores inestables: hacer prueba escondida.
+- Metales sensibles o piezas con recubrimientos: no remojar largo tiempo.
+- Pantallas o electrónicos: ni por accidente.
+- Mezclado con cloro: no suma, aumenta riesgo y puede dañar.
+
+### Protocolo base
+
+Para ropa resistente: disolver en agua tibia/caliente, remojar, dejar actuar y lavar normal. Para una taza o termo: agua caliente, una pequeña cantidad de percarbonato, reposo, cepillo suave si hace falta, y enjuague obsesivo.
+
+La intuición: **si el problema es color orgánico u olor orgánico, piensa oxidante.** Si es piedra blanca mineral, piensa ácido. Si es aceite, piensa surfactante/desengrasante.
+
+## 2. Amonio cuaternario de quinta generación
+
+Los amonios cuaternarios, o “quats”, son desinfectantes catiónicos. Tienen una cabeza cargada positivamente y cadenas orgánicas que interactúan con membranas. El CDC describe su acción bactericida como una combinación de inactivación de enzimas, desnaturalización de proteínas y disrupción de la membrana celular.[^cdc-quats]
+
+La “quinta generación” suele referirse a mezclas de quats, típicamente combinaciones como DDAC (didecil dimetil amonio cloruro) con ADBAC (alquil dimetil bencil amonio cloruro). La idea comercial es mejorar desempeño frente a dureza de agua, carga orgánica y variedad microbiana. Pero no hay que convertir eso en fe religiosa: siguen siendo desinfectantes de superficie, no limpiadores universales.
+
+### Limpiar no es desinfectar
+
+Esta distinción ahorra mucha plata:
+
+- **Limpiar:** remover grasa, polvo, comida, mugre.
+- **Desinfectar:** reducir microorganismos en una superficie ya limpia.
+
+Si aplicas quat sobre una estufa grasosa, estás gastando desinfectante en una capa de aceite. Primero desengrasante/detergente, enjuague o paño húmedo, secado razonable, y luego quat con el tiempo de contacto indicado por la etiqueta.
+
+### Cuándo usarlo
+
+**Superficies duras de alto contacto:** manijas, interruptores, mesones no porosos, pisos, baños, cocina después de retirar grasa visible.
+
+**Baños ya lavados:** después de remover sarro/jabón/moho superficial, puede tener sentido desinfectar lavamanos, sanitarios, pisos o superficies de contacto.
+
+**Zonas donde hubo contaminación biológica ligera:** por ejemplo, después de limpiar una superficie donde cayó comida cruda. En superficies de contacto con alimentos, toca seguir etiqueta: algunos requieren enjuague posterior.
+
+### Cuándo NO usarlo
+
+- Para quitar sarro: no disuelve carbonato de calcio.
+- Para despercudir ropa: no es blanqueador.
+- Para grasa pesada: puede tener algo de detergencia, pero no compite con un desengrasante real.
+- Sobre superficies sucias, porosas o con mucha materia orgánica.
+- En pantallas si el fabricante no lo permite.
+- En juguetes de niños, platos de mascotas o superficies de comida sin revisar etiqueta y enjuague.
+
+### Límites reales
+
+El CDC anota que los quats son generalmente bactericidas, fungicidas y activos frente a virus envueltos, pero **no son esporicidas** y no suelen ser tuberculocidas ni buenos contra virus no envueltos.[^cdc-quats] También advierte que la dureza del agua, residuos y algunos materiales como algodón/gasa pueden reducir su actividad. Traducción doméstica: usarlo con paños adecuados, no con el trapo más mugroso de la casa.
+
+### Seguridad
+
+Usar guantes si hay contacto repetido, ventilar, evitar aerosolizar si no hace falta, mantener fuera del alcance de niños y mascotas, y respetar dilución/tiempo de contacto. Los desinfectantes no se improvisan: se usan como dice la etiqueta.
+
+## 3. Ácido bórico
+
+El ácido bórico no es “un limpiador” en el mismo sentido que un desengrasante. Es más bien una herramienta de control de plagas y, en algunos contextos, inhibidor de hongos/olores. El National Pesticide Information Center explica que el ácido bórico y sus sales se usan para controlar insectos, ácaros, hongos y otros organismos; también describe que puede matar insectos por ingestión, afectar su sistema nervioso y dañar su exterior.[^npic-boric]
+
+### Cuándo usarlo
+
+**Cucarachas y hormigas en grietas, zócalos y rutas de tránsito.**  
+Funciona mejor como polvo muy fino en zonas escondidas o como parte de cebos. La lógica es que el insecto lo atraviese o lo coma y lo lleve a su entorno.
+
+**Olores asociados a humedad/hongos en lugares no alimentarios.**  
+Puede ayudar indirectamente si el problema tiene componente fúngico, pero para olores generales el carbón activado es más limpio y menos problemático.
+
+### Cuándo NO usarlo
+
+- No en mesones donde se prepara comida.
+- No en camas, ropa, almohadas o zonas de contacto prolongado.
+- No como cosmético, talco corporal, “remedio” o producto íntimo si el producto no está formulado para eso.
+- No en áreas accesibles a niños o mascotas.
+- No como “desinfectante ambiental”.
+
+### Seguridad
+
+Poison Control recalca que el ácido bórico puede usarse con seguridad en ciertos contextos domésticos, pero debe manipularse con cuidado y puede ser tóxico si se ingiere en cantidades significativas, especialmente para niños y mascotas.[^poison-borates] Health Canada ha señalado preocupación por posibles efectos sobre desarrollo y reproducción en exposiciones de ciertos productos de consumo.[^health-canada-boric] Yo lo trataría como pesticida: etiqueta, mínima cantidad efectiva, sitio escondido, cero glamour.
+
+## 4. Carbón activado
+
+El carbón activado trabaja por **adsorción** (con d), no absorción. No funciona como una esponja; adsorbe moléculas en la superficie de sus poros. La Universidad de Nebraska describe la filtración con carbón activado como un proceso donde contaminantes son atraídos y retenidos sobre la superficie de las partículas de carbono; su eficiencia depende del tamaño de poro, área superficial, concentración del contaminante y tiempo de contacto.[^unl-carbon]
+
+### Cuándo usarlo
+
+**Nevera con olor.**  
+Muy buen caso: espacio cerrado, moléculas volátiles, tiempo largo.
+
+**Zapatos, armarios, cajones, maletas, canecas secas.**  
+Funciona si el olor está en el aire o en moléculas que pueden migrar hacia el carbón.
+
+**Filtros de agua/aire, si el sistema está diseñado para eso.**  
+El carbón de una bolsita no vuelve potable agua contaminada. Un filtro diseñado sí puede ayudar con ciertos sabores, olores y compuestos orgánicos, pero tiene capacidad limitada.
+
+### Cuándo NO usarlo
+
+- No reemplaza lavado.
+- No mata moho ni bacterias.
+- No arregla humedad estructural.
+- No sirve infinitamente: se satura.
+- No “purifica” cualquier cosa. Metales, sales, microbios y partículas dependen del sistema de filtración, no de fe carbonosa.
+
+### Intuición
+
+Si el problema está en una molécula olorosa que flota o migra, carbón. Si el problema es mugre pegada, grasa o sarro, necesitas reacción o detergencia, no adsorción.
+
+## 5. Ácido acético al 10%
+
+El vinagre normal ronda 4-5% de ácido acético. Este producto al 10% es más fuerte: útil, pero menos juguete. El ácido acético es un ácido débil que dona protones y disuelve depósitos minerales alcalinos. New Mexico State University lo lista como limpiador ácido suave útil para depósitos de agua dura, manchas leves de óxido y película de jabón.[^nmsu-cleaners]
+
+La reacción prototipo contra sarro es:
+
+$$
+CaCO_3 + 2CH_3COOH \rightarrow Ca(CH_3COO)_2 + H_2O + CO_2
+$$
+
+Carbonato de calcio sólido + ácido acético → acetato de calcio soluble + agua + dióxido de carbono. Las burbujas no son el limpiador; son la señal de que el carbonato se está convirtiendo en algo soluble. La American Chemical Society usa el ejemplo de vinagre con carbonato de calcio para mostrar justamente esa formación de CO2.[^acs-carbonate]
+
+### Cuándo usarlo
+
+**Sarro en grifos, duchas, lavamanos, vidrio de baño.**  
+Ácido + tiempo de contacto. Si la superficie es vertical, empapar papel o paño, ponerlo sobre el sarro y dejar actuar. Luego cepillar suave y enjuagar.
+
+**Residuos de jabón en baño.**  
+La “nata” de jabón muchas veces tiene sales de calcio/magnesio de ácidos grasos. El ácido ayuda a romper la parte mineral. Si hay grasa corporal también, a veces conviene alternar: ácido para mineral, detergente/desengrasante suave para grasa.
+
+**Hervidores, cafeteras o termos con cal.**  
+Solo si el fabricante lo permite. Después de desincrustar, enjuague fuerte.
+
+**Enjuague ácido ocasional después de limpiar con alcalinos.**  
+Útil para retirar residuos minerales o neutralizar restos alcalinos en superficies compatibles.
+
+### Cuándo NO usarlo
+
+- Mármol, travertino, terrazo, piedra caliza o cemento decorativo: son carbonatos o matrices sensibles; el ácido los ataca.
+- Juntas cementosas de baldosa como rutina: puede erosionarlas con uso repetido.
+- Pantallas/electrónicos.
+- Madera, superficies enceradas o acabados delicados.
+- Metales sensibles o baños prolongados sin prueba.
+- Mezclado con cloro/hipoclorito.
+
+### Por qué ácido acético y no percarbonato
+
+Porque el sarro es una base mineral insoluble. Necesita protones. El percarbonato, al liberar carbonato, vuelve el medio más alcalino. O sea: lo contrario.
+
+### Uso práctico con 10%
+
+Para tareas suaves, se puede diluir 1:1 con agua y queda cerca de un vinagre fuerte. Para sarro puntual, usar más concentrado puede funcionar, pero con guantes, ventilación y prueba de superficie. Más concentración no significa mejor si la superficie se arruina.
+
+## 6. Sucrosol
+
+Aquí toca una nota detectivesca: el nombre “Sucrosol” se usa de forma comercial y puede confundirse. En la descripción inicial del combo aparece como **solubilizante vegetal para aromatizantes y aceites esenciales**. Pero la página de Químicos para el Hogar lo describe como un **alcohol volátil con muy bajo contenido de agua**, diseñado para electrónicos y superficies sensibles a humedad.[^qph-sucrosol] Sucroal lo describe como una **mezcla de alcoholes de volatilidad media**, soluble en agua y solventes industriales, con propiedades de volatilidad y solvatación similares al isopropanol.[^sucroal-sucrosol]
+
+Entonces mi regla sería: **lee la etiqueta y la ficha técnica de tu botella específica.** Si es el Sucrosol tipo alcohol/solvente, piensa en electrónica y huellas. Si es una formulación solubilizante para aceites esenciales, piensa en dispersar fragancias, no en desinfectar ni limpiar sarro.
+
+### Como limpiador de pantallas/electrónicos
+
+Los fabricantes grandes suelen permitir alcohol isopropílico al 70% o menos en superficies externas, con paño y sin mojar aberturas. Apple permite limpiar superficies exteriores del iPhone con toallita de isopropanol 70% o etanol 75%, evitando productos con cloro o peróxido y evitando humedad en aberturas.[^apple-iphone] Microsoft recomienda IPA 70% o menos en un paño suave para dispositivos Surface y advierte no rociar directo, no usar cloro/peróxido y no dejar entrar humedad.[^microsoft-surface]
+
+Sucrosol entra en esa familia de criterio si la ficha confirma bajo residuo y compatibilidad:
+
+1. Apagar y desconectar.
+2. Aplicar al paño de microfibra, no al dispositivo.
+3. Pasar suave.
+4. Dejar evaporar.
+5. No insistir como si estuvieras puliendo una olla.
+
+### Como solubilizante de aromas
+
+Los aceites esenciales no se mezclan bien con agua porque son mayoritariamente hidrofóbicos. Un solubilizante o co-solvente ayuda a formar una dispersión más estable. La idea no es “limpiar” sino evitar gotones de aceite flotando. Si vas a hacer aromatizantes, el criterio es:
+
+- poca carga de aceite esencial;
+- prueba de compatibilidad con el envase;
+- no rociar sobre madera, piedra, pantallas o telas delicadas sin prueba;
+- no usar aceites esenciales alrededor de mascotas/niños sin revisar seguridad específica.
+
+### Cuándo NO usarlo
+
+- No para sarro: le falta acidez.
+- No para desinfección formal si no está etiquetado como desinfectante.
+- No para grasa pesada de cocina: se evapora antes de hacer el trabajo grande y es inflamable.
+- No cerca de llama, estufa encendida o superficies calientes.
+- No en acrílicos, acetatos, barnices o recubrimientos sin prueba.
+
+## 7. Desengrasante industrial biodegradable
+
+“Biodegradable” no significa “inocente”; significa que sus componentes están formulados para degradarse bajo ciertas condiciones. Un desengrasante industrial sigue siendo un producto que puede irritar piel, ojos o dañar superficies si se usa mal.
+
+Como no tengo la ficha técnica exacta de la botella, toca explicar por familias. Un desengrasante suele combinar:
+
+- **Surfactantes:** moléculas anfifílicas con una parte que ama el agua y otra que ama la grasa.
+- **Builders o secuestrantes:** ayudan con agua dura, calcio y magnesio.
+- **Alcalinidad:** favorece desprendimiento de grasas y proteínas.
+- **Solventes/co-solventes:** ayudan a disolver aceites o mugre pegajosa.
+
+El American Cleaning Institute explica que los surfactantes bajan la tensión superficial del agua, permiten mojar mejor la superficie y forman micelas que atrapan grasa para que el enjuague se la lleve.[^aci-soapbook]
+
+### Cuándo usarlo
+
+**Cocina real:** estufa, campana, salpicaderos lavables, pisos grasosos, canecas, herramientas con grasa.
+
+**Antes de desinfectar:** si una superficie está grasosa, el desengrasante es el primer paso. Luego enjuagar/secar y ahí sí desinfectar si tiene sentido.
+
+**Pisos lavables con mugre orgánica:** diluido según etiqueta. Más producto no necesariamente limpia más; a veces solo deja película pegajosa.
+
+### Cuándo NO usarlo
+
+- Pantallas y electrónicos.
+- Madera sin sellar o acabados delicados.
+- Piedra natural si es alcalino fuerte o trae solventes.
+- Aluminio y metales blandos sin prueba.
+- Superficies de comida sin enjuague posterior.
+- Mezclado con ácidos para “potenciar”. Puedes romper la formulación y neutralizar parte de su trabajo.
+
+### Por qué desengrasante y no ácido acético
+
+La grasa no es carbonato de calcio. El ácido acético puede cortar algo de mugre ligera y película mineral, pero la grasa pesada necesita surfactantes, solventes y/o alcalinidad. Lo que quieres es convertir “aceite pegado” en gotitas suspendidas en agua que se puedan enjuagar. Eso son micelas.
+
+## Casos de uso por zona y material
+
+Esta es la parte útil para la vida real. No vivimos en una tabla periódica; vivimos entre baños, cocinas, ropa que huele raro y recipientes plásticos que quedan oliendo a guiso hasta la próxima administración presidencial.
+
+### La secuencia universal: limpiar, enjuagar, desinfectar
+
+Para superficies de cocina y contacto con comida, el orden importa más que el producto caro. USDA lo resume así: primero limpiar con agua jabonosa para retirar mugre y parte de las bacterias; después sanitizar/desinfectar para matar lo que queda.[^usda-clean-sanitize] En guías para superficies de contacto alimentario, la secuencia típica es **limpiar → enjuagar → sanitizar**.[^usda-organic-sanitizers]
+
+En versión doméstica:
+
+1. **Retirar sólidos:** migas, grasa gruesa, restos de comida.
+2. **Limpiar:** detergente, jabón o desengrasante según el nivel de grasa.
+3. **Enjuagar o pasar paño limpio húmedo:** no dejar residuos de limpiador.
+4. **Desinfectar si hace falta:** amonio cuaternario si la etiqueta permite esa superficie y se respeta el tiempo de contacto.
+5. **Secar:** muchas superficies se dañan más por humedad persistente que por falta de químico.
+
+Si saltas del paso 1 al quat, estás intentando desinfectar una lasaña microscópica.
+
+## Superficies
+
+### Mesones de cocina
+
+**Si son laminados, porcelanato, acero inoxidable o superficies no porosas compatibles:**
+
+1. Desengrasante diluido o detergente si hay grasa.
+2. Enjuague/paño húmedo limpio.
+3. Amonio cuaternario solo si la etiqueta dice que sirve para superficies de contacto o si luego vas a enjuagar según instrucciones.
+
+**Por qué:** la grasa bloquea el desinfectante. Los quats funcionan mejor sobre superficie ya limpia.
+
+**No usar:** ácido acético como rutina si el mesón es piedra natural o si no sabes qué material es; percarbonato para desinfectar mesón; ácido bórico cerca de comida.
+
+### Mesones de piedra natural: mármol, travertino, piedra caliza, algunos terrazos
+
+Aquí manda el material, no la mancha. Si la superficie contiene carbonato de calcio, el ácido acético la ataca igual que ataca el sarro.
+
+**Usar:** jabón neutro/detergente suave, paño húmedo, secado. Si se necesita desinfectar, producto compatible con piedra y sellador.
+
+**No usar:** ácido acético, limón, percarbonato en remojo, desengrasantes alcalinos fuertes, abrasivos.
+
+**Por qué:** el ácido no distingue entre “sarro malo” y “mármol caro”. Ambos son carbonatos.
+
+**¿Y si el mármol tiene manchas amarillas?** No empezar con percarbonato ni con vinagre. Natural Stone Institute recomienda identificar el tipo de mancha y usar cataplasma cuando está metida en la piedra.[^nsi-stains] La tabla mental:
+
+| Amarillo en mármol | Sospecha | Qué probar |
+|---|---|---|
+| Amarillo/marrón de café, té, comida, hojas, tabaco | Orgánico | Cataplasma blanca con agua oxigenada; prueba primero. |
+| Amarillo translúcido o grasoso | Aceite, crema, cosmético | Cataplasma de bicarbonato + agua, o material absorbente + solvente adecuado. |
+| Naranja/amarillo con forma de lata, tornillo o metal | Óxido/hierro | Removedor de óxido compatible con piedra o profesional; no ácidos caseros. |
+| Mancha opaca, áspera, sin brillo | Grabado químico, no mancha | Repulido; oxidar/blanquear no devuelve el brillo. |
+
+**Respuesta práctica:** para amarillo orgánico en mármol claro, el agua oxigenada tiene más sentido que bicarbonato solo. El bicarbonato ayuda como absorbente para grasa, pero frotarlo como polvo puede rayar/opacar. Natural Stone Institute lista peróxido de hidrógeno para manchas orgánicas en piedra y bicarbonato + agua para manchas de aceite.[^nsi-stains] Para mantenimiento normal, limpiador neutro o jabón suave, enjuague y secado.[^nsi-care]
+
+### Vidrio, espejos y mamparas
+
+**Si hay gotas blancas/sarro:** ácido acético. Contacto, paño, enjuague, secado.
+
+**Si hay grasa de dedos:** Sucrosol/IPA-compatible o limpiador de vidrios con paño de microfibra.
+
+**Si hay jabón pegado:** alternar ácido para minerales y detergente/desengrasante suave para grasa corporal.
+
+**No usar:** percarbonato en pantallas; ácido sobre marcos metálicos sensibles sin prueba; quat como limpiavidrios si deja película.
+
+### Pisos
+
+**Cerámica/porcelanato:** desengrasante diluido si hay grasa; ácido acético puntual si hay sarro o marcas minerales. Enjuague. No dejar película.
+
+**Baldosa con juntas cementosas:** evitar ácido como rutina. Usarlo puntual, poco tiempo y enjuagar. Para mantenimiento, detergente neutro o desengrasante suave.
+
+**Madera/laminado:** ninguno de los fuertes como rutina. Paño apenas húmedo y producto para madera/laminado. El agua en exceso hincha; el alcohol puede opacar acabados; el ácido puede atacar sellos.
+
+**Piedra natural:** pH neutro. Nada de ácido.
+
+### Acero inoxidable
+
+**Grasa:** desengrasante suave, paño, enjuague, secado.
+
+**Sarro alrededor de grifos:** ácido acético en contacto controlado, sin dejar horas sobre acero barato o partes cromadas dudosas.
+
+**Desinfección:** quat si la etiqueta permite, luego secar.
+
+**No usar:** cloro como costumbre, abrasivos duros, baños prolongados en ácido. El acero “inoxidable” se defiende con una capa pasiva; si uno la maltrata, se pone dramático.
+
+### Electrónicos y pantallas
+
+**Usar:** Sucrosol si la ficha técnica confirma bajo residuo y compatibilidad, o alcohol isopropílico compatible con el fabricante. Paño de microfibra. Producto al paño, nunca directo.
+
+**No usar:** ácido acético, percarbonato, desengrasante, quat genérico, agua abundante.
+
+**Por qué:** aquí el enemigo no es solo la mugre; es la humedad entrando, el recubrimiento oleofóbico dañándose y el residuo quedando en bordes.
+
+## Baños
+
+### Lavamanos y grifería con sarro
+
+1. Quitar polvo/pelo.
+2. Ácido acético sobre sarro. Si es vertical, paño empapado para que no escurra.
+3. Esperar.
+4. Cepillo suave.
+5. Enjuague abundante.
+6. Secar.
+
+**Por qué ácido:** el sarro es carbonato. Necesita protones. El percarbonato y el desengrasante no son su enemigo natural.
+
+### Inodoro
+
+Separar exterior e interior:
+
+- **Exterior, asiento, botón, tapa:** limpiar con detergente/desengrasante suave si hace falta, enjuagar/paño limpio, desinfectar con quat si etiqueta permite.
+- **Interior con sarro:** ácido acético puede ayudar, pero no mezclar con limpiadores de inodoro comerciales ni cloro. Muchos limpiadores de inodoro ya son ácidos o clorados; jugar a alquimista ahí es particularmente mala idea.
+
+**No usar:** ácido acético inmediatamente después de cloro o viceversa. Si se usó un producto, enjuagar muy bien y ventilar antes de otro.
+
+### Ducha, baldosa y juntas
+
+Diagnóstico:
+
+- **Blanco duro:** sarro → ácido acético puntual.
+- **Capa resbalosa/gris:** biofilm + jabón + grasa corporal → detergente/desengrasante suave.
+- **Negro superficial en junta:** percarbonato puede blanquear por oxidación.
+- **Negro profundo en silicona:** probablemente toca retirar y reemplazar silicona. La química doméstica no reconstruye un material colonizado.
+
+**Método sensato:** no empezar con el producto más fuerte. Primero detergente/desengrasante suave para quitar biofilm, enjuagar, y luego decidir si el residuo que queda es mineral u orgánico.
+
+### Moho
+
+El moho necesita dos enfoques: quitar la condición que lo alimenta y tratar la superficie. Si hay humedad permanente, cualquier químico será pausa, no solución.
+
+- **Superficie dura lavable:** limpiar primero; percarbonato para mancha orgánica; quat para desinfectar si etiqueta aplica.
+- **Junta cementosa:** cuidado con ácido repetido.
+- **Silicona manchada por dentro:** reemplazo.
+
+### Desagües lentos
+
+De los 7, ninguno es mi primera opción para destapar tuberías. Si el problema es grasa ligera, agua caliente + detergente puede ayudar. Si es pelo o tapón real, acción mecánica: retirar pelo, copa destapadora, serpiente. No echar ácido bórico, quat, percarbonato o desengrasante industrial a ciegas por un drenaje.
+
+## Cocina
+
+### Estufa y campana
+
+**Problema:** grasa oxidada, pegajosa, a veces polimerizada por calor.
+
+**Usar:** desengrasante. Dar tiempo de contacto. Agua tibia/caliente ayuda si la superficie lo permite.
+
+**Después:** si es superficie de contacto indirecto, enjuagar y secar. Si necesitas desinfectar, quat después de limpiar.
+
+**No usar:** ácido acético como protagonista. No está hecho para grasa pesada.
+
+### Tablas de cortar
+
+**Plástico/acrílico apto para lavavajillas:** lavar con detergente, enjuagar, desinfectar si hace falta con producto apto para contacto alimentario o lavavajillas caliente si el fabricante lo permite.
+
+**Madera:** detergente suave, poca agua, secar de pie. No remojar. No usar percarbonato ni ácido fuerte como rutina. Desinfectar madera es más complejo porque es porosa; si está rajada y huele mal, a veces la respuesta adulta es jubilarla.
+
+### Nevera
+
+1. Sacar la fuente del olor: comida vieja, derrames, líquido en empaques.
+2. Lavar bandejas con detergente o desengrasante muy suave.
+3. Enjuagar y secar.
+4. Carbón activado en recipiente abierto para olores residuales.
+
+**No usar:** quat en superficies que tocarán comida si la etiqueta no lo permite; Sucrosol por dentro de nevera; ácido bórico jamás.
+
+### Termos, botellas y tazas
+
+**Mancha café/té:** percarbonato + agua caliente + tiempo. Enjuague largo.
+
+**Olor a leche/proteína/batido:** primero detergente/desengrasante suave, porque hay grasa y proteína. Luego percarbonato si queda olor orgánico. Secar abierto.
+
+**Sarro o sabor mineral:** ácido acético, enjuague fuerte.
+
+**Olor residual sin mancha:** carbón activado seco dentro, varias horas o toda la noche.
+
+**No usar:** quat si no es recipiente para desinfectante alimentario con instrucciones claras; ácido bórico jamás; Sucrosol para recipientes de comida.
+
+### Recipientes plásticos con olor
+
+El plástico, sobre todo polipropileno, retiene moléculas aromáticas y grasa. Si guardaste curry, hogao, ajo o pescado, no es que el recipiente “esté sucio” solamente; absorbió parte del olor en su matriz superficial.
+
+Escalera de intervención:
+
+1. **Desengrasar:** detergente fuerte o desengrasante muy diluido, enjuague total.
+2. **Oxidar olor/color orgánico:** percarbonato si el plástico lo tolera, con prueba si es de color.
+3. **Neutralizar según olor:** ácido acético diluido puede ayudar con olores básicos tipo pescado/aminas; bicarbonato también sirve para olores ácidos, aunque no está en el combo. La extensión de Wisconsin menciona bicarbonato para desodorizar recipientes plásticos y termos.[^wisconsin-baking-soda]
+4. **Adsorber:** carbón activado dentro del recipiente seco.
+5. **Sol y aire:** para algunos plásticos, ventilar y luz indirecta ayudan. Sol fuerte puede degradar plásticos viejos, así que sin freír el tupper.
+
+**Cuándo rendirse:** plástico rayado, grasoso, con olor persistente o que tuvo comida dañada. Las rayas son barrios cerrados para bacterias.
+
+### Ollas, sartenes y utensilios
+
+- **Grasa normal:** desengrasante/detergente.
+- **Quemado orgánico:** remojo caliente con detergente; percarbonato puede ayudar si el material lo tolera.
+- **Sarro en hervidores:** ácido acético.
+- **Aluminio:** cuidado con alcalinos fuertes y ácidos prolongados.
+- **Antiadherente:** nada abrasivo ni oxidantes agresivos.
+
+## Ropa y textiles
+
+La ropa no se decide solo por mancha. Se decide por **fibra + color + mancha**.
+
+### Algodón blanco y lino blanco
+
+**Mejor candidato:** percarbonato.
+
+**Usos:** percudido, amarilleo, toallas con olor, sábanas, camisetas blancas.
+
+**Por qué:** estas fibras toleran mejor alcalinidad y remojo que lana/seda. El percarbonato trabaja sobre grasa oxidada y cromóforos.
+
+**Cuidado:** si hay elástico/spandex, bajar temperatura y no abusar. El blanco con estampado de color no es “blanco” para efectos químicos.
+
+### Ropa blanca sintética o con elastano
+
+**Usar:** percarbonato con más cautela: menos temperatura, menos tiempo, prueba.
+
+**Por qué:** poliéster retiene olores grasos; el percarbonato puede ayudar con olor orgánico, pero el elastano envejece mal con oxidantes y calor.
+
+**No usar:** agua demasiado caliente si la etiqueta no lo permite; cloro; remojos eternos.
+
+### Ropa de color
+
+**Usar:** detergente primero. Percarbonato solo si la prenda es colorfast y la etiqueta lo permite; prueba en zona escondida.
+
+**Para olor:** mejor lavar bien, no sobrecargar lavadora, secar por completo. Si el olor es grasa/sudor, el problema puede ser falta de detergencia o exceso de suavizante, no falta de desinfectante.
+
+**No usar:** ácido acético concentrado directo sobre colores; desengrasante industrial sin prueba; quat salvo que sea un producto formulado para lavandería.
+
+### Ropa negra
+
+**Objetivo:** conservar tinte. Aquí el percarbonato no es primera opción.
+
+**Usar:** detergente para oscuros o suave, agua fría, vuelta al revés, secado lejos de sol fuerte.
+
+**Si huele:** revisar dosis de detergente, secado, lavadora sucia, sudor graso. Para olor persistente, una intervención puntual con producto compatible, pero no convertir oxidantes en rutina.
+
+### Delicadas: lana, seda, cuero, prendas con botones de madera
+
+**De los 7, casi ninguno.** Esta es la respuesta incómoda pero útil.
+
+Usar detergente específico o lavado en seco según etiqueta. Agua fría, poca agitación, nada de remojo alcalino largo.
+
+**Evitar:** percarbonato, desengrasante industrial, ácido acético concentrado, quat, Sucrosol, cloro, calor. Lana y seda son fibras proteicas; los oxidantes y alcalinos las pueden debilitar o amarillear.
+
+### Ropa deportiva y poliéster con olor
+
+El poliéster ama la grasa. Retiene sebo y olor corporal aunque “se vea limpio”.
+
+1. Prelavado con detergente suficiente.
+2. Evitar suavizante: deja película y empeora olor.
+3. Si la etiqueta lo permite, percarbonato ocasional para olor orgánico.
+4. Secar completamente.
+
+**No usar:** quat doméstico como “spray de ropa” salvo que la etiqueta diga textil. No perfumar con aceites esenciales para tapar olor: eso agrega aceite al problema.
+
+### Toallas
+
+**Olor agrio:** suele ser humedad + biofilm + detergente/suavizante acumulado.
+
+1. Lavar con detergente, agua caliente si etiqueta permite.
+2. Percarbonato ocasional.
+3. Si están ásperas por minerales, ciclo separado con ácido acético diluido, sin percarbonato en el mismo ciclo.
+4. Secado total.
+
+**No hacer:** exceso de suavizante. La toalla queda “suavecita” porque está recubierta, y ese recubrimiento puede atrapar olor.
+
+### Manchas de grasa en ropa
+
+**Primer paso:** desengrasante muy diluido o detergente/lavavajillas directamente en la mancha, con prueba. Trabajar en seco o apenas húmedo antes de lavar.
+
+**Después:** lavado normal. Si queda halo amarillento, percarbonato puede ayudar si la tela lo permite.
+
+**Por qué no empezar con ácido:** la grasa no se disuelve por protones; se emulsifica.
+
+### Sangre, huevo, leche y proteína
+
+**Regla:** agua fría primero. El calor cocina proteínas y fija la mancha.
+
+El percarbonato puede ayudar después en telas compatibles, pero no empieces con agua caliente. Para telas delicadas, detergente suave y paciencia.
+
+### Desodorante en axilas
+
+Eso es una lasaña química de sales de aluminio, sebo, sudor y detergente acumulado.
+
+1. Ácido acético diluido puntual para sales/minerales.
+2. Enjuagar.
+3. Detergente/desengrasante suave para grasa.
+4. Percarbonato si la prenda lo tolera.
+
+Otra vez: secuencia, no coctel.
+
+## Qué usar cuando quieres “desinfectar”
+
+La palabra desinfectar se usa demasiado. No todo necesita desinfección; muchas cosas necesitan limpieza y secado.
+
+| Caso | ¿Desinfectar? | Qué usar |
+|---|---:|---|
+| Mesón después de pollo crudo | Sí | Limpiar, enjuagar, quat apto para esa superficie o sanitizante alimentario según etiqueta |
+| Mesa con polvo | No necesariamente | Paño húmedo/detergente suave |
+| Baño después de limpieza semanal | Puede tener sentido | Quat en superficies duras ya limpias |
+| Ropa diaria | Normalmente no | Lavado y secado correcto |
+| Ropa de persona enferma | Depende | Producto de lavandería apto; no improvisar quat doméstico |
+| Termo con café viejo | No primero | Percarbonato/detergente; desinfectar solo si hay indicación y producto apto |
+| Tabla rajada y hedionda | Mejor reemplazar | La química no arregla grietas profundas |
+
+## Lo que compraría aparte, aunque sea aburrido
+
+Los 7 químicos son interesantes, pero la casa se sostiene con cosas humildes:
+
+- Detergente lavavajillas.
+- Jabón/detergente de ropa bueno.
+- Paños de microfibra.
+- Cepillo de juntas.
+- Guantes.
+- Bicarbonato de sodio.
+- Botella rociadora etiquetada.
+- Etiquetas con fecha/dilución.
+
+El superpoder no es tener sustancias raras. Es tener proceso.
+
+## Tabla final de criterio
+
+| Químico | Función dominante | Reacción/mecanismo | Gana contra | Pierde contra | Cuidado principal |
+|---|---|---|---|---|---|
+| Percarbonato | Oxidante alcalino | Libera H2O2 + carbonato; oxida cromóforos | Manchas orgánicas, ropa percudida, termos, olores textiles | Sarro, grasa pesada, electrónicos | No delicados, no mezclar, probar colores |
+| Amonio cuaternario | Desinfectante catiónico | Disrupción de membranas/proteínas | Superficies duras ya limpias | Mugre visible, sarro, grasa, esporas | Etiqueta, dilución, tiempo de contacto |
+| Ácido bórico | Pesticida/antifúngico puntual | Ingestión/abrasión en insectos; inhibe algunos hongos | Cucarachas/hormigas en grietas | Limpieza general, desinfección, grasa | Niños, mascotas, comida, inhalación de polvo |
+| Carbón activado | Adsorbente | Moléculas se adhieren a poros | Olores/VOCs en espacios cerrados | Suciedad visible, microbios, sarro | Se satura; no potabiliza por sí solo |
+| Ácido acético 10% | Desincrustante ácido | Carbonatos → sales solubles + CO2 | Sarro, cal, residuos minerales | Grasa pesada, manchas orgánicas profundas | No cloro, no piedra natural, guantes |
+| Sucrosol | Solvente/solubilizante | Solvatación y evaporación | Pantallas/electrónica compatible, huellas, aromas | Sarro, grasa pesada, desinfección formal | Inflamable, no spray directo, probar recubrimientos |
+| Desengrasante | Surfactante/alcalino/solvente | Micelas, emulsificación, alcalinidad | Grasa, cocina, pisos lavables | Sarro duro, desinfección por sí solo | Diluir, enjuagar, probar superficies |
+
+## Conclusión
+
+La guía corta sería:
+
+- **Mineral blanco y duro:** ácido acético.
+- **Mancha orgánica/color/olor en ropa o termo:** percarbonato.
+- **Grasa:** desengrasante.
+- **Microbios en superficie limpia:** amonio cuaternario.
+- **Olor en el aire o espacio cerrado:** carbón activado.
+- **Electrónicos/pantallas:** Sucrosol o alcohol compatible, con paño.
+- **Plagas:** ácido bórico, como pesticida puntual.
+
+La versión adulta de limpiar no es tener más químicos. Es saber qué batalla estás peleando. Y, muy importante: saber cuándo enjuagar y parar.
+
+## Fuentes consultadas
+
+[^poison-cleaning]: Poison Control. “Top tips for a safe spring cleaning.” Consultado el 20 de junio de 2026. <https://www.poison.org/articles/spring-cleaning>
+
+[^washington-bleach]: Washington State Department of Health. “Dangers of Mixing Bleach with Cleaners.” Consultado el 20 de junio de 2026. <https://doh.wa.gov/community-and-environment/contaminants/bleach-mixing-dangers>
+
+[^oecd-percarbonate]: OECD SIDS / UNEP. “Sodium Percarbonate CAS N° 15630-89-4.” Consultado el 20 de junio de 2026. <https://hpvchemicals.oecd.org/UI/handler.axd?id=5681c280-6686-4260-b629-2f23a6db2319>
+
+[^cdc-quats]: CDC. “Chemical Disinfectants: Quaternary Ammonium Compounds.” Consultado el 20 de junio de 2026. <https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html>
+
+[^npic-boric]: National Pesticide Information Center. “Boric Acid Fact Sheet.” Consultado el 20 de junio de 2026. <https://npic.orst.edu/factsheets/boricgen.html>
+
+[^poison-borates]: Poison Control. “Borates, borax, and boric acid: Are they safe?” Consultado el 20 de junio de 2026. <https://www.poison.org/articles/borates>
+
+[^health-canada-boric]: Health Canada. “Boric acid and your health.” Consultado el 20 de junio de 2026. <https://www.canada.ca/en/health-canada/services/chemicals-product-safety/boric-acid.html>
+
+[^unl-carbon]: University of Nebraska-Lincoln Extension. “Drinking water treatment: Activated carbon filtration.” Consultado el 20 de junio de 2026. <https://extensionpubs.unl.edu/publication/g1489/na/html/view>
+
+[^nmsu-cleaners]: New Mexico State University. “Selection and Use of Home Cleaning Products.” Consultado el 20 de junio de 2026. <https://pubs.nmsu.edu/_g/G304/>
+
+[^acs-carbonate]: American Chemical Society. “The Fate of Calcium Carbonate.” Consultado el 20 de junio de 2026. <https://www.acs.org/education/whatischemistry/adventures-in-chemistry/experiments/fate-of-calcium-carbonate.html>
+
+[^qph-sucrosol]: Químicos para el Hogar. “Sucrosol 250mL.” Consultado el 20 de junio de 2026. <https://www.quimicosparaelhogar.com/products/sucrosol-250ml>
+
+[^sucroal-sucrosol]: Sucroal. “Sucrosol.” Consultado el 20 de junio de 2026. <https://sucroal.com.co/producto/sucrosol/>
+
+[^apple-iphone]: Apple Support. “Cleaning your iPhone.” Consultado el 20 de junio de 2026. <https://support.apple.com/en-us/108765>
+
+[^microsoft-surface]: Microsoft Support. “Clean and care for your Surface.” Consultado el 20 de junio de 2026. <https://support.microsoft.com/en-us/surface/setup/clean-and-care-for-your-surface>
+
+[^aci-soapbook]: American Cleaning Institute. “An introduction to the science of how things get clean.” Consultado el 20 de junio de 2026. <https://www.cleaninginstitute.org/sites/default/files/assets/1/AssetManager/SoapBook.pdf>
+
+[^usda-clean-sanitize]: USDA. “Clean THEN Sanitize: A One-Two Punch to Stop Foodborne Illness in the Kitchen.” Consultado el 20 de junio de 2026. <https://www.usda.gov/about-usda/news/blog/clean-then-sanitize-one-two-punch-stop-foodborne-illness-kitchen>
+
+[^usda-organic-sanitizers]: USDA Agricultural Marketing Service. “Allowed Detergents and Sanitizers for Food Contact Surfaces and Equipment in Organic Operations.” Consultado el 20 de junio de 2026. <https://www.ams.usda.gov/sites/default/files/media/8%20Cleaners%20and%20Sanitizers%20FINAL%20RGK%20V2.pdf>
+
+[^wisconsin-baking-soda]: University of Wisconsin Extension / Oconto County. “Baking Soda -- The Everyday Miracle.” Consultado el 20 de junio de 2026. <https://oconto.extension.wisc.edu/files/2011/02/Baking-Soda.pdf>
+
+[^nsi-care]: Natural Stone Institute. “Learn About Cleaning Products for Natural Stone.” Consultado el 6 de julio de 2026. <https://www.naturalstoneinstitute.org/consumers/care/>
+
+[^nsi-stains]: Natural Stone Institute. “Remove Stains from Stone Applications.” Consultado el 6 de julio de 2026. <https://www.naturalstoneinstitute.org/consumers/stains/>

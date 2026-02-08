@@ -1,0 +1,113 @@
+---
+title: "Carbón activado: atrapar olores, no lavar mugre"
+author: "GPT5.5"
+date: "2026-06-27"
+categories: [limpieza, quimicos-hogar, olores]
+---
+
+# Carbón activado
+
+El carbón activado es la herramienta del combo para **olores residuales y moléculas volátiles**. No limpia grasa, no desinfecta, no blanquea, no desincrusta. Es una trampa microscópica para moléculas.
+
+La idea mental:
+
+> Si el olor está en el aire de un espacio cerrado, carbón activado. Si el olor está pegado en grasa o comida vieja, primero lavar.
+
+## ELI10: qué pasa químicamente
+
+El carbón activado tiene muchísimos poros. Es como una ciudad de túneles microscópicos. Las moléculas olorosas entran y se quedan pegadas a las paredes por fuerzas débiles. Eso se llama **adsorción** (con d), no absorción.
+
+La Universidad de Nebraska explica que el carbón activado atrae y retiene contaminantes sobre la superficie de sus partículas, y que la eficiencia depende de área superficial, tamaño de poro, concentración y tiempo de contacto.[^unl-carbon]
+
+Traducción doméstica: necesita estar cerca del olor, en un espacio más o menos cerrado, y con tiempo.
+
+## Problemas y soluciones
+
+### Problema: nevera con olor
+
+**Solución:** primero encontrar y limpiar la fuente; después carbón activado.
+
+**Por qué:** si hay salsa derramada o comida dañada, el carbón está intentando perfumar una fuga. Lavar bandejas con detergente, secar, y luego poner carbón activado en recipiente abierto.
+
+**Cuándo funciona bien:** olor residual después de limpiar.
+
+**Cuándo no:** comida dañada todavía presente, humedad permanente, bandejas sucias.
+
+### Problema: termo limpio pero con olor residual
+
+**Solución:** secar completamente y dejar carbón activado adentro durante varias horas.
+
+**Secuencia correcta:**
+
+1. Si hay café/té pegado: percarbonato + agua caliente.
+2. Si hay leche/batido/proteína: detergente/desengrasante suave.
+3. Si ya está limpio pero huele: carbón activado seco.
+
+**Por qué:** el carbón captura moléculas volátiles; no atraviesa una capa de grasa.
+
+### Problema: recipiente plástico con olor a comida
+
+**Solución:** carbón al final, no al principio.
+
+El plástico puede retener moléculas aromáticas en su superficie. Primero hay que quitar grasa con detergente/desengrasante suave. Luego, si queda olor, carbón activado en el recipiente seco y cerrado.
+
+**No usar:** carbón como excusa para no lavar. Eso es decoración.
+
+### Problema: zapatos, maletas, armarios
+
+**Solución:** carbón activado en bolsita permeable o recipiente abierto.
+
+**Por qué:** espacios cerrados + olor volátil + tiempo = buen caso. Si hay humedad, moho o sudor fresco, primero secar/lavar/controlar humedad.
+
+### Problema: filtro de agua o aire
+
+**Solución:** usar solo sistemas diseñados para eso.
+
+**Por qué:** el carbón activado puede mejorar sabor/olor y atrapar algunos compuestos orgánicos, pero no vuelve potable cualquier agua. Un filtro tiene flujo, granulometría, tiempo de contacto y capacidad definida.
+
+## Lo que sí hace bien
+
+| Problema | ¿Sirve? | Condición |
+|---|---:|---|
+| Olor residual en nevera | Sí | Fuente removida y superficie limpia. |
+| Olor en termo limpio y seco | Sí | Tiempo de contacto. |
+| Armarios/zapatos/maletas | Sí | Mejor si el espacio está seco. |
+| Olores de recipientes plásticos | A veces | Después de desengrasar. |
+
+## Lo que no hace bien
+
+| Problema | Por qué no |
+|---|---|
+| Grasa | No emulsiona ni disuelve. |
+| Sarro | No aporta ácido. |
+| Manchas de café | No oxida; usa percarbonato. |
+| Bacterias/moho activo | No desinfecta. |
+| Humedad estructural | No arregla la causa. |
+
+## Con qué no mezclar
+
+| No mezclar con | Por qué |
+|---|---|
+| Agua para “hacer pasta” de limpieza | Pierdes el uso principal y haces reguero negro. |
+| Desinfectantes | Puede adsorber ingredientes activos y reducir eficacia. |
+| Aromatizantes/aceites esenciales | El carbón los captura; estás peleando contra tu propio producto. |
+| Químicos peligrosos para “neutralizarlos” | Adsorción no es garantía de seguridad. |
+
+## Dónde no usarlo
+
+- Directamente sobre telas claras si puede manchar.
+- Dentro de equipos con ventiladores si el polvo puede entrar.
+- Como tratamiento médico casero. El carbón medicinal es otra conversación y puede interferir con medicamentos; no improvisar.
+- Como filtro de emergencia sin sistema certificado.
+
+## Mini-reglas
+
+- Primero limpiar la fuente del olor.
+- Usar seco.
+- Dar tiempo.
+- Reemplazar o regenerar si el producto lo permite; se satura.
+- No mezclar con aromatizantes: o capturas olores o perfumas, no ambas al tiempo.
+
+## Fuentes
+
+[^unl-carbon]: University of Nebraska-Lincoln Extension. “Drinking water treatment: Activated carbon filtration.” <https://extensionpubs.unl.edu/publication/g1489/na/html/view>

@@ -1,0 +1,253 @@
+---
+title: "Ácido cítrico: sarro, cal, ropa y quelación sin olor a vinagre"
+author: "GPT5.5"
+date: "2026-06-27"
+categories: [limpieza, quimicos-hogar, banos, ropa]
+---
+
+# Ácido cítrico
+
+El ácido cítrico es la herramienta para **sarro, cal, depósitos minerales, hervidores, cafeteras, grifería, ropa afectada por agua dura y manchas minerales suaves**. Se parece al ácido acético en su rol, pero tiene una ventaja práctica: viene sólido, no huele a vinagre y además puede **quelar** metales.
+
+La idea mental:
+
+> Ácido cítrico = ácido sólido para minerales. Excelente cuando el enemigo es blanco, duro y viene del agua.
+
+## ELI10: qué pasa químicamente
+
+El sarro suele ser carbonato de calcio. El ácido cítrico dona protones que rompen el carbonato y liberan CO2. Además, el citrato puede abrazar iones metálicos como calcio, magnesio o hierro. Ese “abrazo químico” se llama quelación.
+
+Con carbonato de calcio, la idea general es:
+
+$$
+CaCO_3 + 2H^+ \rightarrow Ca^{2+} + H_2O + CO_2
+$$
+
+Luego el citrato puede mantener parte del calcio en solución para que se enjuague mejor. New Mexico State University lista el ácido cítrico entre los ácidos suaves útiles en limpieza doméstica para depósitos minerales.[^nmsu-cleaners]
+
+## Problemas y soluciones
+
+### Problema: hervidor con costra blanca
+
+**Solución:** ácido cítrico en agua caliente, reposo, enjuague largo.
+
+**Por qué:** el ácido disuelve carbonatos. El calor acelera la reacción. Como no deja olor fuerte a vinagre, suele ser más amable para hervidores y cafeteras.
+
+**Cuidado:** seguir instrucciones del aparato. No usar si hay aluminio expuesto o recubrimientos dudosos sin verificar.
+
+### Problema: cafetera con cal
+
+**Solución:** solución de ácido cítrico, ciclo de descalcificación si el fabricante lo permite, y varios ciclos de agua.
+
+**Por qué:** quita depósitos minerales que afectan flujo y sabor.
+
+**No confundir:** si la cafetera está grasosa por aceites de café, también necesita limpieza con detergente apto o producto específico. El ácido quita mineral, no aceite.
+
+### Problema: grifería con sarro
+
+**Solución:** ácido cítrico disuelto, paño empapado, tiempo de contacto, enjuague y secado.
+
+**Por qué:** igual que ácido acético, pero sin olor a vinagre y con buena capacidad de mantener minerales en solución.
+
+### Problema: vidrio de ducha con marcas blancas
+
+**Solución:** ácido cítrico para marcas minerales. Si hay capa grasosa/jabón, limpiar por pasos con detergente/desengrasante suave.
+
+### Problema: manchas de óxido leves
+
+**Solución:** ácido cítrico puede ayudar más que acético en algunos casos porque el citrato forma complejos con hierro.
+
+**Cuidado:** en metales, no dejar indefinidamente. Enjuagar y secar muy bien para evitar corrosión posterior.
+
+### Problema: ropa gris por agua dura
+
+**Solución:** intervención ácida separada y diluida, con prueba.
+
+**Por qué:** si hay minerales atrapados, el ácido ayuda a solubilizarlos. Pero no es quitamanchas universal. Para amarilleo orgánico, percarbonato. Para delicadas, cuidado.
+
+## Usos en ropa
+
+En lavandería, el ácido cítrico sirve cuando el problema tiene apellido mineral: calcio, magnesio, hierro, residuos alcalinos de detergente o acumulaciones duras de antitranspirante. No reemplaza al detergente, no oxida manchas como el percarbonato y no "mata olores" por magia. Es más fino que eso: baja el pH y deja al citrato agarrando iones metálicos para que se vayan con el enjuague.
+
+La pista viene de dos lados. University of Georgia Extension señala que minerales como calcio, magnesio, manganeso, hierro, cobre o zinc pueden afectar la capacidad de limpieza del agua y causar manchas de lavandería.[^uga-water] Y el American Cleaning Institute explica que los agentes quelantes inactivan minerales de dureza como calcio y magnesio; en particular, el citrato de sodio se usa como builder/quelante en productos de lavandería sin fosfatos.[^aci-builders] El ácido cítrico no es exactamente citrato de sodio, pero en agua deja especies de citrato disponibles para complejar metales. Esa es la parte útil.
+
+### 1. Ropa áspera, gris o acartonada por agua dura
+
+**Cuándo sospecharlo:** toallas que quedan tiesas, camisetas oscuras con velo gris, ropa que se siente "crujiente" aunque usaste detergente normal, o zonas donde el agua deja sarro en grifos y hervidores.
+
+**Cómo usarlo:** solo como enjuague ácido separado si la etiqueta de la prenda, la lavadora y el producto lo permiten. Disuélvelo completamente y usa la dosis de la etiqueta del producto; no doy una dosis universal porque la concentración del polvo, el volumen de agua y la fibra cambian. Si queda sensación rara en la tela, haz un enjuague extra.
+
+**Por qué funciona:** el ácido ayuda a disolver carbonatos y el citrato ayuda a mantener calcio y magnesio en solución. Esto puede mejorar tacto y opacidad cuando el problema era mineral.
+
+**Límite:** no convierte ropa sucia en limpia. Si hay grasa corporal, sudor, protector solar o aceite, primero manda detergente; el ácido va después.
+
+### 2. Toallas duras
+
+**Uso razonable:** lavar primero con detergente bien dosificado y luego hacer un enjuague ácido ocasional.
+
+**Por qué:** muchas toallas duras son mezcla de minerales + exceso de detergente + suavizante viejo. El ácido ayuda con minerales y alcalinidad residual, pero no disuelve bien ceras ni siliconas de suavizantes. Si la toalla está impermeabilizada por suavizante, puede necesitar varios lavados sin suavizante.
+
+**Regla:** ácido cítrico ocasional, no baño fuerte cada semana. La toalla agradece la moderación.
+
+### 3. Manchas leves de óxido en ropa
+
+**Cuándo sí:** puntos naranjas o marrones por contacto con metal, agua con hierro o tendedero oxidado, especialmente en algodón o lino lavable.
+
+**Cómo probar:** humedece la zona, aplica una solución suave de ácido cítrico, espera 5-15 minutos, enjuaga muy bien y lava. Repite solo si la tela no cambia de color ni textura.
+
+**Por qué:** el citrato puede formar complejos solubles con hierro. En lenguaje de cocina: ayuda a despegar el hierro de la fibra para que el agua se lo lleve.
+
+**Importante:** no uses cloro sobre óxido. Illinois Extension recomienda removedores comerciales de óxido o limón para manchas ligeras, y advierte que el cloro puede fijar manchas de óxido.[^illinois-rust] Como el limón aporta ácido cítrico, el principio químico es el mismo, pero con polvo puedes pasarte más fácil: prueba primero.
+
+### 4. Axilas duras por antitranspirante
+
+**Cuándo ayuda:** cuando la zona está rígida, blanquecina o como encerada por sales de aluminio/minerales del antitranspirante.
+
+**Cómo:** pretratamiento corto. Aplica solución diluida, deja 10-20 minutos, frota suave con cepillo blando, enjuaga y luego lava con detergente. Si además hay amarillo por sudor oxidado, ese amarillo suele pedir percarbonato en otro paso, no ácido en el mismo paso.
+
+**Límite:** si la mancha es principalmente grasa corporal + perfume + desodorante, el ácido solo se queda mirando la mitad del problema. Ahí necesitas surfactantes y tiempo de lavado.
+
+### 5. Ropa deportiva con olor persistente
+
+**Cuándo puede ayudar:** si la prenda huele "a detergente viejo", queda tiesa o tiene residuos minerales que atrapan olor.
+
+**Cuándo no:** si el olor viene de grasa corporal acumulada en poliéster, el protagonista sigue siendo un detergente adecuado para ropa deportiva, a veces con enzimas. El ácido cítrico puede ser un enjuague de apoyo, no el delantero estrella.
+
+### 6. Ropa blanca opaca, pero no manchada de comida
+
+**Uso:** enjuague ácido o remojo corto solo si sospechas agua dura o hierro leve.
+
+**No confundir:** blanco opaco por minerales no es lo mismo que amarillo por sudor, aceite corporal, nicotina, perfume o almacenamiento. Para color orgánico, el percarbonato suele ser mejor. Para mineral, ácido.
+
+### Protocolo seguro para experimentar
+
+1. Leer la etiqueta de cuidado de la prenda.
+2. Probar en una costura interna o zona escondida.
+3. Disolver siempre antes de tocar la tela; no echar cristales directos sobre ropa.
+4. Usar tiempos cortos: minutos para manchas puntuales, un enjuague para carga completa.
+5. Enjuagar bien, sobre todo si hay elásticos, broches, cremalleras o estampados.
+6. No mezclar con cloro, percarbonato, amoniaco ni detergentes alcalinos en el mismo paso; usar por etapas y enjuagar.
+
+### Dónde ser especialmente conservador
+
+| Prenda o material | Qué hacer |
+|---|---|
+| Lana y seda | Evitar recetas caseras salvo etiqueta clara. Son fibras sensibles y los tintes pueden reaccionar raro. |
+| Ropa antigua, bordada o de valor | No experimentar. Smithsonian advierte que la acidez puede ser especialmente dañina para textiles conservados.[^smithsonian-textiles] |
+| Viscosa/rayón | Evitar remojos largos; pierde fuerza mojada y se deforma fácil. |
+| Prendas con elastano | Evitar ácido fuerte o repetido; prueba baja y enjuague largo. |
+| Ropa con botones metálicos, taches o cremalleras delicadas | No remojar todo; trata solo la tela y enjuaga rápido. |
+| Colores intensos no probados | Prueba de color primero. El problema puede no ser la fibra, sino el tinte. |
+
+### Tabla rápida para ropa
+
+| Problema en ropa | ¿Ácido cítrico? | Mejor enfoque |
+|---|---:|---|
+| Ropa áspera por agua dura | Sí | Enjuague ácido separado. |
+| Toallas tiesas | Sí, a veces | Detergente correcto + enjuague ácido ocasional. |
+| Óxido leve | Sí, con prueba | Tratamiento puntual; no cloro. |
+| Axilas rígidas por antitranspirante | A veces | Ácido corto para mineral + detergente para grasa. |
+| Amarillo de sudor | No como principal | Percarbonato o detergente enzimático según tela. |
+| Grasa, aceite, maquillaje | No | Surfactantes/desengrasante textil. |
+| Olor en poliéster deportivo | Apoyo | Detergente adecuado; ácido solo para residuos. |
+| Delicadas o prendas antiguas | Mejor no | Limpieza profesional o producto específico. |
+
+## Lo que sí hace bien
+
+| Problema | ¿Sirve? | Por qué |
+|---|---:|---|
+| Sarro/cal | Sí | Disuelve carbonatos. |
+| Hervidores/cafeteras | Sí | Descalcifica sin olor fuerte. |
+| Grifería/ducha | Sí | Ácido + quelación. |
+| Manchas minerales | Sí | Ayuda con calcio/magnesio/hierro leve. |
+| Residuos de agua dura | Sí | Mantiene minerales en solución. |
+| Ropa áspera por agua dura | Sí | Enjuague ácido separado ayuda a retirar minerales. |
+| Óxido leve en tela lavable | A veces | Citrato puede complejar hierro; siempre con prueba. |
+
+## Lo que no hace bien
+
+| Problema | Por qué no |
+|---|---|
+| Grasa de cocina | Necesita surfactantes/desengrasante. |
+| Desinfección formal | No reemplaza quat u otro desinfectante registrado. |
+| Manchas orgánicas coloreadas | No oxida como percarbonato. |
+| Moho profundo | No resuelve material colonizado ni humedad. |
+| Pantallas/electrónicos | Ácido + humedad = no. |
+| Amarillo de sudor en ropa | Suele necesitar oxidación o enzimas, no solo acidez. |
+
+## Ácido cítrico vs ácido acético
+
+| Caso | Ácido cítrico | Ácido acético 10% |
+|---|---|---|
+| Olor | Poco o neutro | Huele a vinagre fuerte. |
+| Formato | Sólido, fácil de dosificar | Líquido listo. |
+| Sarro | Muy bueno | Muy bueno. |
+| Quelación | Mejor, por citrato | Menor. |
+| Uso rápido en spray | Hay que disolver | Ya está en solución. |
+
+## Qué pasa si mezclas ácido cítrico con bicarbonato
+
+Esta mezcla es la base de muchas bombas efervescentes. Con agua, el ácido y el bicarbonato reaccionan:
+
+$$
+3NaHCO_3 + C_6H_8O_7 \rightarrow Na_3C_6H_5O_7 + 3CO_2 + 3H_2O
+$$
+
+**ELI10:** el ácido le entrega protones al bicarbonato. El bicarbonato se convierte en CO2, que son las burbujas. Al final queda principalmente citrato de sodio, agua y gas que se fue.
+
+### Cuándo sí puede servir la mezcla
+
+- Para efervescencia mecánica en un termo o botella, si luego igual vas a lavar.
+- Para pastillas efervescentes que liberan burbujas y fragancia.
+- Para destapar algo muy leve si el movimiento de burbujas ayuda, aunque no es una solución seria para grasa/pelo.
+
+### Cuándo no sirve
+
+- Si quieres disolver sarro: usa ácido cítrico solo.
+- Si quieres frotar/desodorizar con base suave: usa bicarbonato solo.
+- Si quieres desinfectar: ninguno de los dos es la herramienta principal.
+
+La mezcla “se ve activa” porque burbujea, pero químicamente puede quedar menos útil para limpieza que usar cada uno por separado.
+
+## Con qué no mezclar
+
+| No mezclar con | Por qué |
+|---|---|
+| Cloro/hipoclorito | Ácido + cloro puede liberar cloro gaseoso. Washington State Department of Health advierte contra mezclar cloro con ácidos.[^washington-bleach] |
+| Amonio cuaternario | Puede alterar formulación; usar por pasos. |
+| Percarbonato al mismo tiempo | Neutraliza carbonato y cambia liberación/eficacia. |
+| Desengrasante alcalino | Ácido + base se neutralizan. |
+| Bicarbonato, si tu objetivo es limpieza ácida | Se neutralizan y producen CO2. |
+
+## Dónde no usarlo
+
+- Mármol, travertino, piedra caliza, terrazo calcáreo.
+- Juntas cementosas como rutina.
+- Aluminio sin prueba.
+- Madera y acabados delicados.
+- Pantallas/electrónicos.
+- Metales en remojo prolongado.
+
+## Mini-reglas
+
+- Para sarro: ácido cítrico solo, disuelto.
+- Para grasa: desengrasante, no ácido.
+- Para manchas orgánicas: percarbonato.
+- Para ropa con agua dura: enjuague ácido separado, bajo y probado.
+- Para óxido en ropa: ácido cítrico puntual, nunca cloro.
+- Para mezclar con bicarbonato: entender que las burbujas son neutralización, no poder infinito.
+- Enjuagar y secar metales.
+
+## Fuentes
+
+[^nmsu-cleaners]: New Mexico State University. “Selection and Use of Home Cleaning Products.” <https://pubs.nmsu.edu/_g/G304/>
+
+[^uga-water]: University of Georgia Extension. “Water Quality Testing.” <https://extension.uga.edu/county-offices/union/agriculture-and-natural-resources/testing-services/water-quality-testing.html>
+
+[^aci-builders]: American Cleaning Institute. “Glossary of Cleaning Product Terminology.” <https://www.cleaninginstitute.org/understanding-products/ingredients/glossary-cleaning-product-terminology>
+
+[^illinois-rust]: University of Illinois Extension. “Ask Extension - Laundry.” <https://web.extension.illinois.edu/askextension/thisQuestion.cfm?AskSiteID=75&ThreadID=8143&catID=160>
+
+[^smithsonian-textiles]: Smithsonian Institution. “How do I store antique textiles at home?” <https://www.si.edu/faqs/antique-textile-storage>
+
+[^washington-bleach]: Washington State Department of Health. “Dangers of Mixing Bleach with Cleaners.” <https://doh.wa.gov/community-and-environment/contaminants/bleach-mixing-dangers>

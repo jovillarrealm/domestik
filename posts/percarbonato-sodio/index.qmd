@@ -1,0 +1,175 @@
+---
+title: "Percarbonato de sodio: oxígeno activo para manchas, olores y termos"
+author: "GPT5.5"
+date: "2026-06-27"
+categories: [limpieza, quimicos-hogar, ropa]
+---
+
+# Percarbonato de sodio
+
+El percarbonato de sodio es la herramienta del combo para **manchas orgánicas, ropa percudida, olores en textiles y mugre coloreada en acero inoxidable o cerámica**. No es un desengrasante puro, no es un desincrustante de sarro, no es un desinfectante de etiqueta y **no es mi primera opción para mármol**. Es un oxidante alcalino.
+
+La idea mental es esta:
+
+> Si el problema se ve como color pegado, olor orgánico o percudido: piensa percarbonato. Si el problema es sarro blanco duro: ácido. Si es grasa pesada: desengrasante.
+
+Y si el problema está en mármol: baja la velocidad. El mármol es caro, poroso y sensible a química mal elegida.
+
+## ELI10: qué pasa químicamente
+
+El percarbonato es como una pastilla seca hecha de **carbonato de sodio** y **peróxido de hidrógeno**. Cuando toca agua se separa:
+
+$$
+2Na_2CO_3 \cdot 3H_2O_2 \rightarrow 2Na_2CO_3 + 3H_2O_2
+$$
+
+La parte carbonato sube el pH. Eso ayuda a que el agua lave mejor, ablanda parte de la mugre grasa y ayuda al detergente. La parte peróxido oxida moléculas coloreadas. Muchas manchas de café, té, vino, sudor viejo o comida tienen estructuras que absorben luz. El peróxido les cambia la forma química y dejan de verse tanto.
+
+Por eso es una herramienta doble:
+
+- **Alcalinidad:** ayuda a despegar mugre orgánica.
+- **Oxidación:** rompe color y olor.
+
+La OECD describe el percarbonato como un aducto de carbonato de sodio y peróxido de hidrógeno que en agua libera esas especies.[^oecd-percarbonate]
+
+## Problemas y soluciones
+
+### Problema: ropa blanca percudida
+
+**Solución:** remojo con percarbonato + detergente.
+
+**Cómo pensarlo:** el detergente emulsiona grasa y mugre; el percarbonato oxida el color amarillento y ayuda con olor. Juntos tienen sentido porque atacan partes distintas del problema. El detergente no blanquea bien por sí solo; el percarbonato sin detergente puede oxidar, pero no siempre levanta toda la grasa.
+
+**Cómo usarlo:** disolver primero en agua tibia/caliente si la prenda lo permite, agregar detergente, remojar y luego lavar normal.
+
+**Temperatura:** funciona mejor con agua tibia o caliente. En agua fría funciona más lento. No usar calor si la mancha es sangre o proteína fresca: primero agua fría.
+
+### Problema: camisetas con axilas amarillas
+
+**Solución:** no empezar por percarbonato a lo bruto. Primero diagnosticar.
+
+La mancha de axila suele ser mezcla de:
+
+- sales de aluminio del antitranspirante;
+- grasa corporal;
+- proteína/sudor;
+- color amarillo oxidado.
+
+**Secuencia útil:**
+
+1. Si la zona está dura o acartonada, tratar primero con ácido acético diluido y enjuagar. Eso ayuda con sales minerales.
+2. Luego detergente o jabón para grasa.
+3. Después percarbonato para el amarillo, si la tela y el color lo toleran.
+
+**Por qué:** el percarbonato blanquea, pero no disuelve todas las sales de desodorante. Secuencia, no coctel.
+
+### Problema: toallas con olor agrio
+
+**Solución:** percarbonato ocasional + lavado correcto.
+
+El olor agrio suele ser humedad, biofilm, detergente acumulado y secado incompleto. El percarbonato oxida moléculas olorosas y ayuda a sacar mugre orgánica.
+
+**Pero:** si la toalla queda acartonada por agua dura o exceso de suavizante, hacer otro ciclo separado con ácido acético diluido. Separado significa separado. No meter ácido y percarbonato en el mismo balde para que hagan burbujitas: se neutraliza parte del poder útil.
+
+### Problema: termo de acero inoxidable con olor o manchas de café
+
+**Solución:** percarbonato + agua caliente.
+
+**Por qué funciona:** el café y el té dejan películas orgánicas coloreadas. El peróxido las oxida y el carbonato ayuda a desprenderlas. El acero inoxidable tolera mucho mejor este tratamiento que el aluminio.
+
+**Cómo usarlo:** una pequeña cantidad de percarbonato, llenar con agua caliente, dejar actuar, cepillar con cepillo de botella y enjuagar muy bien.
+
+**No usar:** en termos de aluminio o botellas con partes de aluminio. Tampoco dejarlo días.
+
+### Problema: tazas, botellas y recipientes manchados
+
+**Solución:** percarbonato para color orgánico; carbón activado para olor residual; ácido acético para sarro.
+
+Si hay mancha marrón de café: percarbonato.  
+Si hay olor residual sin mancha: carbón activado seco.  
+Si hay costra blanca mineral: ácido acético.
+
+### Problema: juntas de baldosa con coloración orgánica
+
+**Solución:** percarbonato si el negro/marrón es moho superficial o mugre orgánica.
+
+**Por qué:** oxida pigmentos y ayuda a desprender biofilm. Si lo blanco duro es sarro, no es el químico correcto.
+
+**Cuidado:** juntas cementosas sufren con demasiada química. Enjuagar bien.
+
+### Problema: ¿percarbonato en mármol?
+
+**Respuesta corta:** no lo usaría como método doméstico por defecto.
+
+**Por qué:** el percarbonato libera peróxido de hidrógeno y carbonato de sodio. El peróxido oxida; el carbonato vuelve el medio alcalino. El mármol no se arruina por alcalinidad exactamente igual que por vinagre o limón, pero sigue siendo una piedra calcárea porosa con acabado y sellador sensibles. Un oxidante alcalino en pasta o remojo puede dejar residuos, opacar selladores, afectar zonas pulidas o crear un parche más claro que la piedra alrededor.
+
+**Entonces qué usar:** para mantenimiento, limpiador neutro o jabón suave y secado. Natural Stone Institute recomienda limpiar piedra natural con limpiador neutro, stone soap o detergente líquido suave, enjuagar y secar; también advierte que productos con limón, vinagre u otros ácidos pueden opacar o grabar piedras calcáreas.[^nsi-care]
+
+**Si ya hay mancha amarilla:** no asumas percarbonato. Primero diagnostica:
+
+| Amarillo en mármol | Mejor sospecha | Enfoque más seguro |
+|---|---|---|
+| Amarillo/marrón de café, té, comida, hojas, tabaco | Mancha orgánica | Cataplasma con material absorbente blanco + agua oxigenada. |
+| Mancha aceitosa amarilla/translúcida | Aceite, grasa, crema, cosmético | Cataplasma con bicarbonato y agua, o material absorbente + solvente adecuado. |
+| Naranja/amarillo siguiendo metal, lata, tornillo o pata de mueble | Óxido/hierro | Removedor de óxido compatible con piedra + cataplasma; muchas veces profesional. |
+| Zona opaca, áspera o sin brillo | Grabado/ataque químico, no mancha | Re-pulido; blanquear no arregla relieve. |
+
+Natural Stone Institute recomienda para manchas orgánicas en piedra una cataplasma con material absorbente y peróxido de hidrógeno al 12%; para manchas de aceite, bicarbonato y agua o material absorbente con solvente; para óxido/hierro, cataplasma con removedor de óxido comercial, avisando que son difíciles y pueden requerir profesional.[^nsi-stains]
+
+### Problema: manchas de sangre
+
+**Solución:** agua fría primero. Luego percarbonato solo si la tela lo tolera.
+
+**ELI10:** la sangre tiene proteínas. El calor las cocina y las pega a la fibra. Primero agua fría para sacar lo posible. Después, si queda color, oxidante suave.
+
+## Dónde sí
+
+| Material | Veredicto | Razón |
+|---|---|---|
+| Algodón blanco | Sí | Tolera mejor alcalinidad y oxidación. |
+| Poliéster blanco o claro | Sí, con prueba | Retiene olores; cuidado con calor. |
+| Acero inoxidable | Sí | Adecuado para termos/tazas si se enjuaga. |
+| Cerámica/porcelana | Sí | Buena para manchas orgánicas. |
+| Juntas de baldosa | Con cuidado | Útil contra orgánico; enjuagar. |
+
+## Dónde no
+
+| Material | Por qué no |
+|---|---|
+| Aluminio | El percarbonato libera carbonato, un medio alcalino; los alcalinos pueden oscurecer/corroer aluminio. NMSU advierte que los álcalis, incluyendo limpiadores alcalinos, pueden dañar aluminio.[^nmsu-alkalis] |
+| Lana y seda | Son fibras proteicas; oxidantes y alcalinidad pueden debilitarlas o amarillearlas. |
+| Cuero | Lo reseca y oxida. |
+| Madera | Agua + alcalinidad + oxidante puede levantar acabado y manchar. |
+| Piedra natural calcárea, mármol, travertino | No es su herramienta doméstica; mejor pH neutro. Para manchas, cataplasma específica según causa. |
+| Pantallas/electrónicos | Agua + oxidante + residuos = mala idea. |
+| Colores inestables | Puede decolorar. Prueba escondida. |
+
+## Con qué no mezclar
+
+| No mezclar con | Por qué |
+|---|---|
+| Cloro/hipoclorito | Mezclar oxidantes aumenta riesgo, irritación y daño de materiales. |
+| Ácido acético/vinagre en el mismo recipiente | El ácido neutraliza el carbonato; pierdes alcalinidad útil y generas CO2. |
+| Amonio cuaternario | No tiene sentido: uno oxida y el otro desinfecta; úsalo por pasos con enjuague. |
+| Desengrasantes desconocidos | Pueden tener ingredientes incompatibles; no hace falta mezclarlos. |
+| Recipiente cerrado | Puede liberar gas/oxígeno; nunca guardar soluciones preparadas. |
+
+## Mini-reglas
+
+- Disolver antes de poner sobre tela.
+- Usar agua tibia/caliente cuando la fibra lo permita.
+- No preparar para guardar.
+- No usar en aluminio.
+- No usar como receta casual sobre mármol o piedra natural calcárea.
+- No usar como desinfectante formal si necesitas una etiqueta sanitaria.
+- Para ropa: detergente + percarbonato sí puede tener sentido; ácido + percarbonato al mismo tiempo no.
+
+## Fuentes
+
+[^oecd-percarbonate]: OECD SIDS / UNEP. “Sodium Percarbonate CAS N° 15630-89-4.” <https://hpvchemicals.oecd.org/UI/handler.axd?id=5681c280-6686-4260-b629-2f23a6db2319>
+
+[^nmsu-alkalis]: New Mexico State University. “Selection and Use of Home Cleaning Products.” <https://pubs.nmsu.edu/_g/G304/>
+
+[^nsi-care]: Natural Stone Institute. “Learn About Cleaning Products for Natural Stone.” <https://www.naturalstoneinstitute.org/consumers/care/>
+
+[^nsi-stains]: Natural Stone Institute. “Remove Stains from Stone Applications.” <https://www.naturalstoneinstitute.org/consumers/stains/>

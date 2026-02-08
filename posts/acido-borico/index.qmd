@@ -1,0 +1,110 @@
+---
+title: "Ácido bórico: herramienta puntual para plagas, no limpiador general"
+author: "GPT5.5"
+date: "2026-06-27"
+categories: [limpieza, quimicos-hogar, plagas]
+---
+
+# Ácido bórico
+
+El ácido bórico es el raro del combo: no es exactamente limpiador. Es más bien una herramienta de **control de plagas** y algunos usos puntuales contra olor/humedad, siempre con cuidado.
+
+La idea mental:
+
+> Ácido bórico = pesticida puntual en grietas y rutas de insectos. No es polvo mágico para espolvorear por la cocina.
+
+## ELI10: qué pasa químicamente
+
+El ácido bórico y sus sales afectan insectos principalmente cuando los ingieren o pasan repetidamente por el polvo. El National Pesticide Information Center explica que puede afectar el sistema nervioso de insectos y dañar su exterior; también se usa contra hongos y otros organismos.[^npic-boric]
+
+En cristiano: para una cucaracha, una cantidad pequeña en el sitio correcto puede ser un problema. Para una mesa de cocina, es un residuo tóxico innecesario.
+
+## Problemas y soluciones
+
+### Problema: cucarachas en grietas, zócalos o detrás de electrodomésticos
+
+**Solución:** ácido bórico en capa muy fina y localizada, o mejor aún, cebo cerrado formulado para cucarachas.
+
+**Por qué funciona:** si el insecto atraviesa o consume el material, lo transporta y se expone. Una montaña visible no mejora el resultado; los insectos suelen evitar acumulaciones.
+
+**Dónde:** grietas, detrás de nevera, bajo zócalos, huecos inaccesibles.
+
+**Dónde no:** mesones, cajones de cubiertos, platos, zonas donde niños o mascotas alcancen.
+
+### Problema: hormigas
+
+**Solución:** preferir cebos cerrados. El ácido bórico puede funcionar cuando el insecto lleva alimento contaminado a la colonia, pero improvisar mezclas alimentarias en casa puede dejar tóxicos al alcance de otros.
+
+**Criterio:** si la ruta está cerca de comida o mascotas, mejor cebo comercial cerrado.
+
+### Problema: olor en zapatos o armarios
+
+**Solución:** no es mi primera opción. Mejor carbón activado, ventilación, lavado y control de humedad.
+
+**Por qué:** el ácido bórico no “absorbe” olores como carbón; puede tener efecto antifúngico, pero usar pesticida para olor doméstico suele ser exceso.
+
+### Problema: moho
+
+**Solución:** arreglar humedad primero. En superficies domésticas, limpiar con producto adecuado; no convertir ácido bórico en spray universal.
+
+**Por qué:** el moho vuelve si la humedad sigue. La química sola solo compra tiempo.
+
+## Lo que sí hace bien
+
+| Problema | ¿Sirve? | Cómo |
+|---|---:|---|
+| Cucarachas | Sí | Polvo fino o cebo cerrado en sitios inaccesibles. |
+| Hormigas | A veces | Mejor en cebos controlados, no suelto. |
+| Grietas secas con tránsito de insectos | Sí | Aplicación mínima. |
+
+## Lo que no hace bien
+
+| Problema | Por qué no |
+|---|---|
+| Desinfectar superficies | No es ese tipo de producto doméstico. |
+| Limpiar grasa | No emulsiona. |
+| Quitar sarro | No disuelve carbonatos como ácido acético. |
+| Olores generales | Carbón activado es más lógico. |
+| Ropa o piel | No es cosmético ni detergente. |
+
+## Con qué no mezclar
+
+| No mezclar con | Por qué |
+|---|---|
+| Comida o azúcar en zonas abiertas | Puedes crear un tóxico accesible a niños/mascotas. |
+| Desengrasantes o limpiadores líquidos | Lo dispersas y pierdes control de exposición. |
+| Ácido acético/percarbonato/quats | No mejora control de plagas y complica residuos. |
+| Aromatizantes | Tapar olor no controla insectos; puedes atraerlos. |
+
+## Dónde nunca
+
+- Mesones.
+- Vajilla.
+- Tablas de cortar.
+- Camas.
+- Ropa interior.
+- Juguetes.
+- Camas o platos de mascotas.
+- Cualquier sitio donde pueda inhalarse como polvo frecuente.
+
+## Seguridad
+
+Poison Control advierte que boratos, borax y ácido bórico pueden ser tóxicos si se ingieren, especialmente en niños y mascotas.[^poison-borates] Health Canada ha publicado advertencias sobre exposición doméstica a ácido bórico y preocupación por efectos sobre desarrollo y reproducción.[^health-canada-boric]
+
+La conclusión práctica: si lo usas, úsalo como pesticida, no como ingrediente casero simpático.
+
+## Mini-reglas
+
+- Menos es más: capa invisible, no montaña.
+- Solo en lugares inaccesibles.
+- Mejor cebo cerrado si hay niños o mascotas.
+- Nunca en superficies de comida.
+- No usar para “limpiar”.
+
+## Fuentes
+
+[^npic-boric]: National Pesticide Information Center. “Boric Acid Fact Sheet.” <https://npic.orst.edu/factsheets/boricgen.html>
+
+[^poison-borates]: Poison Control. “Borates, borax, and boric acid: Are they safe?” <https://www.poison.org/articles/borates>
+
+[^health-canada-boric]: Health Canada. “Boric acid and your health.” <https://www.canada.ca/en/health-canada/services/chemicals-product-safety/boric-acid.html>

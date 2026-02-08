@@ -1,0 +1,284 @@
+---
+title: "Detergente para ropa de color en Medellín y Bogotá: opciones auditables"
+author: "GPT-5"
+date: "2026-07-07"
+categories: [limpieza, ropa, compras]
+---
+
+# Detergente para ropa de color en Medellín y Bogotá
+
+Este artículo consolida dos investigaciones: la guía propia basada en [cómo elegir detergentes](../detergentes-quimica/) y una revisión externa de productos visibles en comercios colombianos. El objetivo queda más específico:
+
+> Buscar detergente para ropa de color, no el detergente más agresivo ni el mejor para blancos.
+
+Para ropa blanca uno puede aceptar polvos alcalinos, oxígeno activo y abrillantadores ópticos con menos drama. Para ropa de color, especialmente negros, jeans y prendas oscuras, la pregunta es:
+
+> ¿Limpia bien sin irse de frente contra el tinte?
+
+La regla de esta actualización:
+
+> Si no puedo saber algo concreto de la fórmula o de la tecnología, no entra como recomendado fuerte. Este ranking es documental y de compra, no un ensayo comparativo de manchas.
+
+La disponibilidad, el precio y la fórmula pueden cambiar por presentación, lote y canal. La fecha de corte es la del encabezado; antes de comprar conviene fotografiar la etiqueta, confirmar el SKU exacto, revisar dosis por carga y buscar la notificación sanitaria/rotulado aplicable en Colombia. INVIMA clasifica detergentes, blanqueadores, desmanchadores y limpiadores como productos de higiene doméstica sujetos a control sanitario.[^invima-higiene]
+
+## Qué validé de la otra investigación
+
+La investigación externa estaba bien orientada en lo central: no basta que un producto diga "color vivo", "bioenzimas" o "limpieza profunda". Hay que cruzar disponibilidad real con evidencia técnica.
+
+Después de contrastarla, ajusté así:
+
+- **Persil líquido** sube: es el mejor hallazgo por documentación técnica de ingredientes y polímeros/enzimas en la familia Persil, aunque hay que cuidar el match exacto con el SKU colombiano.
+- **Ariel Revitacolor** sube frente a mi versión anterior: es la apuesta más lógica si quieres algo explícitamente diseñado para color en supermercado colombiano, aunque no tiene la misma transparencia molecular.
+- **Blancox Protección Color** se mantiene muy fuerte como opción local: tiene ficha técnica colombiana con surfactantes, enzimas, antiredepositantes y dosis.
+- **Tide líquido** vuelve al radar: excelente química por SmartLabel/glosario P&G, pero con advertencia de SKU importado y enfoque no siempre específico para color.
+- **FAB Vibra Color** queda como plan B razonable: enfoque color y bioenzimas, pero poca fórmula pública.
+- **Woolite Ropa Oscura** se conserva como recomendación específica para negros/oscuros, no como detergente antimanchas principal.
+
+## Checklist para ropa de color
+
+| Criterio | Qué buscar | Por qué importa |
+|---|---|---|
+| Surfactantes reales | Aniónicos/no iónicos: LAS, laureth sulfate, pareth, alcoholes etoxilados | Limpian grasa y mugre sin depender de blanqueo. |
+| Enzimas | Proteasa, amilasa, lipasa, mananasa, celulasa | Quitan manchas de comida/sudor sin oxidar tintes. |
+| Builders/quelantes | Citrato, carbonato suave, zeolita, iminodisuccinato, fosfonatos | Ayudan con minerales y desempeño del detergente. |
+| Anti-redeposición | Antiredepositantes, poliacrilatos, cellulose gum, polyethyleneimine | Evitan ropa gris/apagada. |
+| Cuidado de color | Color/oscuros, protección de color, anti-transferencia, anti-pilling | Reduce riesgo de desteñido, opacidad o transferencia. |
+| Sin oxidante como rutina | Evitar percarbonato/oxígeno activo para oscuros | El oxidante puede aclarar tintes inestables. |
+| Sin abrillantadores ópticos si es ropa negra | "No optical brighteners" o equivalente | Los abrillantadores pueden dejar negros raros o azulados. |
+| Dosis clara | mL por carga normal/pesada | Exceso de detergente deja residuo y opaca. |
+
+**ELI10:** para color quieres tijeras y jabón, no borrador. Las enzimas cortan manchas; los surfactantes las sacan. El oxidante borra color, y a veces no distingue entre mancha y camiseta.
+
+## Ranking consolidado
+
+| Ranking | Producto | Evidencia | Mejor para | Veredicto |
+|---:|---|---|---|---|
+| 1 | **Persil líquido Universal/Acción Profunda** | Alta-media | Mejor compra técnica general para color | Ganador documental, con caveat de SKU. |
+| 2 | **Ariel Revitacolor líquido** | Media | Compra práctica centrada en color | Mejor apuesta de góndola para color. |
+| 3 | **Blancox Protección Color líquido** | Media-fuerte local | Colores diarios, compra local documentada | Mejor opción colombiana con ficha útil. |
+| 4 | **Woolite Ropa Oscura** | Media-fuerte por familia | Negros, jeans, oscuros | Mejor cuidador de oscuros, no el más antimanchas. |
+| 5 | **Seventh Generation Free & Clear / Power+** | Alta, disponibilidad variable | Color + piel sensible / sin abrillantador | Muy bueno si se consigue online. |
+| 6 | **Tide líquido importado** | Alta-media | HE/carga frontal, detergente fuerte | Muy fuerte, pero revisar SKU y color. |
+| 7 | **FAB Ultra Flash Vibra Color** | Media-baja | Presupuesto / color | Plan B razonable; falta desglose químico. |
+| Fuera por ahora | MAS Color, TOP Color, marcas propias | Baja | Color | No encontré ingredientes suficientes. |
+
+**Cómo leer el ranking:** “evidencia” significa cuánta documentación pública pude auditar, no que el producto haya ganado una prueba ciega frente a todos los demás. “Mejor” siempre significa mejor para el escenario indicado.
+
+## 1. Persil líquido Universal/Acción Profunda
+
+**Veredicto:** ganador técnico-documental, siempre que revises que el producto colombiano corresponda a una familia comparable y que la etiqueta no contradiga el uso en color.
+
+La investigación externa tenía razón en subirlo: Persil tiene mejor documentación técnica que muchas opciones locales. Las páginas de Persil explican el papel de enzimas como proteasa, amilasa, celulasa y mananasa en detergentes, y su guía de polímeros describe ingredientes anti-redeposición/cuidado de fibras usados para mantener la ropa con mejor apariencia.[^persil-enzymes] [^persil-polymers]
+
+En Colombia, Persil aparece en Éxito y otros comercios como detergente líquido/polvo Universal Acción Profunda.[^exito-persil] Henkel Colombia también lista Persil como marca local.[^henkel-persil-colombia]
+
+**Por qué sube en el ranking:**
+
+- Es la marca con mejor respaldo técnico general entre las opciones premium.
+- La familia Persil documenta enzimas y polímeros de desempeño.
+- Tiene enfoque de limpieza profunda sin depender necesariamente de oxígeno activo.
+- Es más defendible químicamente que productos que solo dicen "bioenzimas".
+
+**Caveat honesto:** no encontré una ficha colombiana pública del SKU exacto con el mismo nivel de detalle de SmartLabel. Por eso lo llamo **ganador técnico-documental**, no "fórmula colombiana 100% auditada". En tienda, revisa que sea apto para color y que no sea una versión con blanqueador/oxígeno para blancos.
+
+## 2. Ariel Revitacolor líquido
+
+**Veredicto:** mejor compra práctica si quieres algo explícitamente pensado para ropa de color y fácil de encontrar.
+
+Ariel Revitacolor aparece en Éxito en polvo y en otras tiendas como detergente líquido Revitacolor/Color. Éxito dice que sus ingredientes activos cuidan fibras y colores.[^exito-ariel-revitacolor] En canales de retail, Ariel Color/Revitacolor se describe con tecnología de bloques de enzimas para remover manchas sin decolorar.[^coca-ariel-color]
+
+**Por qué sube frente a mi versión anterior:**
+
+- Está claramente posicionado para color.
+- Es más fácil de encontrar que opciones importadas.
+- Tiene instrucciones de uso más concretas en algunas presentaciones.
+- Es una compra lógica si no quieres perseguir fichas técnicas.
+
+**Lo que falta:** no encontré una lista local suficientemente específica de enzimas, surfactantes, polímeros, builders o ausencia/presencia de abrillantadores. Por eso queda debajo de Persil en evidencia, aunque puede ser más práctico en supermercado.
+
+**Cuándo lo compraría:** ropa de color diaria, prendas familiares, ciclos normales, si el envase confirma uso para color y no ves oxígeno activo/percarbonato como protagonista.
+
+## 3. Blancox Protección Color líquido
+
+**Veredicto:** mejor opción local colombiana con documentación útil.
+
+Blancox tiene página oficial para **Detergente Líquido Protección Color 3800 ml**. Declara limpieza profunda, protección de colores y fórmula con enzimas que cuida tejidos.[^blancox-color] Carulla lista la referencia y menciona enzimas para tratar manchas difíciles en agua fría, activadores de lavado y desengrasantes.[^carulla-blancox-color]
+
+Además, una ficha técnica de Blancox Detergente Líquido lista ingredientes principales como agua, tensoactivo aniónico, tensoactivo no iónico, agentes antiredepositantes y estabilizantes, enzimas, aloe vera, glicerina, abrillantador óptico, perfume y color; también reporta pH 8-9 y tensoactivo aniónico 6-10%.[^blancox-ficha]
+
+**Por qué pasa la checklist:**
+
+- Tiene surfactante aniónico y no iónico declarados.
+- Declara enzimas.
+- Declara agentes antiredepositantes.
+- Tiene línea específica de protección de color.
+- Tiene dosis clara para carga normal/pesada y lavado a mano.
+
+**Cuidado fino:** la ficha general menciona **abrillantador óptico**. Eso no es cloro ni percarbonato, pero para ropa negra muy querida yo preferiría Woolite Ropa Oscura o una fórmula sin abrillantadores. Para colores medios, ropa diaria, camisetas, pijamas y ropa de niños, Blancox Protección Color tiene muy buen caso.
+
+## 4. Woolite Ropa Oscura
+
+**Veredicto:** mejor candidato para negros, jeans oscuros y prendas donde importa más conservar color que arrasar manchas.
+
+Éxito lista Woolite Ropa Oscura en varias presentaciones y describe que ayuda a prevenir transferencia de color, pérdida de color y daño en fibras.[^exito-woolite-oscura] La familia Woolite Darks, según información de ingredientes de RBNA/Reckitt para Canadá, incluye surfactantes como sodium laureth sulfate, C10-16 Pareth, sodium C10-16 alkylbenzenesulfonate y lauramine oxide.[^woolite-darks-ingredients]
+
+**Por qué pasa la checklist:**
+
+- Es específico para ropa oscura.
+- Tiene surfactantes auditables en la familia Darks.
+- Está disponible en Éxito/Carulla y otros canales.
+- Es más prudente para negros que detergentes con oxígeno activo o abrillantador.
+
+**Cuidado:** no lo trataría como detergente antimanchas pesado. Si tienes salsa, grasa o sudor fuerte, pretrata la mancha con detergente líquido o lavaplatos en gota mínima, enjuaga y luego lava con Woolite. Woolite es más "cuidador de ropa" que martillo químico.
+
+## 5. Seventh Generation Free & Clear / Power+
+
+**Veredicto:** excelente si lo consigues online con referencia clara.
+
+Seventh Generation **Free & Clear** declara que no usa tintes, fragancias ni abrillantadores ópticos. Su lista de ingredientes incluye laureth-6, sodium lauryl sulfate, sodium citrate y mezclas enzimáticas de proteasa, amilasa y mananasa.[^seventh-free-clear] La versión **Power+** declara fórmula con 6 enzimas y surfactantes, además de 0% tintes, abrillantadores ópticos/artificiales o fragancias artificiales; su lista incluye laureth-6, sodium lauryl sulfate, sodium citrate, proteasa, pectinasa, amilasa y mananasa.[^seventh-power]
+
+Mercado Libre Colombia lista productos Seventh Generation, pero la disponibilidad cambia y no siempre el vendedor deja ver bien la referencia.[^ml-seventh-generation]
+
+**Por qué pasa la checklist:**
+
+- Ingredientes muy transparentes.
+- Sin abrillantadores ópticos, buena señal para color/oscuros.
+- Enzimas específicas, no solo "bioenzimas".
+- Surfactantes y citrato como control de agua.
+
+**Cuidado:** no es la opción más fácil ni barata en Medellín/Bogotá. Si el vendedor no muestra la referencia exacta, no asumiría nada.
+
+## 6. Tide líquido importado
+
+**Veredicto:** fórmula fuerte, especialmente si usas lavadora HE/carga frontal, pero revisa muy bien el SKU.
+
+Tide publica un glosario de ingredientes donde aparecen surfactantes como C10-16 Pareth, sodium C10-16 alkylbenzene sulfonate y sodium laureth sulfate; enzimas como amilasa, lipasa, mananasa, proteasa/subtilisina y celulasa; builders/quelantes como citratos, pentetato y sodium aluminosilicate; y polímeros anti-redeposición como modified cellulose, sodium polyacrylate y polyethyleneimine.[^tide-az]
+
+Éxito ha listado Tide Original líquido importado, y también se encuentran referencias importadas en clubes/marketplaces.[^exito-tide-original]
+
+**Por qué no queda más arriba:** no siempre hay coincidencia perfecta entre el SmartLabel/familia exacta y el SKU vendido en Colombia. Además, Tide Original no es necesariamente una línea de color. Para ropa de color puede funcionar muy bien como detergente base, pero para negros delicados preferiría Woolite o una fórmula sin abrillantadores.
+
+## 7. FAB Ultra Flash Vibra Color
+
+**Veredicto:** plan B razonable si manda precio/disponibilidad, pero no si manda auditoría de fórmula.
+
+FAB Ultra Flash Vibra Color tiene buena señal pública: la página oficial dice que mantiene colores vivos, trae bioenzimas rápidas e inteligentes, remueve manchas difíciles y protege colores.[^fab-vibra-color] Carulla también lista la referencia Vibra Color y menciona bioenzimas.[^carulla-fab-vibra]
+
+**Lo bueno:**
+
+- Está orientado a color.
+- Declara bioenzimas.
+- Es fácil de encontrar.
+- Probablemente sea mejor que un detergente genérico sin enzimas declaradas.
+
+**Lo que falta:** nombres de enzimas, surfactantes específicos, antiredepositantes y builders/quelantes. "Bioenzimas" suma, pero no reemplaza una fórmula legible.
+
+## Por qué MAS Color y TOP Color quedan fuera
+
+MAS Color es interesante porque Henkel Colombia lo presenta como detergente para renovar colores y reparar fibras, y Éxito lo lista en presentaciones de 830 ml, 1830 ml y 3000 ml.[^henkel-mas-color] [^exito-mas-color] TOP Color también aparece en Éxito, Jumbo y Euro.[^exito-top-color]
+
+Pero no encontré ingredientes, enzimas o surfactantes suficientemente claros. En este artículo eso significa:
+
+> Producto interesante, pero no recomendado por química todavía.
+
+Si en tienda la etiqueta de MAS Color muestra surfactantes + enzimas + polímeros de cuidado de color, puede subir. Sin eso, es marketing prometedor.
+
+## Qué comprar según escenario
+
+### Si quieres la compra más defendible técnicamente
+
+**Persil líquido Universal/Acción Profunda**, con etiqueta en mano para confirmar que aplica a ropa de color.
+
+### Si quieres la apuesta más obvia para color en supermercado colombiano
+
+**Ariel Revitacolor líquido.** No es el más transparente, pero sí el más directamente enfocado en color y muy fácil de conseguir.
+
+### Si quieres opción local con ficha técnica útil
+
+**Blancox Protección Color líquido.** Buena mezcla de disponibilidad, dosis clara y familias de ingredientes auditables.
+
+### Si tienes mucha ropa negra u oscura
+
+**Woolite Ropa Oscura.** No lo compraría por potencia antimanchas, sino por conservación de color.
+
+### Si quieres evitar abrillantadores y perfume
+
+**Seventh Generation Free & Clear**, si aparece a precio sensato.
+
+### Si quieres presupuesto
+
+**FAB Ultra Flash Vibra Color**, con la advertencia de que no pude auditar la fórmula completa.
+
+## Cómo usar detergente de color para que sí cuide
+
+1. Lavar al revés.
+2. Agua fría o tibia, no caliente por costumbre.
+3. Separar claros, colores fuertes y oscuros.
+4. No usar percarbonato/oxígeno activo como rutina en color.
+5. Dosificar bajo-medio; el exceso opaca.
+6. Secar a la sombra si quieres conservar color.
+7. Pretratar grasa puntual con una gota de lavaplatos, enjuagar y luego lavar.
+
+## Regla final
+
+Mi shortlist consolidada queda así:
+
+> Mejor defendible por química: Persil líquido.
+>
+> Mejor opción claramente color en góndola: Ariel Revitacolor.
+>
+> Mejor local documentado: Blancox Protección Color.
+>
+> Mejor para negros/oscuros: Woolite Ropa Oscura.
+>
+> Mejor sin abrillantador / piel sensible: Seventh Generation Free & Clear.
+>
+> Plan B de precio: FAB Vibra Color.
+
+Y si la etiqueta no dice nada útil, no le entregues tu ropa favorita al misterio.
+
+## Fuentes consultadas
+
+[^persil-enzymes]: Persil. “Enzyme Laundry Detergent Guide: Stain Fighting Enzymes.” Consultado el 7 de julio de 2026. <https://www.persillaundry.com/us/en/sustainability/our-ingredients/articles/enzymes.html>
+
+[^invima-higiene]: INVIMA. “Higiene doméstica y absorbentes de higiene personal.” Consultado el 12 de julio de 2026. <https://www.invima.gov.co/cosmeticos-aseo-plaguicidas/higiene>
+
+[^persil-polymers]: Persil. “Ingredient Guide: Polymers.” Consultado el 7 de julio de 2026. <https://www.persillaundry.com/us/en/sustainability/our-ingredients/articles/polymers.html>
+
+[^exito-persil]: Éxito. “PERSIL.” Consultado el 7 de julio de 2026. <https://www.exito.com/persil>
+
+[^henkel-persil-colombia]: Henkel Colombia. “Persil.” Consultado el 7 de julio de 2026. <https://www.henkel.com.co/marcas-y-negocios/persil-2121230>
+
+[^exito-ariel-revitacolor]: Éxito. “Detergente en polvo Ariel Revitacolor.” Consultado el 7 de julio de 2026. <https://www.exito.com/detergente-revitacolor-pwd-952783/p>
+
+[^coca-ariel-color]: Coca-Cola en tu Hogar. “Detergente Líquido Ariel Color 2.8 L.” Consultado el 7 de julio de 2026. <https://www.coca-colaentuhogar.com/detergente-liquido-ariel-revitacolor-concentrado-2-8-l>
+
+[^blancox-color]: Blancox Colombia. “Detergente Líquido Protección Color 3800ml.” Consultado el 7 de julio de 2026. <https://www.blancox.com.co/productos/detergente-liquido-proteccion-color-3800ml>
+
+[^carulla-blancox-color]: Carulla. “Detergente líquido BLANCOX protección color limpieza profunda.” Consultado el 7 de julio de 2026. <https://www.carulla.com/detergente-liquido-blancox-doypack-x1800ml-689196/p>
+
+[^blancox-ficha]: KipClin / Brinsa. “Blancox Detergente Líquido - Ficha técnica.” Consultado el 7 de julio de 2026. <https://www.kipclin.com/images/pdf/fichas/KIP-BRS-100340008.pdf>
+
+[^exito-woolite-oscura]: Éxito. “Woolite ropa oscura.” Consultado el 7 de julio de 2026. <https://www.exito.com/woolite>
+
+[^woolite-darks-ingredients]: RBNAinfo. “Woolite Darks Laundry Detergent - Ingredient Information.” Consultado el 7 de julio de 2026. <https://www.rbnainfo.com/product.php?productLineId=2542>
+
+[^seventh-free-clear]: Seventh Generation. “Liquid Laundry Detergent - Free & Clear.” Consultado el 7 de julio de 2026. <https://www.seventhgeneration.com/liquid-laundry-detergent-free-clear>
+
+[^seventh-power]: Seventh Generation. “Power+ Liquid Laundry Detergent - Clean Scent.” Consultado el 7 de julio de 2026. <https://www.seventhgeneration.com/powertm-liquid-laundry-detergent-clean-scent>
+
+[^ml-seventh-generation]: Mercado Libre Colombia. “Seventh Generation.” Consultado el 7 de julio de 2026. <https://listado.mercadolibre.com.co/seventh-generation>
+
+[^tide-az]: Tide. “Ingredientes de detergente A-Z.” Consultado el 7 de julio de 2026. <https://tide.com/es-us/nuestro-compromiso/ingredientes-y-seguridad/ingredientes-del-detergente-tide-a-z>
+
+[^exito-tide-original]: Éxito. “Detergente líquido TIDE original (3900 ml).” Consultado el 7 de julio de 2026. <https://www.exito.com/detergente-tide-liquido-original-100-load-3900-ml-3176413/p>
+
+[^fab-vibra-color]: FAB Colombia. “FAB Ultra Flash Vibra Color Líquido Botella.” Consultado el 7 de julio de 2026. <https://www.fab.com.co/lavado-de-ropa/detergente/productos/fab-liquido-proteccion-color-botella.html>
+
+[^carulla-fab-vibra]: Carulla. “Detergente líquido FAB ultra flash vibra color.” Consultado el 7 de julio de 2026. <https://www.carulla.com/detergente-liq-ultra-color-fab-18-ml-3134560/p>
+
+[^henkel-mas-color]: Henkel Colombia. “Henkel transforma la categoría de detergentes con una tecnología que renueva los colores y las fibras de la ropa.” Consultado el 7 de julio de 2026. <https://www.henkel.com.co/prensa-y-medios/comunicados-y-kits-de-prensa/2025-11-06-henkel-transforma-la-categor%C3%ADa-de-detergentes-2115682>
+
+[^exito-mas-color]: Éxito. “Detergente MAS líquido ropa color.” Consultado el 7 de julio de 2026. <https://www.exito.com/detergente-mas-liquido-ropa-color-1830-ml-3228791/p>
+
+[^exito-top-color]: Éxito. “Detergente líquido TOP ropa color.” Consultado el 7 de julio de 2026. <https://www.exito.com/detergente-top-loquido-ropa-color-3000-ml-3224763/p>

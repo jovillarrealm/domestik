@@ -1,0 +1,288 @@
+---
+title: "Cómo despercudir ollas: manchas, materiales y protocolos seguros"
+author: "GPT-5"
+date: "2026-07-14"
+categories: [limpieza, cocina, ollas, materiales]
+---
+
+# Cómo despercudir ollas
+
+“Despercudir” una olla no significa frotarla hasta quitarle el brillo. Significa identificar **qué se pegó**, elegir una herramienta que pueda desprenderlo y detenerse antes de atacar el material de la olla.
+
+Una costra negra de azúcar quemada, una película amarilla de grasa, una marca blanca de agua dura y un arcoíris de calor pueden verse como “mugre”, pero no son el mismo problema. La solución más fuerte no siempre es la mejor: en una olla antiadherente puede destruir el recubrimiento; en aluminio puede oscurecer la superficie; en acero inoxidable puede producir picaduras; y en hierro puede quitar la capa protectora.
+
+La idea mental es esta:
+
+> **Sólido pegado: agua, tiempo y herramienta plástica. Grasa: detergente o desengrasante. Mineral: ácido suave, solo donde el material lo permita. Oxidación: herramienta específica. Recubrimiento: nada abrasivo.**
+
+## Antes de empezar: identifica la olla
+
+No basta con reconocer la marca. Tramontina, por ejemplo, vende ollas de acero inoxidable, aluminio con revestimiento antiadherente Starflon y hierro fundido, entre otras.[^tramontina-stainless][^tramontina-starflon][^tramontina-cast] El mismo fabricante puede usar materiales y acabados distintos en cada línea; el SKU y el manual mandan.
+
+| Material o acabado | Cómo suele verse | Qué tolera mejor | Qué conviene evitar |
+|---|---|---|---|
+| **Acero inoxidable** | Plateado, rígido, sin capa que se desprenda | Detergente, remojo corto, nylon, ácido cítrico o vinagre diluido para minerales | Cloro, lana de acero, abrasivo fuerte y dejar ácido horas |
+| **Aluminio desnudo** | Liviano, plateado mate o brillante; puede oscurecerse | Detergente suave, agua caliente y utensilio plástico | Ácidos concentrados, carbonatos/percarbonato, soda cáustica y remojo prolongado |
+| **Aluminio con Starflon u otro antiadherente** | Interior liso, generalmente oscuro o coloreado | Detergente líquido, agua tibia y esponja no abrasiva | Bicarbonato como abrasivo, polvos, fibra metálica, cuchillo, horno limpiador y sobrecalentamiento |
+| **Aluminio anodizado** | Color uniforme, a menudo oscuro y menos metálico | Jabón suave, esponja blanda y enjuague rápido | Ácidos o álcalis fuertes, abrasivos gruesos y lavados prolongados |
+| **Hierro fundido curado** | Pesado, negro o gris; la superficie tiene una película de aceite polimerizado | Agua tibia, jabón suave, cepillo y secado inmediato | Remojo, lavavajillas y desengrasado repetido que quite el curado |
+| **Acero al carbono** | Oscuro, pesado, parecido al hierro pero más delgado | Limpieza rápida, secado al fuego bajo y capa finísima de aceite | Agua estancada, ácidos prolongados y almacenamiento húmedo |
+| **Esmalte sobre hierro** | Superficie vítrea coloreada o blanca | Detergente, remojo corto y nylon | Golpes, metal, abrasivos fuertes y choque térmico |
+| **Cerámica antiadherente** | Interior liso, a menudo blanco o de color | Detergente suave, agua tibia y esponja blanda | Abrasivos, sobrecalentamiento y químicos no autorizados |
+| **Vidrio o cerámica refractaria** | Superficie vítrea transparente, blanca o decorada | Detergente, nylon suave y cambios graduales de temperatura | Choque térmico, golpes y abrasivos fuertes |
+| **Cobre o cobre revestido** | Exterior rojizo; interior puede ser de estaño o acero | Paño suave y producto que autorice el fabricante | Ácidos, abrasivos y recetas que desconozcan el revestimiento |
+
+La regla de compatibilidad más importante es revisar **el lado que toca la comida**, no solo el cuerpo exterior. Una olla de aluminio con Starflon no se trata como aluminio desnudo: el recubrimiento es el límite. Las recomendaciones de fabricantes de antiadherentes coinciden en lavado manual con detergente suave y esponja no abrasiva.[^tefal-care] En una olla multicapa, trata la superficie expuesta y sus juntas, asas, tapas y sellos según el componente más sensible.
+
+Para el acero inoxidable, Tramontina recomienda detergente neutro, esponja y enjuague completo; los residuos de productos abrasivos pueden atacar el acabado.[^tramontina-panels]
+
+### Equipo y seguridad antes de aplicar químicos
+
+- Usa guantes; añade protección ocular si vas a manipular ácido, percarbonato, cloro o desengrasante.
+- Ventila. Trabaja con **un solo químico a la vez**, sin mezclar y enjuagando antes de cambiar de herramienta.
+- Nunca calientes cloro, desengrasante, ácido, percarbonato ni una olla antiadherente vacía.
+- En el interior que toca alimentos, usa solo productos cuya etiqueta autorice ese uso; si no lo dice, reserva el producto para el exterior compatible.
+- Si el material es desconocido, limita la prueba a agua tibia, detergente suave, paño o esponja blanda y raspador plástico. No empieces con ácido, percarbonato, bicarbonato abrasivo, desengrasante fuerte o cloro.
+
+## El diagnóstico en 60 segundos
+
+1. **¿La superficie está áspera o solo cambió de color?** Aspereza suele indicar depósito o daño; el color puede ser calor, mineral u oxidación.
+2. **¿La mancha se siente grasosa?** Si sí, el ácido no es la primera herramienta: necesitas surfactantes.
+3. **¿Es blanca y dura, como una costra?** Puede ser carbonato de calcio por agua dura, pero también hierro, sílice u otro depósito; el color por sí solo no identifica el mineral.
+4. **¿Es negra, gruesa y pegada?** Probablemente comida carbonizada o azúcar quemada.
+5. **¿Hay una capa que se levanta o rayas?** En una antiadherente, puede ser desprendimiento del recubrimiento, no suciedad.
+6. **¿Es naranja en hierro o acero al carbono?** Es óxido; no se trata igual que una mancha de grasa.
+
+Si no sabes qué es, empieza con el protocolo más suave: **enfriar → retirar sólidos → agua tibia y detergente → herramienta blanda → enjuagar y secar**. El remojo corto solo entra si el material lo permite; en hierro fundido y acero al carbono se lava y se seca de inmediato.
+
+## La decisión rápida: mancha, material y primera herramienta
+
+| Lo que ves o sientes | Diagnóstico probable | Primera herramienta | Protocolo de inicio | Detente si… |
+|---|---|---|---|---|
+| Capa que se levanta con la uña | Comida pegada | Agua + detergente + raspador plástico | Ablandar; calor suave solo en acero o esmalte compatibles | Necesitas cuchillo o fuerza |
+| Negro duro y brillante | Azúcar o comida carbonizada | Agua + detergente; bicarbonato solo en acero/esmalte | Calentar suavemente sin secar y retirar por capas | La superficie empieza a rayarse |
+| Amarillo, resbaloso o pegajoso | Grasa o aceite polimerizado | Detergente; desengrasante autorizado para exterior | Contacto corto, sin calentar el producto | El acabado se vuelve mate o pegajoso |
+| Blanco, áspero y mineral | Calcio, magnesio o hierro del agua | Ácido cítrico, solo en material compatible | Solución al 5 % a temperatura ambiente, 5–10 min | Aparece opacidad, burbujeo extraño o ataque |
+| Arcoíris liso en acero | Película de óxido por calor | Ácido cítrico o limpiador de acero | Tratamiento corto y enjuague inmediato | Hay picaduras o aspereza nueva |
+| Naranja/marrón en hierro | Óxido | Cepillo o lana de acero solo sin recubrimiento | Frotar, secar, aceitar y volver a curar | Hay escamas profundas o metal cortante |
+| Rayas, ampollas o película que se levanta | Daño del recubrimiento | Ningún químico fuerte | Lavar suavemente y evaluar reemplazo | Se desprende más material |
+
+## Qué hace cada químico del hogar
+
+| Herramienta | Qué hace realmente | Dónde tiene sentido |
+|---|---|---|
+| **Detergente lavaplatos líquido** | Sus surfactantes rodean grasa y ayudan a que el agua se la lleve | Primera opción para casi todas las ollas compatibles |
+| **Bicarbonato de sodio** | Base débil, ayuda con suciedad y aporta abrasión suave | Acero inoxidable y esmalte sin recubrimiento; no en antiadherente como pasta abrasiva |
+| **Ácido cítrico o acético** | Disuelve carbonatos y otros depósitos minerales | Acero inoxidable; vidrio o esmalte solo si el manual lo permite |
+| **Percarbonato de sodio** | Libera peróxido y carbonato: oxida color orgánico y vuelve el medio alcalino | Acero inoxidable o esmalte, solo si la etiqueta del producto lo permite |
+| **Desengrasante comercial** | Emulsiona o solubiliza grasa pesada; la fórmula varía por producto | Exterior lavable o acero inoxidable sin recubrimiento, según etiqueta |
+| **Esponja de nylon o cepillo plástico** | Aporta acción mecánica sin cortar la superficie | Olla quemada, hierro, acero y esmalte; suave en acabados delicados |
+| **Cloro/hipoclorito** | Desinfecta en usos definidos, pero no es un buen despercudidor | No es rutina para el interior de una olla; puede corroer metales |
+
+El bicarbonato no “convierte toda la grasa en jabón” en una olla doméstica. Su aporte práctico es alcalinidad suave, ayuda a ablandar algunos residuos y fricción controlada. El detergente es el que hace el trabajo principal contra la película grasa.
+
+## Protocolo base de bajo riesgo
+
+Úsalo como primer intento en acero inoxidable y esmalte. Para aluminio desnudo, anodizado, antiadherente, cerámica antiadherente, hierro y acero al carbono, sigue las ramas específicas de abajo.
+
+1. Deja que la olla baje de temperatura. No viertas agua fría sobre una olla muy caliente: el choque puede deformar el metal o quebrar el esmalte.
+2. Retira restos sólidos con una espátula de madera, silicona o plástico. Nada de cuchillo.
+3. Cubre la costra con agua tibia y agrega detergente lavaplatos líquido según la etiqueta.
+4. Si es acero inoxidable o esmalte compatible, deja actuar **15–30 minutos**. Si es hierro o acero al carbono, omite el remojo: lava, enjuaga y seca inmediatamente. Si es aluminio, anodizado, antiadherente o material desconocido, usa solo contacto corto con agua tibia.
+5. Solo en acero inoxidable o esmalte compatible, puedes calentar suavemente el agua durante **5–10 minutos**, sin dejar que se seque. No calientes químicos en aluminio, anodizado, antiadherentes, hierro o acero al carbono.
+6. Apaga, deja bajar un poco la temperatura y trabaja con nylon, cepillo plástico o raspador de plástico.
+7. Enjuaga hasta retirar detergente y partículas. Seca de inmediato; en hierro y acero al carbono, aplica una película casi invisible de aceite.
+
+**Criterio de parada:** si después de dos ciclos suaves no cambia la mancha, no aumentes la fuerza automáticamente. Revisa el material y el tipo de depósito.
+
+## Protocolos según la mancha
+
+### 1. Comida pegada, arroz, pasta o leche seca
+
+**Diagnóstico:** hay una capa o costra que se puede levantar, pero no necesariamente está carbonizada.
+
+**Protocolo:**
+
+1. Cubre con agua tibia y detergente.
+2. En acero inoxidable o esmalte, remoja 15–30 minutos. En aluminio, antiadherente, cerámica antiadherente, hierro o acero al carbono, usa contacto corto y no dejes la pieza sumergida.
+3. Calienta suavemente 5–10 minutos solo en acero inoxidable o esmalte compatible.
+4. Desprende con espátula de plástico o madera.
+5. Lava y seca.
+
+En esmalte, usa nylon suave. En antiadherente, no uses fibra verde, polvo limpiador ni bicarbonato frotado. Si la comida está carbonizada, pasa al siguiente protocolo.
+
+### 2. Costra negra o marrón de comida quemada
+
+**Diagnóstico:** el residuo está carbonizado; el detergente puede ablandarlo, pero no siempre lo disuelve.
+
+**Para acero inoxidable o esmalte:**
+
+1. Cubre la costra con agua.
+2. Añade detergente y, si la superficie es acero inoxidable o esmalte sin recubrimiento, **15 g de bicarbonato por cada 500 ml de agua**.
+3. Calienta a fuego bajo **10 minutos**, sin dejar que se seque.
+4. Apaga, espera 10 minutos y retira lo que se haya ablandado con nylon o raspador plástico.
+5. Enjuaga y repite una sola vez si hace falta.
+
+El calor y el tiempo hacen que la costra se hidrate y se despegue; el bicarbonato aporta alcalinidad moderada y abrasión suave. No es una garantía de que desaparezca una carbonización profunda.
+
+**En aluminio desnudo:** usa solo agua, detergente y espátula plástica. Los álcalis pueden oscurecer o atacar el aluminio.
+
+**En antiadherente:** usa agua, detergente y esponja no abrasiva. Si la costra no sale sin fuerza, acepta que quizá el recubrimiento ya se dañó; rasparlo no lo recupera.[^tefal-care]
+
+### 3. Mancha de café, té, salsa u olor orgánico en acero o esmalte
+
+**Diagnóstico:** la olla está limpia al tacto, pero conserva una película marrón, amarilla u olorosa. Es un problema de moléculas orgánicas coloreadas, no de sarro.
+
+**Protocolo con percarbonato u “oxígeno activo”:**
+
+1. Lava primero con detergente y retira la grasa visible.
+2. Llena la olla con agua tibia y agrega el producto **en la dosis indicada en su etiqueta**, solo si esa etiqueta autoriza utensilios o superficies de contacto con alimentos. Las fórmulas comerciales no tienen todas la misma concentración; no conviene inventar una dosis universal.
+3. Usa guantes, protección ocular y ventilación. Mantén la solución a temperatura ambiente o tibia; no la calientes, no la guardes y nunca dejes que se seque.
+4. Cepilla con nylon, vacía y enjuaga varias veces.
+5. Si la olla toca alimentos, termina con un lavado normal y secado completo.
+
+El percarbonato libera peróxido de hidrógeno y carbonato: oxida parte del color y aporta alcalinidad.[^oecd-percarbonate] Eso lo vuelve razonable para acero inoxidable o esmalte compatible, pero no lo convierte automáticamente en desinfectante.
+
+No uses este protocolo en aluminio desnudo, aluminio anodizado, Starflon, cerámica antiadherente, hierro curado o acero al carbono. No lo mezcles con cloro, ácidos, amoniaco ni desengrasantes desconocidos.
+
+### 4. Grasa amarilla, pegajosa o aceite polimerizado
+
+**Diagnóstico:** la superficie se siente resbalosa, brillante o pegajosa. El ácido y el bicarbonato no son la herramienta principal.
+
+**Protocolo:**
+
+1. Retira el exceso con papel, sin esparcirlo.
+2. Aplica detergente lavaplatos líquido concentrado sobre la zona húmeda.
+3. Deja actuar **5–10 minutos**.
+4. Trabaja con esponja de nylon o paño; usa un cepillo suave en el exterior de acero.
+5. Enjuaga con agua caliente y seca.
+6. Para grasa pesada del exterior, usa un desengrasante solo si la etiqueta autoriza ese material y esa superficie. No lo dejes secar.
+
+En antiadherentes, no uses horno limpiador, soda cáustica ni desengrasante industrial salvo autorización expresa del fabricante. Nunca calientes una olla antiadherente vacía ni la sobrecalientes. En aluminio anodizado, el detergente suave y el enjuague rápido son la opción conservadora. En cualquier interior que toque alimentos, un desengrasante requiere autorización explícita de la etiqueta; “biodegradable” no equivale a “apto para utensilios”.
+
+### 5. Sarro, costra blanca o marcas de agua dura
+
+**Diagnóstico:** depósito blanco, áspero o calcáreo; no se siente aceitoso.
+
+**Solo en acero inoxidable compatible, a temperatura ambiente. En vidrio u otros materiales, únicamente si el manual lo autoriza:**
+
+1. Disuelve **5 g de ácido cítrico en 100 ml de agua** para preparar una solución al 5 %. También puedes usar el desincrustante comercial siguiendo su etiqueta.
+2. Moja un paño y colócalo sobre la zona **5–10 minutos**; no dejes que la solución se seque.
+3. Frota suavemente con esponja no abrasiva.
+4. Enjuaga con abundante agua y seca.
+
+No uses este protocolo en aluminio desnudo, aluminio anodizado, Starflon, cerámica antiadherente, hierro curado o acero al carbono. En esmalte, cobre o vidrio, prevalece el manual y haz una prueba escondida. El ácido disuelve mineral; no quita una capa de grasa ni repara una superficie opaca.
+
+### 6. Manchas arcoíris o azuladas en acero inoxidable
+
+**Diagnóstico:** el acero está liso y la marca cambia de color según la luz. Suele ser una película de óxidos de calor, no suciedad peligrosa.
+
+**Protocolo:** usa la solución de ácido cítrico al 5 % del protocolo anterior a temperatura ambiente durante 5 minutos, frota suavemente en la dirección del acabado, enjuaga y seca. Si no cambia, prueba un limpiador específico para acero inoxidable siguiendo su etiqueta.
+
+No uses cloro para “devolver el brillo”. El hipoclorito puede producir corrosión localizada y picaduras en acero inoxidable.
+
+### 7. Óxido en hierro fundido o acero al carbono
+
+**Diagnóstico:** puntos o película naranja/marrón, normalmente donde quedó humedad.
+
+**Protocolo de recuperación:**
+
+1. Lava a mano con agua tibia, detergente suave y estropajo de nylon. En óxido visible puede usarse lana de acero con moderación, solo en hierro o acero al carbono sin recubrimiento.
+2. Enjuaga y seca inmediatamente sobre la estufa a fuego bajo.
+3. Si queda óxido, repite el frotado; no dejes la pieza en ácido por horas.
+4. Aplica una película muy fina de aceite y calienta la pieza según las instrucciones del fabricante para recuperar el curado.
+
+El jabón suave no destruye automáticamente el curado moderno; el problema es el remojo, el lavavajillas y dejar la pieza húmeda. El ácido puede ayudar a un óxido puntual, pero también ataca el metal sano y obliga a volver a curar; no es el primer protocolo.[^lodge-care][^tramontina-cast]
+
+### 8. Exterior negro por humo o llama
+
+**Diagnóstico:** hollín o grasa quemada en la base o las paredes exteriores.
+
+1. Deja enfriar.
+2. Retira hollín seco con papel o paño, sin mojarlo de entrada.
+3. Usa detergente o desengrasante compatible con el acabado exterior.
+4. Deja actuar 5–10 minutos y frota con nylon.
+5. Enjuaga y seca.
+
+No uses el interior de la olla para “hervir cloro” ni viertas desengrasante sobre una llama encendida. Si el exterior es anodizado, pintado o siliconado, la etiqueta del producto y del fabricante tiene prioridad. Los acabados anodizados pueden ser atacados por limpiadores ácidos o alcalinos fuertes, especialmente con calor o tiempo de contacto prolongado.[^aac-anodized]
+
+## Compatibilidad rápida por material
+
+| Material | Para despercudir | Para minerales | Para grasa | Para manchas difíciles |
+|---|---|---|---|---|
+| **Acero inoxidable** | Detergente + calor suave + nylon | Ácido cítrico 5 % por 5–10 min | Detergente; desengrasante compatible | Percarbonato según etiqueta, con enjuague largo |
+| **Aluminio desnudo** | Agua + detergente + espátula plástica | No usar ácido concentrado de rutina | Detergente suave | No usar percarbonato, soda cáustica ni cloro |
+| **Starflon/antiadherente** | Agua + detergente + esponja suave | No usar ácido salvo autorización | Detergente suave | No abrasivos; reemplazar si el recubrimiento se desprende |
+| **Anodizado** | Jabón suave y esponja blanda | Evitar ácidos y álcalis | Detergente suave | No experimentar con productos fuertes |
+| **Hierro fundido** | Agua tibia, jabón suave, cepillo | No remojar | Poco desengrasante; conservar curado | Secar y volver a aceitar |
+| **Acero al carbono** | Limpieza rápida | Evitar ácidos prolongados | Detergente corto | Secar al fuego bajo y aceitar |
+| **Esmalte** | Detergente y remojo corto | Ácido solo con prueba | Detergente; nylon | Bicarbonato en agua, sin metal ni golpes |
+| **Cerámica antiadherente** | Detergente + esponja suave | Solo si el manual lo permite | Detergente suave | No abrasivos ni sobrecalentamiento |
+| **Vidrio/cerámica refractaria** | Detergente + nylon suave | Solo con autorización | Detergente | No choque térmico |
+| **Cobre/cobre revestido** | Producto del fabricante + paño suave | No improvisar | Producto compatible | No abrasivos ni ácidos caseros |
+
+## Lo que no debes echarle a una olla “por si acaso”
+
+- **Cloro o hipoclorito:** no despercude bien la costra y puede corroer metales. No lo uses de rutina en acero inoxidable, aluminio, anodizado, hierro, acero al carbono, Starflon/PTFE o esmalte. Si una etiqueta sanitaria autoriza un uso concreto en contacto con alimentos, sigue exactamente su concentración, tiempo y enjuague. No lo mezcles con vinagre, ácido cítrico, amoniaco ni ningún otro limpiador.[^cdc-bleach][^cdc-chemical]
+- **Ácido + cloro:** puede liberar cloro gaseoso. Si ocurre una mezcla accidental, aléjate, ventila sin exponerte y busca orientación de emergencias o toxicología local.
+- **Soda cáustica o limpiador de horno:** puede atacar aluminio y acabados; además es innecesario para la limpieza cotidiana.
+- **Ácido muriático/clorhídrico, limpiador de inodoro o desincrustante fuerte:** no son sustitutos del ácido cítrico; pueden producir quemaduras, vapores y corrosión. No se usan en ollas domésticas.
+- **Desengrasante industrial en el interior:** no usar salvo que la etiqueta autorice contacto con alimentos y especifique el enjuague. No calentarlo, no dejarlo secar y mantenlo lejos de llamas.
+- **Lana de acero en antiadherente o esmalte:** raya o corta el acabado.
+- **Bicarbonato frotado en Starflon:** la pasta puede funcionar como abrasivo y desgastar el recubrimiento.
+- **Vinagre y bicarbonato al mismo tiempo:** hacen espuma por liberación de CO₂, pero se neutralizan en gran parte. Si buscas sarro, usa ácido solo; si buscas abrasión suave en acero o esmalte, usa bicarbonato solo.
+- **Amonio cuaternario en el interior:** no es un despercudidor. Para una superficie que toca alimentos, solo usar un producto cuya etiqueta autorice ese uso, con concentración, tiempo de contacto y enjuague indicados.
+- **Mezclas preparadas para guardar:** no guardes soluciones de percarbonato, ácido o desinfectante. El percarbonato puede degradarse y las mezclas que generan gas pueden presurizar un recipiente; cualquier solución queda con una concentración desconocida.
+- **Bicarbonato, percarbonato o desengrasante fuerte en hierro/acero al carbono:** pueden retirar el curado aunque no parezca que dañan el metal. Si el curado se va, hay que volver a curar.
+
+## ¿Hay que desinfectar la olla?
+
+En la mayoría de las cocinas, lavar con detergente, fricción, enjuague y secado elimina la suciedad y reduce los microorganismos. Desinfectar no es lo mismo que despercudir: un desinfectante puede matar parte de los microbios, pero no quita una costra de comida. CDC también separa la limpieza —remover suciedad con agua y detergente— de la desinfección.[^cdc-bleach]
+
+Si necesitas desinfectar por una indicación sanitaria concreta, primero limpia. Después usa únicamente un producto cuya etiqueta autorice **superficies de contacto con alimentos** y sigue su dilución, tiempo de contacto y requisito de enjuague. No improvises una receta de cloro o amonio cuaternario dentro de una olla.
+
+## Cuándo dejar de limpiar y cambiar la olla
+
+No todo defecto se puede “rescatar” químicamente. Considera reemplazarla o consultar al fabricante si:
+
+- el antiadherente se pela, se abomba o deja expuesto el metal;
+- el esmalte tiene golpes con metal expuesto, grietas o desprendimientos;
+- el acero inoxidable presenta picaduras profundas, bordes cortantes o corrosión que vuelve a aparecer;
+- el aluminio está muy erosionado o deformado;
+- el hierro o acero al carbono quedó con escamas profundas de óxido;
+- el mango, remache o sello está flojo y puede contaminar la comida;
+- aparece una aspereza nueva, olor químico persistente o desprendimiento de material durante la limpieza.
+
+Una superficie opaca puede ser solo una marca estética. Una superficie que pierde material, se descascara o se vuelve áspera es otra cosa. En esmalte, un desprendimiento que deja metal expuesto es motivo para dejar de usar la pieza.[^lecreuset-enamel]
+
+## La secuencia que sí vale la pena recordar
+
+**Retira lo sólido. Ablanda con agua y tiempo. Usa detergente contra grasa. Usa ácido solo contra mineral y solo en materiales compatibles. Usa oxidantes solo según etiqueta. Frota con la herramienta menos agresiva. Enjuaga y seca.**
+
+La olla no necesita una mezcla heroica: necesita que la química de la mancha y la química del material no estén peleando entre sí.
+
+## Fuentes y fecha de revisión
+
+Revisado el **14 de julio de 2026**. Las recomendaciones de un SKU concreto, en especial Tramontina, tienen prioridad sobre esta guía.
+
+[^tramontina-stainless]: Tramontina. “Your Complete Guide to Cleaning Stainless Steel Cookware”. <https://www.tramontina.com.sg/blogs/our-blog/your-complete-guide-to-cleaning-stainless-steel-cookware>
+
+[^tramontina-panels]: Tramontina. “Panelas: instrucciones de cuidado para acero inoxidable”. <https://assets.tramontina.com.br/upload/tramon/imagens/FAR/62648200FLM001.pdf>
+
+[^tramontina-cast]: Tramontina. “Taking care of cast iron pans”. <https://global.tramontina.com/en/blog/shopping-guide/taking-care-of-cast-iron-pans>
+
+[^tramontina-starflon]: Tramontina Colombia. “Olla alta en aluminio con revestimiento antiadherente Starflon”. <https://www.tramontina.com.co/olla-alta-tramontina-sicilia-en-aluminio-con-revestimiento-interno-y-externo-en-antiadherente-starflon-excellent-avellana-con-tapa-24-cm-5-7-l_20407624/p>
+
+[^cdc-bleach]: CDC. “Cleaning and Disinfecting with Bleach”. <https://www.cdc.gov/hygiene/about/cleaning-and-disinfecting-with-bleach.html>
+
+[^cdc-chemical]: CDC. “Chemical Disinfectants”. <https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html>
+
+[^aac-anodized]: Aluminum Anodizers Council. “Anodized Aluminum FAQ”. <https://members.anodizing.org/page/anodized-aluminum-faq>
+
+[^tefal-care]: Tefal. “Maintenance and cleaning”. <https://www.tefal.com/Cookware-%26-Kitchenware/Pots-%26-Pans/Cooking-Made-Easier/INGENIO-EXPERTISE-NON-STICK-INDUCTION/p/RANGE-24AJ-G>
+
+[^lodge-care]: Lodge Cast Iron. “How to Clean Cast Iron”. <https://www.lodgecastiron.com/pages/how-to-clean>
+
+[^lecreuset-enamel]: Le Creuset. “How to Care for and Clean Enameled Cast Iron”. <https://www.lecreuset.com/blog/how-to-care-for-and-clean-enameled-cast-iron.html>
+
+[^oecd-percarbonate]: OECD SIDS / UNEP. “Sodium Percarbonate CAS N° 15630-89-4”. <https://hpvchemicals.oecd.org/UI/handler.axd?id=5681c280-6686-4260-b629-2f23a6db2319>

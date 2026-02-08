@@ -1,0 +1,125 @@
+---
+title: "Amonio cuaternario: desinfectar después de limpiar"
+author: "GPT5.5"
+date: "2026-06-27"
+categories: [limpieza, quimicos-hogar, desinfeccion]
+---
+
+# Amonio cuaternario
+
+El amonio cuaternario, o “quat”, es la herramienta del combo para **desinfectar superficies duras ya limpias**. La palabra clave es **ya limpias**.
+
+No es el químico para sarro. No es el químico para grasa de campana. No es el químico para despercudir ropa. Es para bajar carga microbiana cuando la mugre visible ya se fue.
+
+> El quat es el portero de la discoteca, no el equipo de aseo. Si el piso está lleno de grasa, primero se limpia.
+
+## ELI10: qué pasa químicamente
+
+Las moléculas de amonio cuaternario tienen una parte con carga positiva y colas orgánicas. Muchas membranas de bacterias y virus envueltos tienen partes grasosas y cargas que permiten que el quat se pegue, desordene la membrana y dañe proteínas.
+
+El CDC describe los quats como compuestos que actúan por inactivación de enzimas, desnaturalización de proteínas y disrupción de membranas celulares.[^cdc-quats]
+
+Por eso sirven mejor en:
+
+- superficies duras;
+- limpias;
+- no porosas;
+- con tiempo de contacto suficiente.
+
+## Problemas y soluciones
+
+### Problema: quiero desinfectar un mesón después de manipular pollo crudo
+
+**Solución:** limpiar → enjuagar si la etiqueta o la superficie lo requieren → aplicar el desinfectante exactamente como indica la etiqueta.
+
+1. Retirar restos de comida.
+2. Lavar con detergente o desengrasante suave.
+3. Enjuagar o pasar paño limpio húmedo.
+4. Aplicar quat según etiqueta.
+5. Respetar tiempo de contacto.
+6. Enjuagar si la etiqueta lo exige para superficies de contacto con alimentos.
+
+USDA insiste en esta separación: limpiar primero retira mugre y parte de los microbios; sanitizar/desinfectar viene después.[^usda-clean-sanitize]
+
+### Problema: baño ya lavado
+
+**Solución:** quat para manijas, botón del sanitario, exterior del inodoro, lavamanos y superficies de alto contacto.
+
+**Por qué:** ahí el objetivo no es disolver sarro; es reducir microorganismos bajo unas condiciones concretas. Si hay costra mineral o jabón pegado, primero ácido/desengrasante según corresponda. La superficie debe quedar visiblemente húmeda durante todo el tiempo de contacto; si se seca antes, la eficacia declarada no aplica.[^epa-contact]
+
+### Problema: piso de cocina grasoso
+
+**Solución:** primero desengrasante; quat solo al final si quieres desinfectar.
+
+**Por qué:** la grasa y la tierra consumen/inactivan parte del desinfectante y bloquean contacto con la superficie real.
+
+### Problema: juguetes, platos de mascotas o tablas
+
+**Solución:** solo si la etiqueta del producto permite esa superficie y dice cómo enjuagar.
+
+**Por qué:** un desinfectante que queda como residuo puede no ser deseable en algo que alguien lame, muerde o usa para comida.
+
+### Problema: ropa con olor
+
+**Solución:** no usar quat doméstico como primer recurso.
+
+**Mejor:** detergente correcto, no sobrecargar lavadora, secar totalmente, percarbonato si la tela lo tolera.
+
+**Por qué:** el quat puede quedar atrapado en fibras, no resuelve grasa/sudor y puede irritar piel si no está formulado para lavandería.
+
+## Lo que sí hace bien
+
+| Problema | ¿Sirve? | Condición |
+|---|---:|---|
+| Manijas, interruptores, barandas | Sí | Limpiar polvo/grasa primero. |
+| Baño después de lavado | Sí | Superficie dura y tiempo de contacto. |
+| Mesón no poroso | Sí | Revisar etiqueta y enjuague si hay comida. |
+| Piso limpio | Sí | No debe haber tierra visible. |
+| Virus envueltos | Sí, típicamente | Depende de formulación y registro. |
+
+## Lo que no hace bien
+
+| Problema | Por qué no |
+|---|---|
+| Sarro | No disuelve carbonato de calcio. |
+| Grasa pesada | No reemplaza desengrasante. |
+| Ropa percudida | No oxida manchas como percarbonato. |
+| Esporas | El CDC señala que los quats no son esporicidas. |
+| Superficies porosas/sucias | No garantiza contacto efectivo. |
+
+## Con qué no mezclar
+
+| No mezclar con | Por qué |
+|---|---|
+| Jabones/detergentes aniónicos sin enjuagar | Pueden reducir actividad del quat. Limpia y enjuaga antes. |
+| Cloro/hipoclorito | No se mezclan desinfectantes; aumenta riesgo de vapores y reacciones no controladas. |
+| Ácido acético | Puede alterar formulación/pH; además estás mezclando objetivos distintos. |
+| Percarbonato/peróxidos | Oxidante + quat no es una receta doméstica estable. |
+| Otros desinfectantes | Los desinfectantes se usan por etiqueta, no por coctel. |
+
+## Dónde no usarlo o usarlo con mucha cautela
+
+- Pantallas y electrónicos, salvo etiqueta explícita.
+- Madera sin sellar.
+- Piedra natural si no hay compatibilidad.
+- Superficies de comida sin instrucciones de enjuague.
+- Ropa y textiles, salvo producto formulado para eso.
+- Áreas de mascotas sin enjuague adecuado.
+
+## Mini-reglas
+
+- Desinfectar no reemplaza limpiar.
+- Si hay grasa, usa desengrasante primero.
+- Si hay sarro, usa ácido primero y enjuaga.
+- Respetar dilución, tiempo de contacto y etiqueta.
+- Más concentrado no significa más seguro.
+- No hay una dilución universal: cambia por producto, activo, superficie y microorganismo declarado.
+- En superficies de contacto con alimentos, juguetes o platos de mascotas, verificar si la etiqueta exige enjuague con agua potable.
+
+## Fuentes
+
+[^cdc-quats]: CDC. “Chemical Disinfectants: Quaternary Ammonium Compounds.” <https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html>
+
+[^epa-contact]: EPA. “Selected EPA-Registered Disinfectants.” <https://www.epa.gov/pesticide-registration/selected-epa-registered-disinfectants>
+
+[^usda-clean-sanitize]: USDA. “Clean THEN Sanitize: A One-Two Punch to Stop Foodborne Illness in the Kitchen.” <https://www.usda.gov/about-usda/news/blog/clean-then-sanitize-one-two-punch-stop-foodborne-illness-kitchen>

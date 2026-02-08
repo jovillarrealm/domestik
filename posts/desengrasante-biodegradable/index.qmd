@@ -1,0 +1,118 @@
+---
+title: "Desengrasante biodegradable: surfactantes contra grasa real"
+author: "GPT5.5"
+date: "2026-06-27"
+categories: [limpieza, quimicos-hogar, cocina]
+---
+
+# Desengrasante industrial biodegradable
+
+El desengrasante es la herramienta del combo para **grasa, aceite, cochambre, pisos grasosos y mugre orgánica pegajosa**. Si el problema se siente resbaloso, aceitoso o pegado por cocina, probablemente empieza aquí.
+
+La palabra “biodegradable” no significa “bebible” ni “seguro para todo”. Significa que sus ingredientes están pensados para degradarse bajo ciertas condiciones. Puede seguir irritando piel, ojos o dañando superficies delicadas.
+
+## ELI10: qué pasa químicamente
+
+La grasa no se lleva bien con el agua. El agua intenta arrastrarla y la grasa dice “no gracias”. Los desengrasantes traen **surfactantes**, moléculas con dos personalidades:
+
+- una parte ama el agua;
+- otra parte ama la grasa.
+
+Cuando hay suficientes surfactantes, rodean la grasa formando micelas: bolitas microscópicas con grasa por dentro y parte compatible con agua por fuera. Así el enjuague puede llevarse lo que antes estaba pegado.
+
+El American Cleaning Institute explica que los surfactantes bajan la tensión superficial, ayudan a mojar superficies y forman estructuras que permiten remover aceites y suciedad.[^aci-soapbook]
+
+## Problemas y soluciones
+
+### Problema: estufa grasosa
+
+**Solución:** desengrasante según etiqueta, tiempo de contacto, paño/cepillo, enjuague.
+
+**Por qué:** la grasa de cocina se oxida y se vuelve pegajosa. Necesita surfactantes, a veces alcalinidad y tiempo. Ácido acético no es protagonista aquí.
+
+### Problema: campana extractora y filtros metálicos
+
+**Solución:** desengrasante + agua caliente si el material lo permite.
+
+**ELI10:** el calor ablanda la grasa; el desengrasante la rompe en gotitas lavables.
+
+**Cuidado:** aluminio y recubrimientos pueden sufrir con productos alcalinos fuertes. Probar o revisar etiqueta.
+
+### Problema: piso de cocina pegajoso
+
+**Solución:** desengrasante diluido, no puro por orgullo.
+
+**Por qué:** demasiado producto puede dejar película pegajosa que atrae más mugre. La dosis correcta importa.
+
+### Problema: mesón antes de desinfectar
+
+**Solución:** desengrasante suave o detergente primero; quat después si necesitas desinfectar.
+
+**Por qué:** el desinfectante necesita tocar superficie limpia. USDA recomienda limpiar antes de sanitizar/desinfectar superficies de cocina.[^usda-clean-sanitize]
+
+### Problema: manchas de grasa en ropa
+
+**Solución:** detergente o desengrasante muy diluido como pretratamiento, con prueba.
+
+**Cómo:** aplicar en la mancha, trabajar suave, dejar actuar poco tiempo y lavar. Si queda halo amarillento y la tela lo tolera, percarbonato después.
+
+**Cuidado:** un desengrasante industrial puede decolorar o dañar telas. En ropa delicada, mejor producto de lavandería.
+
+### Problema: plástico aceitoso o con olor a comida
+
+**Solución:** desengrasar primero. Luego, si queda olor, carbón activado o percarbonato si el plástico lo tolera.
+
+**Por qué:** muchos olores se quedan atrapados en películas grasas. Si no quitas la grasa, el carbón solo captura lo que logra salir.
+
+## Lo que sí hace bien
+
+| Problema | ¿Sirve? | Por qué |
+|---|---:|---|
+| Grasa de cocina | Sí | Surfactantes y alcalinidad. |
+| Campana/filtros | Sí | Mejor con calor si compatible. |
+| Pisos grasosos | Sí | Diluido y enjuagado. |
+| Prelimpieza antes de desinfectar | Sí | Retira barrera de suciedad. |
+| Plástico aceitoso | Sí | Rompe película grasa. |
+
+## Lo que no hace bien
+
+| Problema | Por qué no |
+|---|---|
+| Sarro duro | Necesita ácido. |
+| Manchas orgánicas coloreadas profundas | Puede limpiar matriz grasa, pero no oxida como percarbonato. |
+| Desinfección garantizada | No es desinfectante salvo etiqueta. |
+| Pantallas/electrónicos | Demasiado residuo/humedad/riesgo. |
+| Piedra o madera delicada | Puede dañar selladores/acabados. |
+
+## Con qué no mezclar
+
+| No mezclar con | Por qué |
+|---|---|
+| Ácido acético | Si el desengrasante es alcalino, lo neutralizas. Usar por pasos. |
+| Cloro/hipoclorito | No mezclar limpiadores; riesgo de vapores e incompatibilidades. |
+| Amonio cuaternario | Puede haber incompatibilidad con surfactantes; limpiar/enjuagar antes de desinfectar. |
+| Percarbonato | No hace falta; puede alterar formulación. |
+| Sucrosol/alcoholes | Puede cambiar solubilidad y aumentar inflamabilidad según producto. |
+
+## Dónde no usarlo
+
+- Pantallas.
+- Madera sin sellar.
+- Mármol/piedra natural sin prueba.
+- Aluminio o metales blandos si es alcalino fuerte.
+- Recipientes de comida sin enjuague abundante.
+- Telas delicadas.
+
+## Mini-reglas
+
+- Diluir como dice la etiqueta.
+- Dar tiempo de contacto.
+- Enjuagar si la superficie toca comida o si queda película.
+- Para grasa: desengrasante primero; para microbios: quat después.
+- Si huele a químico después de limpiar, probablemente usaste demasiado o enjuagaste poco.
+
+## Fuentes
+
+[^aci-soapbook]: American Cleaning Institute. “An introduction to the science of how things get clean.” <https://www.cleaninginstitute.org/sites/default/files/assets/1/AssetManager/SoapBook.pdf>
+
+[^usda-clean-sanitize]: USDA. “Clean THEN Sanitize: A One-Two Punch to Stop Foodborne Illness in the Kitchen.” <https://www.usda.gov/about-usda/news/blog/clean-then-sanitize-one-two-punch-stop-foodborne-illness-kitchen>

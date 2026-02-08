@@ -1,0 +1,154 @@
+---
+title: "Bicarbonato de sodio: base suave, abrasivo amable y control de olores"
+author: "GPT5.5"
+date: "2026-06-27"
+categories: [limpieza, quimicos-hogar, olores]
+---
+
+# Bicarbonato de sodio
+
+El bicarbonato de sodio es la herramienta doméstica para **fregar sin rayar demasiado, neutralizar ciertos olores, levantar mugre ligera y ayudar como pretratamiento suave**. No es un desinfectante serio, no es desengrasante industrial, no es blanqueador potente y no disuelve sarro como un ácido.
+
+La idea mental:
+
+> Bicarbonato = base suave + polvo ligeramente abrasivo. Sirve cuando quieres empujar la mugre sin irte a química agresiva.
+
+## ELI10: qué pasa químicamente
+
+El bicarbonato de sodio ($NaHCO_3$) es una sal ligeramente alcalina. En agua queda en un pH suave, alrededor de 8. Eso significa que puede ayudar con olores ácidos y con mugre orgánica ligera, pero no tiene la fuerza de un limpiador alcalino fuerte.
+
+También es un polvo cristalino. Cuando lo usas como pasta, los granitos ayudan a frotar físicamente. No “disuelve” todo; muchas veces funciona porque raspa suavemente y cambia un poquito el pH.
+
+University of Wisconsin Extension lo presenta como un limpiador/desodorizante doméstico útil para recipientes, refrigeradores y superficies, especialmente por su capacidad de neutralizar olores.[^wisconsin-baking-soda]
+
+## Problemas y soluciones
+
+### Problema: recipiente plástico con olor leve
+
+**Solución:** bicarbonato + agua como pasta o solución de remojo.
+
+**Por qué:** muchos olores de comida son ácidos o quedan atrapados en película grasa. El bicarbonato neutraliza olores ácidos y ayuda a frotar. Si el recipiente está aceitoso, primero detergente/desengrasante suave. Si queda olor residual después de lavar, bicarbonato o carbón activado.
+
+### Problema: nevera con olor
+
+**Solución:** lavar la fuente del olor y dejar bicarbonato abierto o carbón activado.
+
+**Diferencia:** el bicarbonato ayuda mejor con olores ácidos; el carbón activado atrapa un rango más amplio de moléculas volátiles. Si la nevera huele a comida vieja, primero sacar la comida vieja. Qué tristeza tener que decirlo, pero la nevera obliga.
+
+### Problema: manchas suaves en tazas, lavamanos o superficies resistentes
+
+**Solución:** pasta de bicarbonato + agua, frotar suave.
+
+**Por qué:** abrasión ligera. Es más física que química. Para manchas profundas de café/té en acero inoxidable, el percarbonato suele ganar. Para sarro blanco, gana ácido cítrico o acético.
+
+### Problema: manchas amarillas en mármol
+
+**Solución corta:** no empezar frotando bicarbonato como si fuera crema abrasiva. En mármol, primero identificar la mancha y usar cataplasma.
+
+El mármol es calcáreo, poroso y se raya/opaca fácil. Natural Stone Institute recomienda para piedra natural limpieza de mantenimiento con limpiador neutro, stone soap o detergente líquido suave, enjuague y secado; también advierte que polvos/cremas abrasivas pueden rayar ciertas piedras.[^nsi-care]
+
+**Si la mancha amarilla parece orgánica** (café, té, vino, comida, hojas, tabaco, orina): el candidato suele ser **agua oxigenada en cataplasma**, no bicarbonato frotado. Natural Stone Institute recomienda para manchas orgánicas una cataplasma con material absorbente blanco y peróxido de hidrógeno al 12%.[^nsi-stains] En casa, si solo tienes agua oxigenada común al 3%, puede probarse en zona escondida, pero será más lenta y menos potente.
+
+**Si la mancha amarilla parece aceite/grasa/crema:** ahí sí el bicarbonato puede servir como parte absorbente. La idea es hacer una pasta/cataplasma con bicarbonato y agua, cubrir, dejar que seque y retire aceite hacia el polvo. No es por “blanqueo”; es por absorción.
+
+**Si la mancha es naranja o sigue la forma de una lata, tornillo, florero o pata metálica:** sospecha óxido/hierro. No usar limón, vinagre ni ácido cítrico en mármol. Natural Stone Institute dice que las manchas de hierro/óxido son difíciles y pueden requerir cataplasma con removedor de óxido comercial o profesional.[^nsi-stains]
+
+**Protocolo prudente para mármol claro:**
+
+1. Limpiar primero con jabón suave y agua, enjuagar y secar.
+2. Probar en zona escondida.
+3. Para orgánico: cataplasma blanca con agua oxigenada; no frotar fuerte.
+4. Para aceite: cataplasma de bicarbonato + agua.
+5. Cubrir con plástico 24 horas, luego destapar y dejar secar.
+6. Retirar con espátula plástica, enjuagar con agua destilada si puedes y secar.
+7. Repetir solo si mejoró; si no cambia, parar y diagnosticar mejor.
+
+**ELI10:** en mármol no quieres lijar la mancha. Quieres poner una “mascarilla absorbente” que jale la mancha hacia afuera.
+
+### Problema: grasa ligera en cocina
+
+**Solución:** bicarbonato puede ayudar, pero no reemplaza desengrasante.
+
+**Por qué:** al ser base suave ayuda un poco con grasa ácida y mugre orgánica, pero la grasa real necesita surfactantes. Bicarbonato + detergente puede funcionar para mugre ligera porque sumas abrasión + micelas.
+
+### Problema: olor en alfombra o tapete
+
+**Solución:** espolvorear, dejar actuar, aspirar muy bien.
+
+**Por qué:** absorbe algo de humedad y neutraliza ciertos olores. No mata moho profundo ni limpia derrames pegados. Si queda polvo, atrae más mugre.
+
+### Problema: pretratamiento de ropa
+
+**Solución:** pasta suave para manchas de sudor o olor, con prueba.
+
+**Cuidado:** no usar como si fuera detergente completo. Para ropa blanca percudida, percarbonato. Para grasa, detergente/desengrasante textil. Para delicadas, producto específico.
+
+## Lo que sí hace bien
+
+| Problema | ¿Sirve? | Por qué |
+|---|---:|---|
+| Olores ácidos leves | Sí | Base suave que neutraliza. |
+| Fregado suave | Sí | Abrasivo moderado. |
+| Recipientes plásticos limpios pero olorosos | A veces | Remojo/pasta ayuda. |
+| Alfombras con olor superficial | A veces | Adsorción ligera y neutralización. |
+| Mugre ligera de cocina | A veces | Mejor con detergente. |
+
+## Lo que no hace bien
+
+| Problema | Por qué no |
+|---|---|
+| Sarro/cal | Necesita ácido; bicarbonato es base. |
+| Desinfección | No es desinfectante registrado. |
+| Grasa pesada | Le faltan surfactantes/solventes. |
+| Ropa percudida fuerte | No oxida como percarbonato. |
+| Moho profundo | No arregla humedad ni penetra materiales. |
+| Mármol amarillo por mancha orgánica | Necesita cataplasma con oxidante suave; bicarbonato solo no blanquea. |
+
+## Con qué no mezclar
+
+| No mezclar con | Por qué |
+|---|---|
+| Ácido cítrico o vinagre si buscas limpiar con química activa | Se neutralizan y producen CO2. Sirve para efervescencia, pero pierdes acidez/basicidad. |
+| Cloro/hipoclorito | No hace falta mezclar limpiadores; evita cocteles. |
+| Amonio cuaternario | Puede dejar residuos y no aporta a desinfección. Limpia/enjuaga/desinfecta por pasos. |
+| Percarbonato en seco para guardar | No prepares mezclas caseras en polvo sin entender humedad/estabilidad. |
+
+## Bicarbonato + ácido cítrico: qué pasa
+
+Cuando mezclas bicarbonato con ácido cítrico y agua, ocurre una reacción ácido-base:
+
+$$
+3NaHCO_3 + C_6H_8O_7 \rightarrow Na_3C_6H_5O_7 + 3CO_2 + 3H_2O
+$$
+
+Traducción:
+
+- bicarbonato + ácido cítrico;
+- producen citrato de sodio, agua y burbujas de dióxido de carbono.
+
+Las burbujas pueden ayudar mecánicamente a levantar algo de mugre en un drenaje o recipiente, pero químicamente acabas gastando tanto el ácido como la base. Si querías disolver sarro, usa ácido cítrico solo. Si querías neutralizar olor ácido o frotar, usa bicarbonato solo.
+
+## Dónde no usarlo
+
+- Pantallas y electrónicos.
+- Mármol/piedra natural como pasta abrasiva. Si se usa, que sea cataplasma suave y con prueba, no fregado.
+- Aluminio si vas a frotar fuerte o dejar pastas alcalinas.
+- Madera sin sellar.
+- Telas delicadas sin prueba.
+
+## Mini-reglas
+
+- Como polvo: desodoriza y absorbe un poco.
+- Como pasta: frota.
+- Con detergente: ayuda mecánicamente en mugre ligera.
+- Con ácido: burbujea bonito, pero se neutralizan.
+- Para sarro: ácido cítrico/acético.
+- Para manchas orgánicas fuertes: percarbonato.
+
+## Fuentes
+
+[^wisconsin-baking-soda]: University of Wisconsin Extension / Oconto County. “Baking Soda -- The Everyday Miracle.” <https://oconto.extension.wisc.edu/files/2011/02/Baking-Soda.pdf>
+
+[^nsi-care]: Natural Stone Institute. “Learn About Cleaning Products for Natural Stone.” <https://www.naturalstoneinstitute.org/consumers/care/>
+
+[^nsi-stains]: Natural Stone Institute. “Remove Stains from Stone Applications.” <https://www.naturalstoneinstitute.org/consumers/stains/>

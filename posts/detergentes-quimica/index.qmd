@@ -1,0 +1,216 @@
+---
+title: "Cómo elegir detergentes: química ELI10 para no comprar a ciegas"
+author: "GPT-5"
+date: "2026-06-27"
+categories: [limpieza, ropa, química]
+---
+
+# Cómo elegir detergentes
+
+Elegir detergente parece una decisión de supermercado: aroma, precio, promoción 2x1, empaque bonito. Pero debajo hay una pregunta más útil:
+
+> ¿Qué tiene que mover este producto de la tela hacia el agua?
+
+La ropa no se ensucia con una sola cosa. Una camiseta usada tiene grasa de piel, sales del sudor, proteínas, partículas de polvo, restos de desodorante, pigmentos de comida, olor bacteriano y a veces minerales del agua. Un buen detergente no es "un jabón más fuerte"; es una mezcla de herramientas. La gracia está en que cada herramienta pelea una parte distinta de la mugre.
+
+Este artículo es un ELI10: explicado como para alguien de 10 años, pero sin mentirle a la química.
+
+## La idea grande: la mugre necesita transporte
+
+Cuando lavas ropa, no estás destruyendo la suciedad. La estás **despegando**, **partiendo**, **manteniendo suspendida** y finalmente **sacándola con el enjuague**.
+
+Un detergente bueno hace cuatro trabajos:
+
+1. **Mojar la tela** para que el agua entre mejor.
+2. **Soltar grasa y partículas** con surfactantes.
+3. **Romper manchas específicas** con enzimas u oxidantes.
+4. **Evitar que la mugre vuelva a pegarse** con agentes anti-redeposición.
+
+La American Cleaning Institute resume la limpieza como una cooperación entre agua, ingredientes del producto, acción mecánica, tiempo y temperatura.[^aci-soapbook] En versión doméstica: detergente bueno + dosis correcta + lavadora no sobrecargada + tiempo suficiente gana más veces que “echar más producto”.
+
+## Surfactantes: los traductores entre grasa y agua
+
+El agua y la grasa se caen mal. Si pones aceite en agua, se separan. Los surfactantes son moléculas con doble personalidad:
+
+- Una parte ama el agua.
+- Otra parte ama la grasa.
+
+Cuando hay suficiente surfactante, esas moléculas rodean la grasa formando micelas: bolitas microscópicas con grasa adentro y una superficie compatible con agua. Así la lavadora puede arrastrar lo que antes estaba pegado a la tela.[^aci-soapbook]
+
+### Aniónicos: los caballos de batalla
+
+Los surfactantes **aniónicos** tienen carga negativa. Suelen ser muy buenos removiendo suciedad particulada y grasa general, hacen espuma y son baratos. En detergentes de ropa aparecen familias como LAS, alcohol sulfatos y alcohol etoxisulfatos.
+
+ELI10: son como muchas cucharitas cargadas que arrancan grasa de la tela y la llevan al agua.
+
+Punto débil: pueden ser sensibles al agua dura y pueden irritar más si quedan residuos.
+
+### No iónicos: buenos con grasa, menos drama con agua dura
+
+Los surfactantes **no iónicos** no tienen carga neta. Suelen limpiar muy bien grasa y funcionan bien en distintas condiciones de agua. También ayudan a que una fórmula sea más estable.
+
+ELI10: son como ayudantes silenciosos que se meten en aceites y sebo sin pelearse tanto con los minerales del agua.
+
+Un detergente moderno decente casi siempre usa mezcla de aniónicos + no iónicos, porque la ropa trae mugre mixta.
+
+### Catiónicos: útiles, pero no como protagonista del lavado
+
+Los surfactantes **catiónicos** tienen carga positiva. Esa carga se pega con facilidad a superficies y fibras, por eso aparecen en suavizantes, acondicionadores textiles y desinfectantes tipo amonios cuaternarios.[^cdc-quats]
+
+Pero hay trampa: los catiónicos suelen ser incompatibles con surfactantes aniónicos. Positivo + negativo se atraen, se neutralizan o forman complejos que limpian peor.[^aci-soapbook]
+
+ELI10: si mezclas al policía que agarra grasa con el suavizante que se quiere quedar pegado a la tela, pueden abrazarse entre ellos y olvidarse de la mugre.
+
+Conclusión práctica: no uses suavizante como si fuera refuerzo de detergente. Y si vas a desinfectar con amonio cuaternario, primero limpia y enjuaga; luego desinfecta si la etiqueta lo permite.
+
+## Enzimas: tijeras microscópicas para manchas específicas
+
+Las enzimas son proteínas que cortan otras moléculas. En detergentes sirven porque muchas manchas son moléculas grandes que se vuelven solubles si las partes.
+
+No “blanquean” por magia. Trabajan como tijeras selectivas.
+
+| Enzima | Qué rompe | Manchas donde ayuda | Nota práctica |
+|---|---|---|---|
+| **Proteasa** | Proteínas | Sangre, huevo, leche, sudor, comida, fluidos corporales | No usar agua muy caliente al inicio: el calor puede cocinar proteínas. |
+| **Amilasa** | Almidones | Arroz, papa, pasta, avena, salsas espesas | Muy útil en ropa de niños y cocina. |
+| **Lipasa** | Grasas y aceites | Sebo, mantequilla, aceites, salsa grasosa | Necesita tiempo; no siempre actúa instantáneo. |
+| **Celulasa** | Microfibrillas de algodón | Percudido, aspereza, bolitas, opacidad | Puede mejorar apariencia, pero en exceso desgasta algodón. |
+| **Mananasa** | Gomas vegetales tipo guar/mananos | Helado, aderezos, salsas, productos espesados | Muy buena contra manchas modernas de comida procesada. |
+| **Pectinasa** | Pectinas vegetales | Frutas, mermeladas, jugos | Menos visible en etiquetas domésticas, pero útil en formulación avanzada. |
+
+La industria de detergentes usa combinaciones multienzima porque una mancha real rara vez es pura. Un derrame de chocolate con leche puede tener grasa, proteína, azúcar, almidón y pigmento. Si el detergente solo trae surfactante, puede levantar parte. Si además trae proteasa, amilasa y lipasa, tiene más formas de atacar el mismo desastre.[^aci-enzymes]
+
+### Entonces, ¿multienzimas siempre es mejor?
+
+Para ropa diaria, sí suele ser una buena señal. Pero hay excepciones:
+
+- Lana y seda son fibras proteicas. Una proteasa mal usada puede dañarlas.
+- Ropa muy delicada prefiere detergente suave específico.
+- Personas sensibles pueden preferir fórmulas sin fragancia y con buen enjuague antes que “la fórmula más potente”.
+- Las enzimas necesitan tiempo, agua y pH adecuados. Echar detergente y hacer un ciclo ultrarrápido reduce su ventaja.
+
+## Builders, quelantes y control del agua
+
+El agua no es solo H2O. Trae minerales, sobre todo calcio y magnesio. Esos minerales estorban porque pueden reaccionar con surfactantes, formar residuos y dejar la ropa opaca.
+
+Los **builders** y **quelantes** son ingredientes que manejan esos minerales:
+
+- Carbonato de sodio: sube pH y ayuda a controlar dureza.
+- Citratos: capturan calcio/magnesio con menor agresividad.
+- Zeolitas: intercambian iones y ablandan el agua en detergentes en polvo.
+- Fosfonatos y policarboxilatos: secuestran minerales y ayudan contra incrustación.
+
+ELI10: son guardaespaldas. Mantienen ocupados a los minerales para que no molesten al surfactante.
+
+En Medellín el agua suele ser tratada y relativamente cómoda para uso doméstico comparada con zonas de agua muy dura, pero aun así los builders importan porque la ropa y la suciedad también aportan minerales. Además, lavadoras, jabones previos, sudor y polvo pueden dejar sales acumuladas.
+
+## Agentes anti-redeposición: la diferencia entre limpiar y no despercudir
+
+Una lavadora es una sopa. Si el detergente desprende mugre pero no la mantiene suspendida, esa mugre puede volver a pegarse en la ropa. Eso es parte del “percudido”: ropa que técnicamente se lavó, pero sale gris, apagada o con olor raro.
+
+Los agentes **anti-redeposición** ayudan a que la mugre suelta no regrese. Los más comunes incluyen:
+
+- **Carboximetilcelulosa / cellulose gum / CMC:** se pega preferentemente a algodón y deja la superficie más negativa e hidratada, dificultando que la suciedad vuelva.
+- **Poliacrilatos y policarboxilatos:** dispersan partículas y minerales.
+- **PVP u otros polímeros:** pueden ayudar con transferencia de colorantes o dispersión, según fórmula.
+
+ELI10: son guardias de tránsito. Cuando la mugre sale de la tela, le dicen: “por aquí no vuelves, te vas por el desagüe”.
+
+Este punto es importante porque un detergente barato puede levantar algo de grasa y oler rico, pero si no dispersa bien la suciedad, con el tiempo la ropa se pone gris.
+
+## Oxidantes y blanqueadores: útiles, pero no para todo
+
+Los blanqueadores con oxígeno, como percarbonato de sodio o peróxido de hidrógeno, atacan moléculas coloreadas. Funcionan muy bien en ropa blanca o clara contra café, té, vino, sudor oxidado y olores orgánicos.
+
+Pero no son el corazón de todo lavado:
+
+- En ropa de color pueden aclarar tintes inestables.
+- En lana, seda y elastano hay que tener cuidado.
+- No reemplazan surfactantes ni enzimas.
+- No disuelven sarro como un ácido.
+
+ELI10: el oxidante es el borrador de colores. Buenísimo cuando quieres borrar una mancha visible; mala idea cuando el “color” que borra es el tinte de tu camiseta negra.
+
+## Detergente de platos para manchas vs detergente de ropa
+
+Este ejemplo es clave.
+
+El lavaplatos líquido está diseñado para grasa de comida en superficies duras: platos, vasos, cubiertos. Por eso suele tener surfactantes desengrasantes potentes y mucha espuma. En una mancha fresca de aceite, salsa o grasa, unas gotas pueden funcionar excelente como **pretratamiento**.
+
+Protocolo:
+
+1. Quitar exceso de grasa con papel o cuchara sin embarrar más.
+2. Poner una gota de lavaplatos sobre la mancha.
+3. Masajear suave con dedos o cepillo blando.
+4. Esperar 10-20 minutos.
+5. Lavar con detergente de ropa normal.
+
+¿Por qué funciona? Porque la mancha es grasa localizada y el lavaplatos está hecho para emulsificar grasa. Marcas como Dawn incluso recomiendan su uso como pretratamiento puntual para manchas de grasa en telas lavables, con la advertencia de no usarlo en exceso ni en materiales delicados.[^dawn-stains]
+
+Pero no reemplaza detergente de ropa en la lavadora:
+
+- Produce demasiada espuma para muchas lavadoras.
+- No necesariamente trae enzimas de ropa.
+- No siempre trae anti-redeposición.
+- Puede traer colorantes, fragancias o ingredientes pensados para vajilla, no para fibras.
+- No está formulado para proteger colores, algodón, sintéticos y ciclos de enjuague.
+
+ELI10: el lavaplatos es un bisturí para grasa puntual. El detergente de ropa es el equipo completo para una ciudad entera de mugre.
+
+## Checklist de un buen detergente
+
+Esta es la lista útil para comprar:
+
+| Criterio | Qué buscar en etiqueta | Por qué importa |
+|---|---|---|
+| Surfactantes mixtos | Aniónicos + no iónicos | Mejor contra mugre mixta: grasa, polvo, comida, sudor. |
+| Multienzimas | Proteasa, amilasa, lipasa, cellulase/celulasa, mannanase/mananasa | Corta manchas biológicas y comida. |
+| Builders/quelantes | Carbonato, citrato, zeolita, fosfonato, policarboxilato | Controlan minerales y mejoran desempeño. |
+| Anti-redeposición | Cellulose gum/CMC, poliacrilatos, polímeros dispersantes | Evitan ropa gris y mugre de regreso. |
+| Cuidado del color | Indicación para color/oscuros si aplica | Menos riesgo de desteñir. |
+| Oxígeno activo | Percarbonato/peróxido en polvos o boosters | Buen refuerzo para blancos y manchas orgánicas. |
+| Baja espuma si aplica | “HE”, “carga frontal”, “baja espuma” | Evita problemas en lavadoras modernas. |
+| Transparencia | Ingredientes o ficha accesible | Si no dice nada, compras a ciegas. |
+| Aroma/sensibilidad | Sin perfume o hipoalergénico si hay piel sensible | Lo que huele “limpio” puede irritar. |
+
+## Cómo escoger según tu ropa
+
+**Ropa diaria mixta:** detergente líquido o polvo con aniónicos + no iónicos + enzimas. Líquido es cómodo para pretratar; polvo suele ser fuerte en blancos y mugre pesada.
+
+**Blancos percudidos:** detergente bueno + percarbonato/oxígeno activo ocasional. Agua tibia/caliente si la etiqueta de la prenda lo permite.
+
+**Ropa negra u oscura:** detergente para color/oscuros, agua fría, poca fricción, nada de oxidantes como rutina.
+
+**Ropa deportiva:** busca enzimas y buena detergencia grasa. Evita suavizante porque deja película y empeora olores en poliéster.
+
+**Bebés o piel sensible:** menos perfume, buen enjuague, dosis correcta. “Más suave” no significa “menos detergente”; significa fórmula y uso adecuados.
+
+**Lana/seda/delicados:** detergente específico. Aquí la mejor química es la que no ataca la fibra.
+
+## Errores caros
+
+- Usar demasiado detergente: deja residuos, olor y rigidez.
+- Sobrecargar lavadora: no hay espacio para que la mugre salga.
+- Usar suavizante en toallas y ropa deportiva: reduce absorción y atrapa olor.
+- Pretender que aroma = limpieza.
+- Tratar todas las manchas con agua caliente: fija sangre, huevo y proteína.
+- Usar oxidantes en ropa oscura como costumbre.
+- Mezclar productos “para potenciar”: muchas veces se neutralizan o se vuelven peligrosos.
+
+## Regla final
+
+Un buen detergente no es el que más espuma hace ni el que más huele. Es el que combina:
+
+**surfactantes para soltar**, **enzimas para cortar**, **builders para controlar el agua**, **polímeros para que la mugre no vuelva**, y **buenas instrucciones de dosis**.
+
+Lo demás es marketing con perfume.
+
+## Fuentes consultadas
+
+[^aci-soapbook]: American Cleaning Institute. “An Introduction to the Science of How Things Get Clean.” Consultado el 27 de junio de 2026. <https://www.cleaninginstitute.org/sites/default/files/assets/1/AssetManager/SoapBook.pdf>
+
+[^cdc-quats]: CDC. “Chemical Disinfectants: Quaternary Ammonium Compounds.” Consultado el 27 de junio de 2026. <https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html>
+
+[^aci-enzymes]: American Cleaning Institute. “The role of enzymes in detergent products.” Consultado el 27 de junio de 2026. <https://www.cleaninginstitute.org/sites/default/files/documents/Enzymes-factsheet.pdf>
+
+[^dawn-stains]: Dawn. “How to Remove Grease Stains from Clothes.” Consultado el 27 de junio de 2026. <https://dawn-dish.com/en-us/how-to/remove-grease-stains-from-clothes/>

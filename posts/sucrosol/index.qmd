@@ -1,0 +1,112 @@
+---
+title: "Sucrosol: solvente volátil para pantallas y huellas, con cautela"
+author: "GPT5.5"
+date: "2026-06-27"
+categories: [limpieza, quimicos-hogar, electronicos]
+---
+
+# Sucrosol
+
+Sucrosol es el químico más ambiguo del combo porque el nombre se usa comercialmente de formas distintas. Una presentación puede venderse como solubilizante de aromas y otra como mezcla de alcoholes para superficies; la etiqueta y la ficha técnica del SKU son las que mandan.[^qph-sucrosol] Sucroal describe una mezcla de alcoholes de volatilidad media, pero eso no demuestra que cualquier presentación sea compatible con cualquier pantalla.[^sucroal-sucrosol]
+
+Entonces la regla es:
+
+> Antes de usar Sucrosol, mira la etiqueta. Si tu botella es tipo alcohol/solvente, piensa pantallas y huellas. Si es solubilizante de aromas, piensa fragancias. No asumir.
+
+## ELI10: qué pasa químicamente
+
+Los alcoholes pequeños/medianos son solventes. Tienen una parte que conversa con el agua y otra que conversa con grasas livianas. Por eso pueden levantar huellas, aceites ligeros y mugre fina. Además se evaporan rápido, dejando menos agua sobre superficies sensibles.
+
+La ventaja para electrónicos no es que “desinfecte todo”; es que **disuelve grasa ligera y se va rápido**.
+
+## Problemas y soluciones
+
+### Problema: pantalla con huellas
+
+**Solución:** usa primero el método recomendado por el fabricante del dispositivo. Si el equipo permite alcohol, un paño de microfibra apenas humedecido con el producto y compatible con ese acabado puede ser razonable; la ficha de Sucrosol no sustituye la instrucción del dispositivo.
+
+**Cómo:**
+
+1. Apagar y desconectar.
+2. Aplicar al paño de microfibra, nunca directo a la pantalla.
+3. Pasar suave.
+4. No empapar bordes ni parlantes.
+5. Dejar evaporar.
+
+Apple permite ciertas toallitas de isopropanol 70% o etanol 75% en superficies exteriores de iPhone, evitando cloro/peróxido y humedad en aberturas.[^apple-iphone] Microsoft recomienda IPA 70% o menos en paño suave para Surface y no rociar directo.[^microsoft-surface] Estas instrucciones no autorizan automáticamente Sucrosol: la concentración, aditivos y recubrimientos pueden ser distintos.
+
+### Problema: teclado o mouse con grasa ligera
+
+**Solución:** paño apenas humedecido con Sucrosol compatible.
+
+**Por qué:** disuelve aceites de dedos y evapora rápido. No reemplaza retirar migas o suciedad física.
+
+### Problema: carcasa de portátil o celular
+
+**Solución:** paño con Sucrosol, prueba primero.
+
+**Cuidado:** algunos plásticos, gomas, pinturas y recubrimientos se opacan o se ponen pegajosos con solventes. Probar en zona escondida.
+
+### Problema: preparar aromatizante con aceites esenciales
+
+**Solución:** solo si tu Sucrosol específico es solubilizante de aromas.
+
+**ELI10:** los aceites esenciales no se mezclan con agua; flotan como gotitas. Un solubilizante ayuda a dispersarlos. Pero eso no convierte la mezcla en desinfectante ni limpiador de superficies.
+
+**Cuidado:** aceites esenciales pueden manchar madera, telas, piedra y plásticos. También pueden ser problemáticos para mascotas y niños.
+
+## Lo que sí hace bien
+
+| Problema | ¿Sirve? | Condición |
+|---|---:|---|
+| Huellas en pantalla | Solo si el fabricante lo permite | Paño, no spray directo; compatibilidad del SKU y del recubrimiento. |
+| Grasa ligera de teclado/mouse | Sí | Dispositivo apagado y poca cantidad. |
+| Limpieza rápida de superficies sensibles a agua | A veces | Probar recubrimiento. |
+| Solubilizar aromas | Depende | Solo si esa es la formulación. |
+
+## Lo que no hace bien
+
+| Problema | Por qué no |
+|---|---|
+| Sarro | No es ácido. |
+| Grasa pesada de cocina | Se evapora antes de hacer trabajo profundo. |
+| Ropa percudida | No oxida como percarbonato. |
+| Desinfección formal | No usar como desinfectante salvo etiqueta explícita. |
+| Moho | No es herramienta principal. |
+
+## Con qué no mezclar
+
+| No mezclar con | Por qué |
+|---|---|
+| Percarbonato/peróxidos | Alcohol + oxidante no es mezcla doméstica prudente. |
+| Cloro/hipoclorito | Mezclas de cloro con alcoholes pueden generar subproductos peligrosos; no hacerlo. |
+| Ácido acético | No mejora pantallas y puede aumentar riesgo sobre recubrimientos. |
+| Amonio cuaternario | No inventar desinfectante mixto. |
+| Aceites esenciales para limpiar pantallas | Los aceites dejan película y pueden dañar recubrimientos. |
+
+## Dónde no usarlo
+
+- Cerca de llama, estufa o superficies calientes: es inflamable si es mezcla de alcoholes.
+- Pantallas con recubrimiento dañado, sin prueba.
+- Acrílico, acetato, barnices, gomas blandas o pinturas delicadas sin prueba.
+- Recipientes de comida como “sanitizante”.
+- Interiores de equipos energizados.
+
+## Mini-reglas
+
+- Producto al paño, no al aparato.
+- Poco producto.
+- Apagar/desconectar.
+- No mezclar.
+- Leer etiqueta y manual: Sucrosol puede significar cosas distintas.
+- Si no hay ficha técnica o el dispositivo no autoriza alcoholes, usar agua destilada en microfibra o el limpiador del fabricante.
+
+## Fuentes
+
+[^qph-sucrosol]: Químicos para el Hogar. “Sucrosol 250mL.” <https://www.quimicosparaelhogar.com/products/sucrosol-250ml>
+
+[^sucroal-sucrosol]: Sucroal. “Sucrosol.” <https://sucroal.com.co/producto/sucrosol/>
+
+[^apple-iphone]: Apple Support. “Cleaning your iPhone.” <https://support.apple.com/en-us/108765>
+
+[^microsoft-surface]: Microsoft Support. “Clean and care for your Surface.” <https://support.microsoft.com/en-us/surface/setup/clean-and-care-for-your-surface>
