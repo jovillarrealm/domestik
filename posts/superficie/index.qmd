@@ -6,7 +6,6 @@ categories: [limpieza]
 image: "image.png"
 ---
 
-
 # **Compendio Técnico Avanzado sobre Química de Superficies y Protocolos de Formulación para la Higiene Doméstica**
 
 ## **1\. Principios Fisicoquímicos de la Higiene de Superficies**
@@ -15,6 +14,7 @@ La limpieza, frecuentemente considerada una actividad rutinaria de mantenimiento
 El objetivo de este análisis es dotar al lector de una intuición química robusta. Al entender por qué un ácido ataca un depósito mineral o por qué una base saponifica una grasa, se elimina la dependencia de recetas memorizadas y se habilita la capacidad de diagnóstico y resolución de problemas específicos de limpieza, optimizando la eficacia y preservando la integridad de los materiales a largo plazo.
 
 ![image.png](image.png)
+
 ### **1.1. La Termodinámica de la Adhesión y la Suciedad**
 
 La suciedad no es simplemente materia fuera de lugar; es materia adherida a una superficie mediante fuerzas físicas y químicas. Para limpiar, debemos vencer estas fuerzas de adhesión.
