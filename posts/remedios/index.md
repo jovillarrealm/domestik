@@ -6,15 +6,6 @@ categories: [remedios]
 image: "image.png"
 ---
 
----
-title: "Remeditos Caseros"
-author: "Gemini"
-date: "2026-02-08"
-categories: [remedios]
-image: "image.png"
----
-
-
 # **Farmacopea Doméstica Avanzada: Análisis Bioquímico, Mecanismos de Activación Enzimática y Protocolos Terapéuticos de Precisión**
 
 ## **Introducción: La Cocina como Laboratorio de Síntesis Fitoquímica**
@@ -288,7 +279,7 @@ Esta tabla resume la lógica operativa para la aplicación de remedios, diseñad
 
 La eficacia de la medicina casera reside en los detalles del proceso. Cortar un ajo, moler pimienta sobre la cúrcuma o esperar a que el té se enfríe antes de añadir miel no son rituales vacíos; son pasos necesarios para modular reacciones químicas complejas. Al internalizar estos mecanismos—la inestabilidad térmica de las enzimas, la cinética de la alicina, la necesidad de transportadores grasos para polifenoles—el usuario deja de seguir recetas y comienza a aplicar farmacología. Esta intuición permite adaptar los remedios a la situación clínica específica, respetando siempre los límites de seguridad que la biología impone, especialmente en los miembros más vulnerables de la familia. La cocina recupera así su dignidad científica como la primera línea de defensa de la salud.
 
-#### **Fuentes citadas**
+### **Fuentes citadas**
 
 1. Garlic: a review of potential therapeutic effects \- PMC, acceso: febrero 8, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC4103721/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4103721/)  
 2. Garlic Compounds. Half-Life of Garlic "Hotness" after Crushing or Chopping., acceso: febrero 8, 2026, [https://www.groeat.com/post/garlic-compounds-half-life-of-garlic-hotness-after-crushing-or-chopping](https://www.groeat.com/post/garlic-compounds-half-life-of-garlic-hotness-after-crushing-or-chopping)  

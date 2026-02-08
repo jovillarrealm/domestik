@@ -39,8 +39,8 @@ La escala de pH, que mide la concentración de iones de hidrógeno ($\mathrm{H^+
 
 Los ácidos son herramientas de **desmineralización**. Su alta concentración de protones ($\mathrm{H^+}$) les permite reaccionar con sales minerales insolubles (generalmente básicas o alcalinas) y convertirlas en sales solubles en agua.
 
-*   **Vinagre Blanco (Ácido Acético, $\mathrm{CH_3COOH}$):** Típicamente al 5% de acidez con un pH de 2-3. Es un ácido débil, lo que significa que no se disocia completamente en agua, proporcionando una reserva de acidez que se libera gradualmente. Es ideal para depósitos de cal suave y residuos de jabón.3  
-*   **Jugo de Limón / Ácido Cítrico ($\mathrm{C_6H_8O_7}$):** Un ácido tricarboxílico con propiedades quelantes, lo que significa que puede "secuestrar" iones metálicos (como el calcio y el magnesio del agua dura), haciéndolo superior al vinagre para combatir el sarro en aguas muy duras.3
+* **Vinagre Blanco (Ácido Acético, $\mathrm{CH_3COOH}$):** Típicamente al 5% de acidez con un pH de 2-3. Es un ácido débil, lo que significa que no se disocia completamente en agua, proporcionando una reserva de acidez que se libera gradualmente. Es ideal para depósitos de cal suave y residuos de jabón.3  
+* **Jugo de Limón / Ácido Cítrico ($\mathrm{C_6H_8O_7}$):** Un ácido tricarboxílico con propiedades quelantes, lo que significa que puede "secuestrar" iones metálicos (como el calcio y el magnesio del agua dura), haciéndolo superior al vinagre para combatir el sarro en aguas muy duras.3
 
 **Mecanismo de Acción:**
 
@@ -51,9 +51,9 @@ El carbonato de calcio sólido (sarro), insoluble, reacciona con los iones de hi
 
 Las bases son ricas en iones hidróxido ($\mathrm{OH^-}$) y son las herramientas de **desengrase**. Atacan la materia orgánica: grasas, aceites, proteínas y ceras.
 
-*   **Bicarbonato de Sodio ($\mathrm{NaHCO_3}$):** Una base débil con un pH alrededor de 8-9. Actúa como un *buffer* o amortiguador de pH, manteniendo una alcalinidad suave. Además, su estructura cristalina le confiere propiedades abrasivas mecánicas suaves (dureza Mohs ~2.5), permitiendo fregar sin rayar la mayoría de los plásticos y metales.3  
-*   **Amoníaco ($\mathrm{NH_3}$):** Una base volátil y fuerte (pH 11-13) excelente para grasas difíciles y ceras de piso. Al evaporarse sin dejar residuos sólidos, es ideal para cristales y espejos.1  
-*   **Carbonato de Sodio (Sosa Solvay):** Más fuerte que el bicarbonato (pH \~11), utilizado para potenciar detergentes.
+* **Bicarbonato de Sodio ($\mathrm{NaHCO_3}$):** Una base débil con un pH alrededor de 8-9. Actúa como un *buffer* o amortiguador de pH, manteniendo una alcalinidad suave. Además, su estructura cristalina le confiere propiedades abrasivas mecánicas suaves (dureza Mohs ~2.5), permitiendo fregar sin rayar la mayoría de los plásticos y metales.3  
+* **Amoníaco ($\mathrm{NH_3}$):** Una base volátil y fuerte (pH 11-13) excelente para grasas difíciles y ceras de piso. Al evaporarse sin dejar residuos sólidos, es ideal para cristales y espejos.1  
+* **Carbonato de Sodio (Sosa Solvay):** Más fuerte que el bicarbonato (pH \~11), utilizado para potenciar detergentes.
 
 **Mecanismo de Acción (Saponificación):**
 
@@ -109,7 +109,6 @@ Para tablas de madera o plástico con cortes profundos donde se acumulan bacteri
 2. **Mecanismo:** La sal gruesa actúa como un abrasivo fuerte para "lijar" mecánicamente la superficie y extraer restos de comida de las grietas. El ácido cítrico del limón desinfecta y neutraliza olores (las aminas responsables del olor a pescado son básicas y se neutralizan con ácido). El bicarbonato actúa como abrasivo suave y desodorizante.17
 
 ---
-
 
 ## **4\. Protocolos de Limpieza para Baños: Gestión de Depósitos Minerales y Biológicos**
 

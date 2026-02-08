@@ -1,14 +1,5 @@
-
 ---
 title: "Soluciones Caseras de Lavado de Ropa"
-author: "Gemini"
-date: "2026-02-08"
-categories: [limpieza]
-image: "image.png"
----
-
----
-title: "Soluciones Caseras para Manchas y Ropa"
 author: "Gemini"
 date: "2026-02-08"
 categories: [limpieza]
@@ -355,7 +346,7 @@ La siguiente tabla resume los principios discutidos, sirviendo como guía rápid
 La limpieza efectiva es una ciencia de observación y selección. Al enfrentar una mancha, el operador doméstico debe preguntarse: "¿Es esto grasa, proteína, mineral o pigmento?" y "¿Es el sustrato resistente a ácidos, bases o solventes?".  
 La "intuición química" desarrollada en este informe permite sustituir la frustración del ensayo y error por la certeza del principio científico. Sabemos ahora que el vinagre y el bicarbonato se anulan si se mezclan, pero son potentes por separado; que el calor fija la sangre pero disuelve la grasa; y que el tiempo de contacto es a menudo más valioso que la fuerza del fregado. Con este arsenal y estos protocolos, la restauración de superficies y textiles se convierte en un proceso predecible, seguro y eficiente.
 
-#### **Fuentes citadas**
+### **Fuentes citadas**
 
 1. Manchas, química y la ciencia en las recetas caseras para cuidar nuestra ropa \- YouTube, acceso: febrero 8, 2026, [https://www.youtube.com/watch?v=IGi3il9JTT0](https://www.youtube.com/watch?v=IGi3il9JTT0)  
 2. Vinagre blanco y agua oxigenada: el truco de limpieza que funciona si no los mezclas, acceso: febrero 8, 2026, [https://hoydondevamosmama.com/article/vinagre-blanco-y-agua-oxigenada-el-truco-de-limpieza-que-funciona-si-no-los-mezclas](https://hoydondevamosmama.com/article/vinagre-blanco-y-agua-oxigenada-el-truco-de-limpieza-que-funciona-si-no-los-mezclas)  
