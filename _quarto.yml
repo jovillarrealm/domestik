@@ -12,8 +12,8 @@ website:
 format:
   html:
     theme:
-      - lux
-      - brand
+      light: lux
+      dark: darkly
     css: styles.css
 
 
