@@ -9,7 +9,7 @@
 <link>https://jovillarrealm.github.io/domestik/</link>
 <atom:link href="https://jovillarrealm.github.io/domestik/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto and filled with AI-generated slop.</description>
-<generator>quarto-1.8.27</generator>
+<generator>quarto-1.9.38</generator>
 <lastBuildDate>Sun, 08 Feb 2026 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Remeditos Caseros</title>
@@ -1045,6 +1045,12 @@ Este documento analiza exhaustivamente el arsenal químico disponible en el hoga
 <section id="tabla-maestra-de-intuición-y-solución" class="level2">
 <h2 class="anchored" data-anchor-id="tabla-maestra-de-intuición-y-solución"><strong>9. Tabla Maestra de Intuición y Solución</strong></h2>
 <p>La siguiente tabla resume los principios discutidos, sirviendo como guía rápida de toma de decisiones.</p>
+<div id="tbl-letters" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-letters-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1: Tabla Maestra de Intuición y Solución
+</figcaption>
+<div aria-describedby="tbl-letters-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <table class="caption-top table">
 <colgroup>
 <col style="width: 20%">
@@ -1149,6 +1155,10 @@ Este documento analiza exhaustivamente el arsenal químico disponible en el hoga
 </tr>
 </tbody>
 </table>
+</div>
+</figure>
+</div>
+<p>See Table&nbsp;1.</p>
 </section>
 <section id="conclusión" class="level2">
 <h2 class="anchored" data-anchor-id="conclusión"><strong>10. Conclusión</strong></h2>

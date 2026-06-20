@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.27">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,6 +11,9 @@
 
 <title>Remeditos Caseros – domestik</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -34,19 +37,18 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="../../">
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-4d9afe2b8d18ee9fa5d0d57b5ed4214d.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-cc1d64809b8ed731f92ea1275fe9f05b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark-24772959a0e306aba8d7698078628ce7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../../site_libs/bootstrap/bootstrap-cc1d64809b8ed731f92ea1275fe9f05b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-63e65420fcfc173403cc58fcf1f79cde.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-7f530f452943357f7d13849869423b4f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-63e65420fcfc173403cc58fcf1f79cde.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -74,9 +76,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="https://cdn.jsdelivr.net/gh/posit-dev/supported-by-posit/js/badge.min.js" data-light-bg="#E8EDF2" data-light-text="#404041" data-light-lt="#ee6331" data-light-gt="#447099" data-dark-bg="#333333" data-dark-lt="#ffffff" data-dark-gt="#ffffff"></script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 const typesetMath = (el) => {
@@ -108,7 +111,7 @@ window.Quarto = {
 <link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -251,7 +254,8 @@ window.Quarto = {
       }
     };
     const authorPrefersDark = false;
-    const darkModeDefault = authorPrefersDark;
+    const queryPrefersDark = window.matchMedia('(prefers-color-scheme: dark)');
+    const darkModeDefault = queryPrefersDark.matches;
       document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
       document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
     let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
@@ -264,6 +268,14 @@ window.Quarto = {
       toggleGiscusIfUsed(toAlternate, darkModeDefault);
       window.dispatchEvent(new Event('resize'));
     };
+    queryPrefersDark.addEventListener("change", e => {
+      if(window.localStorage.getItem("quarto-color-scheme") !== null)
+        return;
+      const alternate = e.matches
+      toggleColorMode(alternate);
+      localAlternateSentinel = e.matches ? 'alternate' : 'default'; // this is used alongside local storage!
+      toggleGiscusIfUsed(alternate, darkModeDefault);
+    });
     // Switch to dark mode if need be
     if (hasAlternateSentinel()) {
       toggleColorMode(true);
@@ -335,7 +347,66 @@ window.Quarto = {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#farmacopea-doméstica-avanzada-análisis-bioquímico-mecanismos-de-activación-enzimática-y-protocolos-terapéuticos-de-precisión" id="toc-farmacopea-doméstica-avanzada-análisis-bioquímico-mecanismos-de-activación-enzimática-y-protocolos-terapéuticos-de-precisión" class="nav-link active" data-scroll-target="#farmacopea-doméstica-avanzada-análisis-bioquímico-mecanismos-de-activación-enzimática-y-protocolos-terapéuticos-de-precisión"><strong>Farmacopea Doméstica Avanzada: Análisis Bioquímico, Mecanismos de Activación Enzimática y Protocolos Terapéuticos de Precisión</strong></a>
+  <ul class="collapse">
+  <li><a href="#introducción-la-cocina-como-laboratorio-de-síntesis-fitoquímica" id="toc-introducción-la-cocina-como-laboratorio-de-síntesis-fitoquímica" class="nav-link" data-scroll-target="#introducción-la-cocina-como-laboratorio-de-síntesis-fitoquímica"><strong>Introducción: La Cocina como Laboratorio de Síntesis Fitoquímica</strong></a></li>
+  <li><a href="#capítulo-1-dinámica-enzimática-y-compuestos-azufrados-el-principio-de-activación-por-daño-tisular" id="toc-capítulo-1-dinámica-enzimática-y-compuestos-azufrados-el-principio-de-activación-por-daño-tisular" class="nav-link" data-scroll-target="#capítulo-1-dinámica-enzimática-y-compuestos-azufrados-el-principio-de-activación-por-daño-tisular"><strong>Capítulo 1: Dinámica Enzimática y Compuestos Azufrados: El Principio de Activación por Daño Tisular</strong></a>
+  <ul class="collapse">
+  <li><a href="#el-ajo-allium-sativum-y-la-cinética-de-la-alicina" id="toc-el-ajo-allium-sativum-y-la-cinética-de-la-alicina" class="nav-link" data-scroll-target="#el-ajo-allium-sativum-y-la-cinética-de-la-alicina"><strong>1.1 El Ajo (<em>Allium sativum</em>) y la Cinética de la Alicina</strong></a></li>
+  <li><a href="#brócoli-y-crucíferas-el-sistema-glucosinolato-mirosinasa" id="toc-brócoli-y-crucíferas-el-sistema-glucosinolato-mirosinasa" class="nav-link" data-scroll-target="#brócoli-y-crucíferas-el-sistema-glucosinolato-mirosinasa"><strong>1.2 Brócoli y Crucíferas: El Sistema Glucosinolato-Mirosinasa</strong></a></li>
+  </ul></li>
+  <li><a href="#capítulo-2-biodisponibilidad-y-sinergia-metabólica-superando-la-eliminación-hepática" id="toc-capítulo-2-biodisponibilidad-y-sinergia-metabólica-superando-la-eliminación-hepática" class="nav-link" data-scroll-target="#capítulo-2-biodisponibilidad-y-sinergia-metabólica-superando-la-eliminación-hepática"><strong>Capítulo 2: Biodisponibilidad y Sinergia Metabólica: Superando la Eliminación Hepática</strong></a>
+  <ul class="collapse">
+  <li><a href="#la-paradoja-de-la-cúrcuma-curcuma-longa" id="toc-la-paradoja-de-la-cúrcuma-curcuma-longa" class="nav-link" data-scroll-target="#la-paradoja-de-la-cúrcuma-curcuma-longa"><strong>2.1 La Paradoja de la Cúrcuma (<em>Curcuma longa</em>)</strong></a></li>
+  <li><a href="#sinergia-redox-vitamina-c-y-hierro-no-hemo" id="toc-sinergia-redox-vitamina-c-y-hierro-no-hemo" class="nav-link" data-scroll-target="#sinergia-redox-vitamina-c-y-hierro-no-hemo"><strong>2.2 Sinergia Redox: Vitamina C y Hierro No Hemo</strong></a></li>
+  </ul></li>
+  <li><a href="#capítulo-3-termodinámica-fitoquímica-el-calor-como-interruptor-molecular" id="toc-capítulo-3-termodinámica-fitoquímica-el-calor-como-interruptor-molecular" class="nav-link" data-scroll-target="#capítulo-3-termodinámica-fitoquímica-el-calor-como-interruptor-molecular"><strong>Capítulo 3: Termodinámica Fitoquímica: El Calor como Interruptor Molecular</strong></a>
+  <ul class="collapse">
+  <li><a href="#jengibre-zingiber-officinale-fresco-vs.-seco" id="toc-jengibre-zingiber-officinale-fresco-vs.-seco" class="nav-link" data-scroll-target="#jengibre-zingiber-officinale-fresco-vs.-seco"><strong>3.1 Jengibre (<em>Zingiber officinale</em>): Fresco vs.&nbsp;Seco</strong></a></li>
+  <li><a href="#miel-un-sistema-enzimático-vivo-termolábil" id="toc-miel-un-sistema-enzimático-vivo-termolábil" class="nav-link" data-scroll-target="#miel-un-sistema-enzimático-vivo-termolábil"><strong>3.2 Miel: Un Sistema Enzimático Vivo Termolábil</strong></a></li>
+  </ul></li>
+  <li><a href="#capítulo-4-fermentación-y-biotransformación" id="toc-capítulo-4-fermentación-y-biotransformación" class="nav-link" data-scroll-target="#capítulo-4-fermentación-y-biotransformación"><strong>Capítulo 4: Fermentación y Biotransformación</strong></a>
+  <ul class="collapse">
+  <li><a href="#ajo-fermentado-en-miel" id="toc-ajo-fermentado-en-miel" class="nav-link" data-scroll-target="#ajo-fermentado-en-miel"><strong>4.1 Ajo Fermentado en Miel</strong></a></li>
+  </ul></li>
+  <li><a href="#capítulo-5-física-y-química-inorgánica-ph-ósmosis-y-adsorción" id="toc-capítulo-5-física-y-química-inorgánica-ph-ósmosis-y-adsorción" class="nav-link" data-scroll-target="#capítulo-5-física-y-química-inorgánica-ph-ósmosis-y-adsorción"><strong>Capítulo 5: Física y Química Inorgánica: pH, Ósmosis y Adsorción</strong></a>
+  <ul class="collapse">
+  <li><a href="#gárgaras-de-agua-salada-gradientes-osmóticos" id="toc-gárgaras-de-agua-salada-gradientes-osmóticos" class="nav-link" data-scroll-target="#gárgaras-de-agua-salada-gradientes-osmóticos"><strong>5.1 Gárgaras de Agua Salada: Gradientes Osmóticos</strong></a></li>
+  <li><a href="#vinagre-de-manzana-acv-y-control-glucémico" id="toc-vinagre-de-manzana-acv-y-control-glucémico" class="nav-link" data-scroll-target="#vinagre-de-manzana-acv-y-control-glucémico"><strong>5.2 Vinagre de Manzana (ACV) y Control Glucémico</strong></a></li>
+  <li><a href="#carbón-activado-adsorción-vs.-absorción" id="toc-carbón-activado-adsorción-vs.-absorción" class="nav-link" data-scroll-target="#carbón-activado-adsorción-vs.-absorción"><strong>5.3 Carbón Activado: Adsorción vs.&nbsp;Absorción</strong></a></li>
+  </ul></li>
+  <li><a href="#capítulo-6-mecanismos-tópicos-y-transdérmicos" id="toc-capítulo-6-mecanismos-tópicos-y-transdérmicos" class="nav-link" data-scroll-target="#capítulo-6-mecanismos-tópicos-y-transdérmicos"><strong>Capítulo 6: Mecanismos Tópicos y Transdérmicos</strong></a>
+  <ul class="collapse">
+  <li><a href="#aceite-de-ricino-y-ácido-ricinoleico" id="toc-aceite-de-ricino-y-ácido-ricinoleico" class="nav-link" data-scroll-target="#aceite-de-ricino-y-ácido-ricinoleico"><strong>6.1 Aceite de Ricino y Ácido Ricinoleico</strong></a></li>
+  <li><a href="#clavo-de-olor-eugenol-y-anestesia-dental" id="toc-clavo-de-olor-eugenol-y-anestesia-dental" class="nav-link" data-scroll-target="#clavo-de-olor-eugenol-y-anestesia-dental"><strong>6.2 Clavo de Olor (Eugenol) y Anestesia Dental</strong></a></li>
+  <li><a href="#avena-coloidal-y-barrera-cutánea" id="toc-avena-coloidal-y-barrera-cutánea" class="nav-link" data-scroll-target="#avena-coloidal-y-barrera-cutánea"><strong>6.3 Avena Coloidal y Barrera Cutánea</strong></a></li>
+  <li><a href="#aceite-de-menta-y-mentol-bloqueador-de-canales-de-calcio" id="toc-aceite-de-menta-y-mentol-bloqueador-de-canales-de-calcio" class="nav-link" data-scroll-target="#aceite-de-menta-y-mentol-bloqueador-de-canales-de-calcio"><strong>6.4 Aceite de Menta y Mentol: Bloqueador de Canales de Calcio</strong></a></li>
+  </ul></li>
+  <li><a href="#capítulo-7-sinergias-enzimáticas-y-digestivas" id="toc-capítulo-7-sinergias-enzimáticas-y-digestivas" class="nav-link" data-scroll-target="#capítulo-7-sinergias-enzimáticas-y-digestivas"><strong>Capítulo 7: Sinergias Enzimáticas y Digestivas</strong></a>
+  <ul class="collapse">
+  <li><a href="#piña-y-bromelina-actividad-proteolítica" id="toc-piña-y-bromelina-actividad-proteolítica" class="nav-link" data-scroll-target="#piña-y-bromelina-actividad-proteolítica"><strong>7.1 Piña y Bromelina: Actividad Proteolítica</strong></a></li>
+  </ul></li>
+  <li><a href="#capítulo-8-seguridad-toxicología-y-contraindicaciones" id="toc-capítulo-8-seguridad-toxicología-y-contraindicaciones" class="nav-link" data-scroll-target="#capítulo-8-seguridad-toxicología-y-contraindicaciones"><strong>Capítulo 8: Seguridad, Toxicología y Contraindicaciones</strong></a>
+  <ul class="collapse">
+  <li><a href="#embarazo-y-salud-reproductiva" id="toc-embarazo-y-salud-reproductiva" class="nav-link" data-scroll-target="#embarazo-y-salud-reproductiva"><strong>8.1 Embarazo y Salud Reproductiva</strong></a></li>
+  <li><a href="#seguridad-pediátrica" id="toc-seguridad-pediátrica" class="nav-link" data-scroll-target="#seguridad-pediátrica"><strong>8.2 Seguridad Pediátrica</strong></a></li>
+  <li><a href="#interacciones-farmacológicas-el-riesgo-de-sangrado" id="toc-interacciones-farmacológicas-el-riesgo-de-sangrado" class="nav-link" data-scroll-target="#interacciones-farmacológicas-el-riesgo-de-sangrado"><strong>8.3 Interacciones Farmacológicas: El Riesgo de Sangrado</strong></a></li>
+  <li><a href="#toxicidad-hepática-y-renal-específica" id="toc-toxicidad-hepática-y-renal-específica" class="nav-link" data-scroll-target="#toxicidad-hepática-y-renal-específica"><strong>8.4 Toxicidad Hepática y Renal Específica</strong></a></li>
+  </ul></li>
+  <li><a href="#tabla-de-intuición-clínica-protocolos-y-mecanismos" id="toc-tabla-de-intuición-clínica-protocolos-y-mecanismos" class="nav-link" data-scroll-target="#tabla-de-intuición-clínica-protocolos-y-mecanismos"><strong>Tabla de Intuición Clínica: Protocolos y Mecanismos</strong></a></li>
+  <li><a href="#conclusión" id="toc-conclusión" class="nav-link" data-scroll-target="#conclusión"><strong>Conclusión</strong></a>
+  <ul class="collapse">
+  <li><a href="#fuentes-citadas" id="toc-fuentes-citadas" class="nav-link" data-scroll-target="#fuentes-citadas"><strong>Fuentes citadas</strong></a></li>
+  </ul></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
