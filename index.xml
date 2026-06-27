@@ -10,7 +10,3457 @@
 <atom:link href="https://jovillarrealm.github.io/domestik/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto and filled with AI-generated slop.</description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Sun, 08 Feb 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Ácido acético al 10%: sarro, cal y minerales</title>
+  <dc:creator>GPT5.5 </dc:creator>
+  <link>https://jovillarrealm.github.io/domestik/posts/acido-acetico-10/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="ácido-acético-al-10" class="level1">
+<h1>Ácido acético al 10%</h1>
+<p>El ácido acético al 10% es el primo fuerte del vinagre. La herramienta sirve para <strong>sarro, cal, marcas blancas de agua dura y algunos residuos minerales</strong>. No es el mejor para grasa pesada ni para desinfectar formalmente.</p>
+<p>La idea mental:</p>
+<blockquote class="blockquote">
+<p>Si la mugre parece piedra blanca, usa ácido. Si parece grasa pegajosa, usa desengrasante. Si parece color orgánico, usa percarbonato.</p>
+</blockquote>
+<section id="eli10-qué-pasa-químicamente" class="level2">
+<h2 class="anchored" data-anchor-id="eli10-qué-pasa-químicamente">ELI10: qué pasa químicamente</h2>
+<p>El sarro suele ser carbonato de calcio o magnesio. Es una “piedrita” mineral que el agua deja cuando se evapora. El ácido acético le dona protones y convierte esa piedra en una sal soluble.</p>
+<p>La reacción modelo:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0ACaCO_3%20+%202CH_3COOH%20%5Crightarrow%20Ca(CH_3COO)_2%20+%20H_2O%20+%20CO_2%0A"></p>
+<p>O sea: sarro sólido + ácido → sal soluble + agua + burbujas de CO2.</p>
+<p>La American Chemical Society usa el caso de vinagre y carbonato de calcio para mostrar cómo se libera CO2 al reaccionar con carbonatos.<sup>1</sup> New Mexico State University lista el vinagre/ácidos suaves como útiles para depósitos de agua dura y película de jabón.<sup>2</sup></p>
+</section>
+<section id="problemas-y-soluciones" class="level2">
+<h2 class="anchored" data-anchor-id="problemas-y-soluciones">Problemas y soluciones</h2>
+<section id="problema-grifería-con-sarro-blanco" class="level3">
+<h3 class="anchored" data-anchor-id="problema-grifería-con-sarro-blanco">Problema: grifería con sarro blanco</h3>
+<p><strong>Solución:</strong> ácido acético con tiempo de contacto.</p>
+<p><strong>Cómo:</strong> paño empapado alrededor del grifo, esperar, cepillar suave, enjuagar y secar.</p>
+<p><strong>Por qué:</strong> el ácido necesita estar en contacto con la piedra mineral. Rociar y retirar en 5 segundos es básicamente perfumar el sarro.</p>
+</section>
+<section id="problema-vidrio-de-ducha-con-marcas-blancas" class="level3">
+<h3 class="anchored" data-anchor-id="problema-vidrio-de-ducha-con-marcas-blancas">Problema: vidrio de ducha con marcas blancas</h3>
+<p><strong>Solución:</strong> ácido acético para mineral + detergente/desengrasante suave si hay jabón/grasa corporal.</p>
+<p><strong>Por qué:</strong> las marcas de ducha suelen ser mezcla: cal mineral + jabón + grasa corporal. El ácido ataca la cal; el detergente ataca grasa. Usarlos por pasos.</p>
+</section>
+<section id="problema-hervidor-cafetera-o-termo-con-costra-mineral" class="level3">
+<h3 class="anchored" data-anchor-id="problema-hervidor-cafetera-o-termo-con-costra-mineral">Problema: hervidor, cafetera o termo con costra mineral</h3>
+<p><strong>Solución:</strong> ácido acético diluido, si el fabricante lo permite.</p>
+<p><strong>Después:</strong> enjuague largo. Si el olor/sabor ácido queda, seguir enjuagando y dejar ventilar.</p>
+<p><strong>No usar:</strong> si el recipiente es aluminio o tiene recubrimientos sensibles sin confirmar.</p>
+</section>
+<section id="problema-lavamanos-opaco" class="level3">
+<h3 class="anchored" data-anchor-id="problema-lavamanos-opaco">Problema: lavamanos opaco</h3>
+<p><strong>Solución:</strong> primero identificar. Si es sarro: ácido. Si es grasa/jabón: detergente o desengrasante suave. Si hay manchas orgánicas: percarbonato.</p>
+</section>
+<section id="problema-ropa-gris-y-áspera-por-minerales" class="level3">
+<h3 class="anchored" data-anchor-id="problema-ropa-gris-y-áspera-por-minerales">Problema: ropa gris y áspera por minerales</h3>
+<p><strong>Solución:</strong> ciclo separado con ácido acético diluido, sin percarbonato ni cloro.</p>
+<p><strong>Por qué:</strong> los minerales del agua pueden quedar atrapados en fibras. El ácido ayuda a solubilizarlos. Pero no es blanqueador; si la ropa está amarilla por oxidación de sudor, percarbonato en otro paso.</p>
+</section>
+</section>
+<section id="lo-que-sí-hace-bien" class="level2">
+<h2 class="anchored" data-anchor-id="lo-que-sí-hace-bien">Lo que sí hace bien</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Problema</th>
+<th style="text-align: right;">¿Sirve?</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Sarro/cal</td>
+<td style="text-align: right;">Sí</td>
+<td>Disuelve carbonatos.</td>
+</tr>
+<tr class="even">
+<td>Marcas de agua dura</td>
+<td style="text-align: right;">Sí</td>
+<td>Convierte minerales en sales solubles.</td>
+</tr>
+<tr class="odd">
+<td>Película mineral de jabón</td>
+<td style="text-align: right;">Sí</td>
+<td>Rompe parte de sales minerales.</td>
+</tr>
+<tr class="even">
+<td>Olor a pescado/aminas en recipientes</td>
+<td style="text-align: right;">A veces</td>
+<td>Neutraliza olores básicos.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="lo-que-no-hace-bien" class="level2">
+<h2 class="anchored" data-anchor-id="lo-que-no-hace-bien">Lo que no hace bien</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Problema</th>
+<th>Por qué no</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Grasa pesada de cocina</td>
+<td>La grasa necesita surfactantes/alcalinidad.</td>
+</tr>
+<tr class="even">
+<td>Manchas orgánicas coloreadas</td>
+<td>No oxida como percarbonato.</td>
+</tr>
+<tr class="odd">
+<td>Desinfección formal</td>
+<td>No reemplaza un desinfectante registrado.</td>
+</tr>
+<tr class="even">
+<td>Moho profundo</td>
+<td>Puede ayudar poco; no arregla humedad.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="con-qué-no-mezclar" class="level2">
+<h2 class="anchored" data-anchor-id="con-qué-no-mezclar">Con qué no mezclar</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>No mezclar con</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Cloro/hipoclorito</td>
+<td>Puede liberar cloro gaseoso. Washington State Department of Health advierte contra mezclar bleach con ácidos.<sup>3</sup></td>
+</tr>
+<tr class="even">
+<td>Percarbonato</td>
+<td>Neutralizas el carbonato y pierdes parte de la función alcalina.</td>
+</tr>
+<tr class="odd">
+<td>Amonio cuaternario</td>
+<td>Puede alterar formulación; objetivos distintos.</td>
+</tr>
+<tr class="even">
+<td>Desengrasante alcalino</td>
+<td>Ácido + base se neutralizan. Mejor por pasos.</td>
+</tr>
+<tr class="odd">
+<td>Metales desconocidos en remojo largo</td>
+<td>Riesgo de corrosión/manchas.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="dónde-no-usarlo" class="level2">
+<h2 class="anchored" data-anchor-id="dónde-no-usarlo">Dónde no usarlo</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Material</th>
+<th>Razón</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Mármol, travertino, piedra caliza, terrazo calcáreo</td>
+<td>El ácido ataca carbonato de calcio, igual que sarro.</td>
+</tr>
+<tr class="even">
+<td>Juntas cementosas como rutina</td>
+<td>Puede erosionarlas con uso repetido.</td>
+</tr>
+<tr class="odd">
+<td>Madera y acabados encerados</td>
+<td>Puede opacar o dañar acabado.</td>
+</tr>
+<tr class="even">
+<td>Pantallas/electrónicos</td>
+<td>Humedad + ácido.</td>
+</tr>
+<tr class="odd">
+<td>Aluminio</td>
+<td>Puede manchar/corroer.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="mini-reglas" class="level2">
+<h2 class="anchored" data-anchor-id="mini-reglas">Mini-reglas</h2>
+<ul>
+<li>Usar guantes: al 10% ya no es vinagrito de ensalada.</li>
+<li>Dar tiempo de contacto.</li>
+<li>Enjuagar bien.</li>
+<li>No mezclar con cloro jamás.</li>
+<li>Si la superficie es piedra natural, asumir “no” hasta probar lo contrario.</li>
+</ul>
+</section>
+<section id="fuentes" class="level2">
+<h2 class="anchored" data-anchor-id="fuentes">Fuentes</h2>
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>American Chemical Society. “The Fate of Calcium Carbonate.” <a href="https://www.acs.org/education/whatischemistry/adventures-in-chemistry/experiments/fate-of-calcium-carbonate.html" class="uri">https://www.acs.org/education/whatischemistry/adventures-in-chemistry/experiments/fate-of-calcium-carbonate.html</a>↩︎</p></li>
+<li id="fn2"><p>New Mexico State University. “Selection and Use of Home Cleaning Products.” <a href="https://pubs.nmsu.edu/_g/G304/" class="uri">https://pubs.nmsu.edu/_g/G304/</a>↩︎</p></li>
+<li id="fn3"><p>Washington State Department of Health. “Dangers of Mixing Bleach with Cleaners.” <a href="https://doh.wa.gov/community-and-environment/contaminants/bleach-mixing-dangers" class="uri">https://doh.wa.gov/community-and-environment/contaminants/bleach-mixing-dangers</a>↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>limpieza</category>
+  <category>quimicos-hogar</category>
+  <category>banos</category>
+  <guid>https://jovillarrealm.github.io/domestik/posts/acido-acetico-10/</guid>
+  <pubDate>Sat, 27 Jun 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Ácido bórico: herramienta puntual para plagas, no limpiador general</title>
+  <dc:creator>GPT5.5 </dc:creator>
+  <link>https://jovillarrealm.github.io/domestik/posts/acido-borico/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="ácido-bórico" class="level1">
+<h1>Ácido bórico</h1>
+<p>El ácido bórico es el raro del combo: no es exactamente limpiador. Es más bien una herramienta de <strong>control de plagas</strong> y algunos usos puntuales contra olor/humedad, siempre con cuidado.</p>
+<p>La idea mental:</p>
+<blockquote class="blockquote">
+<p>Ácido bórico = pesticida puntual en grietas y rutas de insectos. No es polvo mágico para espolvorear por la cocina.</p>
+</blockquote>
+<section id="eli10-qué-pasa-químicamente" class="level2">
+<h2 class="anchored" data-anchor-id="eli10-qué-pasa-químicamente">ELI10: qué pasa químicamente</h2>
+<p>El ácido bórico y sus sales afectan insectos principalmente cuando los ingieren o pasan repetidamente por el polvo. El National Pesticide Information Center explica que puede afectar el sistema nervioso de insectos y dañar su exterior; también se usa contra hongos y otros organismos.<sup>1</sup></p>
+<p>En cristiano: para una cucaracha, una cantidad pequeña en el sitio correcto puede ser un problema. Para una mesa de cocina, es un residuo tóxico innecesario.</p>
+</section>
+<section id="problemas-y-soluciones" class="level2">
+<h2 class="anchored" data-anchor-id="problemas-y-soluciones">Problemas y soluciones</h2>
+<section id="problema-cucarachas-en-grietas-zócalos-o-detrás-de-electrodomésticos" class="level3">
+<h3 class="anchored" data-anchor-id="problema-cucarachas-en-grietas-zócalos-o-detrás-de-electrodomésticos">Problema: cucarachas en grietas, zócalos o detrás de electrodomésticos</h3>
+<p><strong>Solución:</strong> ácido bórico en capa muy fina y localizada, o mejor aún, cebo cerrado formulado para cucarachas.</p>
+<p><strong>Por qué funciona:</strong> si el insecto atraviesa o consume el material, lo transporta y se expone. Una montaña visible no mejora el resultado; los insectos suelen evitar acumulaciones.</p>
+<p><strong>Dónde:</strong> grietas, detrás de nevera, bajo zócalos, huecos inaccesibles.</p>
+<p><strong>Dónde no:</strong> mesones, cajones de cubiertos, platos, zonas donde niños o mascotas alcancen.</p>
+</section>
+<section id="problema-hormigas" class="level3">
+<h3 class="anchored" data-anchor-id="problema-hormigas">Problema: hormigas</h3>
+<p><strong>Solución:</strong> preferir cebos cerrados. El ácido bórico puede funcionar cuando el insecto lleva alimento contaminado a la colonia, pero improvisar mezclas alimentarias en casa puede dejar tóxicos al alcance de otros.</p>
+<p><strong>Criterio:</strong> si la ruta está cerca de comida o mascotas, mejor cebo comercial cerrado.</p>
+</section>
+<section id="problema-olor-en-zapatos-o-armarios" class="level3">
+<h3 class="anchored" data-anchor-id="problema-olor-en-zapatos-o-armarios">Problema: olor en zapatos o armarios</h3>
+<p><strong>Solución:</strong> no es mi primera opción. Mejor carbón activado, ventilación, lavado y control de humedad.</p>
+<p><strong>Por qué:</strong> el ácido bórico no “absorbe” olores como carbón; puede tener efecto antifúngico, pero usar pesticida para olor doméstico suele ser exceso.</p>
+</section>
+<section id="problema-moho" class="level3">
+<h3 class="anchored" data-anchor-id="problema-moho">Problema: moho</h3>
+<p><strong>Solución:</strong> arreglar humedad primero. En superficies domésticas, limpiar con producto adecuado; no convertir ácido bórico en spray universal.</p>
+<p><strong>Por qué:</strong> el moho vuelve si la humedad sigue. La química sola solo compra tiempo.</p>
+</section>
+</section>
+<section id="lo-que-sí-hace-bien" class="level2">
+<h2 class="anchored" data-anchor-id="lo-que-sí-hace-bien">Lo que sí hace bien</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Problema</th>
+<th style="text-align: right;">¿Sirve?</th>
+<th>Cómo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Cucarachas</td>
+<td style="text-align: right;">Sí</td>
+<td>Polvo fino o cebo cerrado en sitios inaccesibles.</td>
+</tr>
+<tr class="even">
+<td>Hormigas</td>
+<td style="text-align: right;">A veces</td>
+<td>Mejor en cebos controlados, no suelto.</td>
+</tr>
+<tr class="odd">
+<td>Grietas secas con tránsito de insectos</td>
+<td style="text-align: right;">Sí</td>
+<td>Aplicación mínima.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="lo-que-no-hace-bien" class="level2">
+<h2 class="anchored" data-anchor-id="lo-que-no-hace-bien">Lo que no hace bien</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Problema</th>
+<th>Por qué no</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Desinfectar superficies</td>
+<td>No es ese tipo de producto doméstico.</td>
+</tr>
+<tr class="even">
+<td>Limpiar grasa</td>
+<td>No emulsiona.</td>
+</tr>
+<tr class="odd">
+<td>Quitar sarro</td>
+<td>No disuelve carbonatos como ácido acético.</td>
+</tr>
+<tr class="even">
+<td>Olores generales</td>
+<td>Carbón activado es más lógico.</td>
+</tr>
+<tr class="odd">
+<td>Ropa o piel</td>
+<td>No es cosmético ni detergente.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="con-qué-no-mezclar" class="level2">
+<h2 class="anchored" data-anchor-id="con-qué-no-mezclar">Con qué no mezclar</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>No mezclar con</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Comida o azúcar en zonas abiertas</td>
+<td>Puedes crear un tóxico accesible a niños/mascotas.</td>
+</tr>
+<tr class="even">
+<td>Desengrasantes o limpiadores líquidos</td>
+<td>Lo dispersas y pierdes control de exposición.</td>
+</tr>
+<tr class="odd">
+<td>Ácido acético/percarbonato/quats</td>
+<td>No mejora control de plagas y complica residuos.</td>
+</tr>
+<tr class="even">
+<td>Aromatizantes</td>
+<td>Tapar olor no controla insectos; puedes atraerlos.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="dónde-nunca" class="level2">
+<h2 class="anchored" data-anchor-id="dónde-nunca">Dónde nunca</h2>
+<ul>
+<li>Mesones.</li>
+<li>Vajilla.</li>
+<li>Tablas de cortar.</li>
+<li>Camas.</li>
+<li>Ropa interior.</li>
+<li>Juguetes.</li>
+<li>Camas o platos de mascotas.</li>
+<li>Cualquier sitio donde pueda inhalarse como polvo frecuente.</li>
+</ul>
+</section>
+<section id="seguridad" class="level2">
+<h2 class="anchored" data-anchor-id="seguridad">Seguridad</h2>
+<p>Poison Control advierte que boratos, borax y ácido bórico pueden ser tóxicos si se ingieren, especialmente en niños y mascotas.<sup>2</sup> Health Canada ha publicado advertencias sobre exposición doméstica a ácido bórico y preocupación por efectos sobre desarrollo y reproducción.<sup>3</sup></p>
+<p>La conclusión práctica: si lo usas, úsalo como pesticida, no como ingrediente casero simpático.</p>
+</section>
+<section id="mini-reglas" class="level2">
+<h2 class="anchored" data-anchor-id="mini-reglas">Mini-reglas</h2>
+<ul>
+<li>Menos es más: capa invisible, no montaña.</li>
+<li>Solo en lugares inaccesibles.</li>
+<li>Mejor cebo cerrado si hay niños o mascotas.</li>
+<li>Nunca en superficies de comida.</li>
+<li>No usar para “limpiar”.</li>
+</ul>
+</section>
+<section id="fuentes" class="level2">
+<h2 class="anchored" data-anchor-id="fuentes">Fuentes</h2>
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>National Pesticide Information Center. “Boric Acid Fact Sheet.” <a href="https://npic.orst.edu/factsheets/boricgen.html" class="uri">https://npic.orst.edu/factsheets/boricgen.html</a>↩︎</p></li>
+<li id="fn2"><p>Poison Control. “Borates, borax, and boric acid: Are they safe?” <a href="https://www.poison.org/articles/borates" class="uri">https://www.poison.org/articles/borates</a>↩︎</p></li>
+<li id="fn3"><p>Health Canada. “Boric acid and your health.” <a href="https://www.canada.ca/en/health-canada/services/chemicals-product-safety/boric-acid.html" class="uri">https://www.canada.ca/en/health-canada/services/chemicals-product-safety/boric-acid.html</a>↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>limpieza</category>
+  <category>quimicos-hogar</category>
+  <category>plagas</category>
+  <guid>https://jovillarrealm.github.io/domestik/posts/acido-borico/</guid>
+  <pubDate>Sat, 27 Jun 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Ácido cítrico: sarro, cal y quelación sin olor a vinagre</title>
+  <dc:creator>GPT5.5 </dc:creator>
+  <link>https://jovillarrealm.github.io/domestik/posts/acido-citrico/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="ácido-cítrico" class="level1">
+<h1>Ácido cítrico</h1>
+<p>El ácido cítrico es la herramienta para <strong>sarro, cal, depósitos minerales, hervidores, cafeteras, grifería y manchas minerales suaves</strong>. Se parece al ácido acético en su rol, pero tiene una ventaja práctica: viene sólido, no huele a vinagre y además puede <strong>quelar</strong> metales.</p>
+<p>La idea mental:</p>
+<blockquote class="blockquote">
+<p>Ácido cítrico = ácido sólido para minerales. Excelente cuando el enemigo es blanco, duro y viene del agua.</p>
+</blockquote>
+<section id="eli10-qué-pasa-químicamente" class="level2">
+<h2 class="anchored" data-anchor-id="eli10-qué-pasa-químicamente">ELI10: qué pasa químicamente</h2>
+<p>El sarro suele ser carbonato de calcio. El ácido cítrico dona protones que rompen el carbonato y liberan CO2. Además, el citrato puede abrazar iones metálicos como calcio, magnesio o hierro. Ese “abrazo químico” se llama quelación.</p>
+<p>Con carbonato de calcio, la idea general es:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0ACaCO_3%20+%202H%5E+%20%5Crightarrow%20Ca%5E%7B2+%7D%20+%20H_2O%20+%20CO_2%0A"></p>
+<p>Luego el citrato puede mantener parte del calcio en solución para que se enjuague mejor. New Mexico State University lista el ácido cítrico entre los ácidos suaves útiles en limpieza doméstica para depósitos minerales.<sup>1</sup></p>
+</section>
+<section id="problemas-y-soluciones" class="level2">
+<h2 class="anchored" data-anchor-id="problemas-y-soluciones">Problemas y soluciones</h2>
+<section id="problema-hervidor-con-costra-blanca" class="level3">
+<h3 class="anchored" data-anchor-id="problema-hervidor-con-costra-blanca">Problema: hervidor con costra blanca</h3>
+<p><strong>Solución:</strong> ácido cítrico en agua caliente, reposo, enjuague largo.</p>
+<p><strong>Por qué:</strong> el ácido disuelve carbonatos. El calor acelera la reacción. Como no deja olor fuerte a vinagre, suele ser más amable para hervidores y cafeteras.</p>
+<p><strong>Cuidado:</strong> seguir instrucciones del aparato. No usar si hay aluminio expuesto o recubrimientos dudosos sin verificar.</p>
+</section>
+<section id="problema-cafetera-con-cal" class="level3">
+<h3 class="anchored" data-anchor-id="problema-cafetera-con-cal">Problema: cafetera con cal</h3>
+<p><strong>Solución:</strong> solución de ácido cítrico, ciclo de descalcificación si el fabricante lo permite, y varios ciclos de agua.</p>
+<p><strong>Por qué:</strong> quita depósitos minerales que afectan flujo y sabor.</p>
+<p><strong>No confundir:</strong> si la cafetera está grasosa por aceites de café, también necesita limpieza con detergente apto o producto específico. El ácido quita mineral, no aceite.</p>
+</section>
+<section id="problema-grifería-con-sarro" class="level3">
+<h3 class="anchored" data-anchor-id="problema-grifería-con-sarro">Problema: grifería con sarro</h3>
+<p><strong>Solución:</strong> ácido cítrico disuelto, paño empapado, tiempo de contacto, enjuague y secado.</p>
+<p><strong>Por qué:</strong> igual que ácido acético, pero sin olor a vinagre y con buena capacidad de mantener minerales en solución.</p>
+</section>
+<section id="problema-vidrio-de-ducha-con-marcas-blancas" class="level3">
+<h3 class="anchored" data-anchor-id="problema-vidrio-de-ducha-con-marcas-blancas">Problema: vidrio de ducha con marcas blancas</h3>
+<p><strong>Solución:</strong> ácido cítrico para marcas minerales. Si hay capa grasosa/jabón, limpiar por pasos con detergente/desengrasante suave.</p>
+</section>
+<section id="problema-manchas-de-óxido-leves" class="level3">
+<h3 class="anchored" data-anchor-id="problema-manchas-de-óxido-leves">Problema: manchas de óxido leves</h3>
+<p><strong>Solución:</strong> ácido cítrico puede ayudar más que acético en algunos casos porque el citrato forma complejos con hierro.</p>
+<p><strong>Cuidado:</strong> en metales, no dejar indefinidamente. Enjuagar y secar muy bien para evitar corrosión posterior.</p>
+</section>
+<section id="problema-ropa-gris-por-agua-dura" class="level3">
+<h3 class="anchored" data-anchor-id="problema-ropa-gris-por-agua-dura">Problema: ropa gris por agua dura</h3>
+<p><strong>Solución:</strong> intervención ácida separada y diluida, con prueba.</p>
+<p><strong>Por qué:</strong> si hay minerales atrapados, el ácido ayuda a solubilizarlos. Pero no es quitamanchas universal. Para amarilleo orgánico, percarbonato. Para delicadas, cuidado.</p>
+</section>
+</section>
+<section id="lo-que-sí-hace-bien" class="level2">
+<h2 class="anchored" data-anchor-id="lo-que-sí-hace-bien">Lo que sí hace bien</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Problema</th>
+<th style="text-align: right;">¿Sirve?</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Sarro/cal</td>
+<td style="text-align: right;">Sí</td>
+<td>Disuelve carbonatos.</td>
+</tr>
+<tr class="even">
+<td>Hervidores/cafeteras</td>
+<td style="text-align: right;">Sí</td>
+<td>Descalcifica sin olor fuerte.</td>
+</tr>
+<tr class="odd">
+<td>Grifería/ducha</td>
+<td style="text-align: right;">Sí</td>
+<td>Ácido + quelación.</td>
+</tr>
+<tr class="even">
+<td>Manchas minerales</td>
+<td style="text-align: right;">Sí</td>
+<td>Ayuda con calcio/magnesio/hierro leve.</td>
+</tr>
+<tr class="odd">
+<td>Residuos de agua dura</td>
+<td style="text-align: right;">Sí</td>
+<td>Mantiene minerales en solución.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="lo-que-no-hace-bien" class="level2">
+<h2 class="anchored" data-anchor-id="lo-que-no-hace-bien">Lo que no hace bien</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Problema</th>
+<th>Por qué no</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Grasa de cocina</td>
+<td>Necesita surfactantes/desengrasante.</td>
+</tr>
+<tr class="even">
+<td>Desinfección formal</td>
+<td>No reemplaza quat u otro desinfectante registrado.</td>
+</tr>
+<tr class="odd">
+<td>Manchas orgánicas coloreadas</td>
+<td>No oxida como percarbonato.</td>
+</tr>
+<tr class="even">
+<td>Moho profundo</td>
+<td>No resuelve material colonizado ni humedad.</td>
+</tr>
+<tr class="odd">
+<td>Pantallas/electrónicos</td>
+<td>Ácido + humedad = no.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="ácido-cítrico-vs-ácido-acético" class="level2">
+<h2 class="anchored" data-anchor-id="ácido-cítrico-vs-ácido-acético">Ácido cítrico vs ácido acético</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Caso</th>
+<th>Ácido cítrico</th>
+<th>Ácido acético 10%</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Olor</td>
+<td>Poco o neutro</td>
+<td>Huele a vinagre fuerte.</td>
+</tr>
+<tr class="even">
+<td>Formato</td>
+<td>Sólido, fácil de dosificar</td>
+<td>Líquido listo.</td>
+</tr>
+<tr class="odd">
+<td>Sarro</td>
+<td>Muy bueno</td>
+<td>Muy bueno.</td>
+</tr>
+<tr class="even">
+<td>Quelación</td>
+<td>Mejor, por citrato</td>
+<td>Menor.</td>
+</tr>
+<tr class="odd">
+<td>Uso rápido en spray</td>
+<td>Hay que disolver</td>
+<td>Ya está en solución.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="qué-pasa-si-mezclas-ácido-cítrico-con-bicarbonato" class="level2">
+<h2 class="anchored" data-anchor-id="qué-pasa-si-mezclas-ácido-cítrico-con-bicarbonato">Qué pasa si mezclas ácido cítrico con bicarbonato</h2>
+<p>Esta mezcla es la base de muchas bombas efervescentes. Con agua, el ácido y el bicarbonato reaccionan:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0A3NaHCO_3%20+%20C_6H_8O_7%20%5Crightarrow%20Na_3C_6H_5O_7%20+%203CO_2%20+%203H_2O%0A"></p>
+<p><strong>ELI10:</strong> el ácido le entrega protones al bicarbonato. El bicarbonato se convierte en CO2, que son las burbujas. Al final queda principalmente citrato de sodio, agua y gas que se fue.</p>
+<section id="cuándo-sí-puede-servir-la-mezcla" class="level3">
+<h3 class="anchored" data-anchor-id="cuándo-sí-puede-servir-la-mezcla">Cuándo sí puede servir la mezcla</h3>
+<ul>
+<li>Para efervescencia mecánica en un termo o botella, si luego igual vas a lavar.</li>
+<li>Para pastillas efervescentes que liberan burbujas y fragancia.</li>
+<li>Para destapar algo muy leve si el movimiento de burbujas ayuda, aunque no es una solución seria para grasa/pelo.</li>
+</ul>
+</section>
+<section id="cuándo-no-sirve" class="level3">
+<h3 class="anchored" data-anchor-id="cuándo-no-sirve">Cuándo no sirve</h3>
+<ul>
+<li>Si quieres disolver sarro: usa ácido cítrico solo.</li>
+<li>Si quieres frotar/desodorizar con base suave: usa bicarbonato solo.</li>
+<li>Si quieres desinfectar: ninguno de los dos es la herramienta principal.</li>
+</ul>
+<p>La mezcla “se ve activa” porque burbujea, pero químicamente puede quedar menos útil para limpieza que usar cada uno por separado.</p>
+</section>
+</section>
+<section id="con-qué-no-mezclar" class="level2">
+<h2 class="anchored" data-anchor-id="con-qué-no-mezclar">Con qué no mezclar</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>No mezclar con</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Cloro/hipoclorito</td>
+<td>Ácido + cloro puede liberar cloro gaseoso.</td>
+</tr>
+<tr class="even">
+<td>Amonio cuaternario</td>
+<td>Puede alterar formulación; usar por pasos.</td>
+</tr>
+<tr class="odd">
+<td>Percarbonato al mismo tiempo</td>
+<td>Neutraliza carbonato y cambia liberación/eficacia.</td>
+</tr>
+<tr class="even">
+<td>Desengrasante alcalino</td>
+<td>Ácido + base se neutralizan.</td>
+</tr>
+<tr class="odd">
+<td>Bicarbonato, si tu objetivo es limpieza ácida</td>
+<td>Se neutralizan y producen CO2.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="dónde-no-usarlo" class="level2">
+<h2 class="anchored" data-anchor-id="dónde-no-usarlo">Dónde no usarlo</h2>
+<ul>
+<li>Mármol, travertino, piedra caliza, terrazo calcáreo.</li>
+<li>Juntas cementosas como rutina.</li>
+<li>Aluminio sin prueba.</li>
+<li>Madera y acabados delicados.</li>
+<li>Pantallas/electrónicos.</li>
+<li>Metales en remojo prolongado.</li>
+</ul>
+</section>
+<section id="mini-reglas" class="level2">
+<h2 class="anchored" data-anchor-id="mini-reglas">Mini-reglas</h2>
+<ul>
+<li>Para sarro: ácido cítrico solo, disuelto.</li>
+<li>Para grasa: desengrasante, no ácido.</li>
+<li>Para manchas orgánicas: percarbonato.</li>
+<li>Para mezclar con bicarbonato: entender que las burbujas son neutralización, no poder infinito.</li>
+<li>Enjuagar y secar metales.</li>
+</ul>
+</section>
+<section id="fuentes" class="level2">
+<h2 class="anchored" data-anchor-id="fuentes">Fuentes</h2>
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>New Mexico State University. “Selection and Use of Home Cleaning Products.” <a href="https://pubs.nmsu.edu/_g/G304/" class="uri">https://pubs.nmsu.edu/_g/G304/</a>↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>limpieza</category>
+  <category>quimicos-hogar</category>
+  <category>banos</category>
+  <guid>https://jovillarrealm.github.io/domestik/posts/acido-citrico/</guid>
+  <pubDate>Sat, 27 Jun 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Amonio cuaternario: desinfectar después de limpiar</title>
+  <dc:creator>GPT5.5 </dc:creator>
+  <link>https://jovillarrealm.github.io/domestik/posts/amonio-cuaternario/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="amonio-cuaternario" class="level1">
+<h1>Amonio cuaternario</h1>
+<p>El amonio cuaternario, o “quat”, es la herramienta del combo para <strong>desinfectar superficies duras ya limpias</strong>. La palabra clave es <strong>ya limpias</strong>.</p>
+<p>No es el químico para sarro. No es el químico para grasa de campana. No es el químico para despercudir ropa. Es para bajar carga microbiana cuando la mugre visible ya se fue.</p>
+<blockquote class="blockquote">
+<p>El quat es el portero de la discoteca, no el equipo de aseo. Si el piso está lleno de grasa, primero se limpia.</p>
+</blockquote>
+<section id="eli10-qué-pasa-químicamente" class="level2">
+<h2 class="anchored" data-anchor-id="eli10-qué-pasa-químicamente">ELI10: qué pasa químicamente</h2>
+<p>Las moléculas de amonio cuaternario tienen una parte con carga positiva y colas orgánicas. Muchas membranas de bacterias y virus envueltos tienen partes grasosas y cargas que permiten que el quat se pegue, desordene la membrana y dañe proteínas.</p>
+<p>El CDC describe los quats como compuestos que actúan por inactivación de enzimas, desnaturalización de proteínas y disrupción de membranas celulares.<sup>1</sup></p>
+<p>Por eso sirven mejor en:</p>
+<ul>
+<li>superficies duras;</li>
+<li>limpias;</li>
+<li>no porosas;</li>
+<li>con tiempo de contacto suficiente.</li>
+</ul>
+</section>
+<section id="problemas-y-soluciones" class="level2">
+<h2 class="anchored" data-anchor-id="problemas-y-soluciones">Problemas y soluciones</h2>
+<section id="problema-quiero-desinfectar-un-mesón-después-de-manipular-pollo-crudo" class="level3">
+<h3 class="anchored" data-anchor-id="problema-quiero-desinfectar-un-mesón-después-de-manipular-pollo-crudo">Problema: quiero desinfectar un mesón después de manipular pollo crudo</h3>
+<p><strong>Solución:</strong> limpiar → enjuagar → desinfectar.</p>
+<ol type="1">
+<li>Retirar restos de comida.</li>
+<li>Lavar con detergente o desengrasante suave.</li>
+<li>Enjuagar o pasar paño limpio húmedo.</li>
+<li>Aplicar quat según etiqueta.</li>
+<li>Respetar tiempo de contacto.</li>
+<li>Enjuagar si la etiqueta lo exige para superficies de contacto con alimentos.</li>
+</ol>
+<p>USDA insiste en esta separación: limpiar primero retira mugre y parte de los microbios; sanitizar/desinfectar viene después.<sup>2</sup></p>
+</section>
+<section id="problema-baño-ya-lavado" class="level3">
+<h3 class="anchored" data-anchor-id="problema-baño-ya-lavado">Problema: baño ya lavado</h3>
+<p><strong>Solución:</strong> quat para manijas, botón del sanitario, exterior del inodoro, lavamanos y superficies de alto contacto.</p>
+<p><strong>Por qué:</strong> ahí el objetivo no es disolver sarro; es bajar microorganismos. Si hay costra mineral o jabón pegado, primero ácido/desengrasante según corresponda.</p>
+</section>
+<section id="problema-piso-de-cocina-grasoso" class="level3">
+<h3 class="anchored" data-anchor-id="problema-piso-de-cocina-grasoso">Problema: piso de cocina grasoso</h3>
+<p><strong>Solución:</strong> primero desengrasante; quat solo al final si quieres desinfectar.</p>
+<p><strong>Por qué:</strong> la grasa y la tierra consumen/inactivan parte del desinfectante y bloquean contacto con la superficie real.</p>
+</section>
+<section id="problema-juguetes-platos-de-mascotas-o-tablas" class="level3">
+<h3 class="anchored" data-anchor-id="problema-juguetes-platos-de-mascotas-o-tablas">Problema: juguetes, platos de mascotas o tablas</h3>
+<p><strong>Solución:</strong> solo si la etiqueta del producto permite esa superficie y dice cómo enjuagar.</p>
+<p><strong>Por qué:</strong> un desinfectante que queda como residuo puede no ser deseable en algo que alguien lame, muerde o usa para comida.</p>
+</section>
+<section id="problema-ropa-con-olor" class="level3">
+<h3 class="anchored" data-anchor-id="problema-ropa-con-olor">Problema: ropa con olor</h3>
+<p><strong>Solución:</strong> no usar quat doméstico como primer recurso.</p>
+<p><strong>Mejor:</strong> detergente correcto, no sobrecargar lavadora, secar totalmente, percarbonato si la tela lo tolera.</p>
+<p><strong>Por qué:</strong> el quat puede quedar atrapado en fibras, no resuelve grasa/sudor y puede irritar piel si no está formulado para lavandería.</p>
+</section>
+</section>
+<section id="lo-que-sí-hace-bien" class="level2">
+<h2 class="anchored" data-anchor-id="lo-que-sí-hace-bien">Lo que sí hace bien</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Problema</th>
+<th style="text-align: right;">¿Sirve?</th>
+<th>Condición</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Manijas, interruptores, barandas</td>
+<td style="text-align: right;">Sí</td>
+<td>Limpiar polvo/grasa primero.</td>
+</tr>
+<tr class="even">
+<td>Baño después de lavado</td>
+<td style="text-align: right;">Sí</td>
+<td>Superficie dura y tiempo de contacto.</td>
+</tr>
+<tr class="odd">
+<td>Mesón no poroso</td>
+<td style="text-align: right;">Sí</td>
+<td>Revisar etiqueta y enjuague si hay comida.</td>
+</tr>
+<tr class="even">
+<td>Piso limpio</td>
+<td style="text-align: right;">Sí</td>
+<td>No debe haber tierra visible.</td>
+</tr>
+<tr class="odd">
+<td>Virus envueltos</td>
+<td style="text-align: right;">Sí, típicamente</td>
+<td>Depende de formulación y registro.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="lo-que-no-hace-bien" class="level2">
+<h2 class="anchored" data-anchor-id="lo-que-no-hace-bien">Lo que no hace bien</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Problema</th>
+<th>Por qué no</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Sarro</td>
+<td>No disuelve carbonato de calcio.</td>
+</tr>
+<tr class="even">
+<td>Grasa pesada</td>
+<td>No reemplaza desengrasante.</td>
+</tr>
+<tr class="odd">
+<td>Ropa percudida</td>
+<td>No oxida manchas como percarbonato.</td>
+</tr>
+<tr class="even">
+<td>Esporas</td>
+<td>El CDC señala que los quats no son esporicidas.</td>
+</tr>
+<tr class="odd">
+<td>Superficies porosas/sucias</td>
+<td>No garantiza contacto efectivo.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="con-qué-no-mezclar" class="level2">
+<h2 class="anchored" data-anchor-id="con-qué-no-mezclar">Con qué no mezclar</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>No mezclar con</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Jabones/detergentes aniónicos sin enjuagar</td>
+<td>Pueden reducir actividad del quat. Limpia y enjuaga antes.</td>
+</tr>
+<tr class="even">
+<td>Cloro/hipoclorito</td>
+<td>No se mezclan desinfectantes; aumenta riesgo de vapores y reacciones no controladas.</td>
+</tr>
+<tr class="odd">
+<td>Ácido acético</td>
+<td>Puede alterar formulación/pH; además estás mezclando objetivos distintos.</td>
+</tr>
+<tr class="even">
+<td>Percarbonato/peróxidos</td>
+<td>Oxidante + quat no es una receta doméstica estable.</td>
+</tr>
+<tr class="odd">
+<td>Otros desinfectantes</td>
+<td>Los desinfectantes se usan por etiqueta, no por coctel.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="dónde-no-usarlo-o-usarlo-con-mucha-cautela" class="level2">
+<h2 class="anchored" data-anchor-id="dónde-no-usarlo-o-usarlo-con-mucha-cautela">Dónde no usarlo o usarlo con mucha cautela</h2>
+<ul>
+<li>Pantallas y electrónicos, salvo etiqueta explícita.</li>
+<li>Madera sin sellar.</li>
+<li>Piedra natural si no hay compatibilidad.</li>
+<li>Superficies de comida sin instrucciones de enjuague.</li>
+<li>Ropa y textiles, salvo producto formulado para eso.</li>
+<li>Áreas de mascotas sin enjuague adecuado.</li>
+</ul>
+</section>
+<section id="mini-reglas" class="level2">
+<h2 class="anchored" data-anchor-id="mini-reglas">Mini-reglas</h2>
+<ul>
+<li>Desinfectar no reemplaza limpiar.</li>
+<li>Si hay grasa, usa desengrasante primero.</li>
+<li>Si hay sarro, usa ácido primero y enjuaga.</li>
+<li>Respetar dilución, tiempo de contacto y etiqueta.</li>
+<li>Más concentrado no significa más seguro.</li>
+</ul>
+</section>
+<section id="fuentes" class="level2">
+<h2 class="anchored" data-anchor-id="fuentes">Fuentes</h2>
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>CDC. “Chemical Disinfectants: Quaternary Ammonium Compounds.” <a href="https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html" class="uri">https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html</a>↩︎</p></li>
+<li id="fn2"><p>USDA. “Clean THEN Sanitize: A One-Two Punch to Stop Foodborne Illness in the Kitchen.” <a href="https://www.usda.gov/about-usda/news/blog/clean-then-sanitize-one-two-punch-stop-foodborne-illness-kitchen" class="uri">https://www.usda.gov/about-usda/news/blog/clean-then-sanitize-one-two-punch-stop-foodborne-illness-kitchen</a>↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>limpieza</category>
+  <category>quimicos-hogar</category>
+  <category>desinfeccion</category>
+  <guid>https://jovillarrealm.github.io/domestik/posts/amonio-cuaternario/</guid>
+  <pubDate>Sat, 27 Jun 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Bicarbonato de sodio: base suave, abrasivo amable y control de olores</title>
+  <dc:creator>GPT5.5 </dc:creator>
+  <link>https://jovillarrealm.github.io/domestik/posts/bicarbonato-sodio/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="bicarbonato-de-sodio" class="level1">
+<h1>Bicarbonato de sodio</h1>
+<p>El bicarbonato de sodio es la herramienta doméstica para <strong>fregar sin rayar demasiado, neutralizar ciertos olores, levantar mugre ligera y ayudar como pretratamiento suave</strong>. No es un desinfectante serio, no es desengrasante industrial, no es blanqueador potente y no disuelve sarro como un ácido.</p>
+<p>La idea mental:</p>
+<blockquote class="blockquote">
+<p>Bicarbonato = base suave + polvo ligeramente abrasivo. Sirve cuando quieres empujar la mugre sin irte a química agresiva.</p>
+</blockquote>
+<section id="eli10-qué-pasa-químicamente" class="level2">
+<h2 class="anchored" data-anchor-id="eli10-qué-pasa-químicamente">ELI10: qué pasa químicamente</h2>
+<p>El bicarbonato de sodio (<img src="https://latex.codecogs.com/png.latex?NaHCO_3">) es una sal ligeramente alcalina. En agua queda en un pH suave, alrededor de 8. Eso significa que puede ayudar con olores ácidos y con mugre orgánica ligera, pero no tiene la fuerza de un limpiador alcalino fuerte.</p>
+<p>También es un polvo cristalino. Cuando lo usas como pasta, los granitos ayudan a frotar físicamente. No “disuelve” todo; muchas veces funciona porque raspa suavemente y cambia un poquito el pH.</p>
+<p>University of Wisconsin Extension lo presenta como un limpiador/desodorizante doméstico útil para recipientes, refrigeradores y superficies, especialmente por su capacidad de neutralizar olores.<sup>1</sup></p>
+</section>
+<section id="problemas-y-soluciones" class="level2">
+<h2 class="anchored" data-anchor-id="problemas-y-soluciones">Problemas y soluciones</h2>
+<section id="problema-recipiente-plástico-con-olor-leve" class="level3">
+<h3 class="anchored" data-anchor-id="problema-recipiente-plástico-con-olor-leve">Problema: recipiente plástico con olor leve</h3>
+<p><strong>Solución:</strong> bicarbonato + agua como pasta o solución de remojo.</p>
+<p><strong>Por qué:</strong> muchos olores de comida son ácidos o quedan atrapados en película grasa. El bicarbonato neutraliza olores ácidos y ayuda a frotar. Si el recipiente está aceitoso, primero detergente/desengrasante suave. Si queda olor residual después de lavar, bicarbonato o carbón activado.</p>
+</section>
+<section id="problema-nevera-con-olor" class="level3">
+<h3 class="anchored" data-anchor-id="problema-nevera-con-olor">Problema: nevera con olor</h3>
+<p><strong>Solución:</strong> lavar la fuente del olor y dejar bicarbonato abierto o carbón activado.</p>
+<p><strong>Diferencia:</strong> el bicarbonato ayuda mejor con olores ácidos; el carbón activado atrapa un rango más amplio de moléculas volátiles. Si la nevera huele a comida vieja, primero sacar la comida vieja. Qué tristeza tener que decirlo, pero la nevera obliga.</p>
+</section>
+<section id="problema-manchas-suaves-en-tazas-lavamanos-o-superficies-resistentes" class="level3">
+<h3 class="anchored" data-anchor-id="problema-manchas-suaves-en-tazas-lavamanos-o-superficies-resistentes">Problema: manchas suaves en tazas, lavamanos o superficies resistentes</h3>
+<p><strong>Solución:</strong> pasta de bicarbonato + agua, frotar suave.</p>
+<p><strong>Por qué:</strong> abrasión ligera. Es más física que química. Para manchas profundas de café/té en acero inoxidable, el percarbonato suele ganar. Para sarro blanco, gana ácido cítrico o acético.</p>
+</section>
+<section id="problema-grasa-ligera-en-cocina" class="level3">
+<h3 class="anchored" data-anchor-id="problema-grasa-ligera-en-cocina">Problema: grasa ligera en cocina</h3>
+<p><strong>Solución:</strong> bicarbonato puede ayudar, pero no reemplaza desengrasante.</p>
+<p><strong>Por qué:</strong> al ser base suave ayuda un poco con grasa ácida y mugre orgánica, pero la grasa real necesita surfactantes. Bicarbonato + detergente puede funcionar para mugre ligera porque sumas abrasión + micelas.</p>
+</section>
+<section id="problema-olor-en-alfombra-o-tapete" class="level3">
+<h3 class="anchored" data-anchor-id="problema-olor-en-alfombra-o-tapete">Problema: olor en alfombra o tapete</h3>
+<p><strong>Solución:</strong> espolvorear, dejar actuar, aspirar muy bien.</p>
+<p><strong>Por qué:</strong> absorbe algo de humedad y neutraliza ciertos olores. No mata moho profundo ni limpia derrames pegados. Si queda polvo, atrae más mugre.</p>
+</section>
+<section id="problema-pretratamiento-de-ropa" class="level3">
+<h3 class="anchored" data-anchor-id="problema-pretratamiento-de-ropa">Problema: pretratamiento de ropa</h3>
+<p><strong>Solución:</strong> pasta suave para manchas de sudor o olor, con prueba.</p>
+<p><strong>Cuidado:</strong> no usar como si fuera detergente completo. Para ropa blanca percudida, percarbonato. Para grasa, detergente/desengrasante textil. Para delicadas, producto específico.</p>
+</section>
+</section>
+<section id="lo-que-sí-hace-bien" class="level2">
+<h2 class="anchored" data-anchor-id="lo-que-sí-hace-bien">Lo que sí hace bien</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Problema</th>
+<th style="text-align: right;">¿Sirve?</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Olores ácidos leves</td>
+<td style="text-align: right;">Sí</td>
+<td>Base suave que neutraliza.</td>
+</tr>
+<tr class="even">
+<td>Fregado suave</td>
+<td style="text-align: right;">Sí</td>
+<td>Abrasivo moderado.</td>
+</tr>
+<tr class="odd">
+<td>Recipientes plásticos limpios pero olorosos</td>
+<td style="text-align: right;">A veces</td>
+<td>Remojo/pasta ayuda.</td>
+</tr>
+<tr class="even">
+<td>Alfombras con olor superficial</td>
+<td style="text-align: right;">A veces</td>
+<td>Adsorción ligera y neutralización.</td>
+</tr>
+<tr class="odd">
+<td>Mugre ligera de cocina</td>
+<td style="text-align: right;">A veces</td>
+<td>Mejor con detergente.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="lo-que-no-hace-bien" class="level2">
+<h2 class="anchored" data-anchor-id="lo-que-no-hace-bien">Lo que no hace bien</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Problema</th>
+<th>Por qué no</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Sarro/cal</td>
+<td>Necesita ácido; bicarbonato es base.</td>
+</tr>
+<tr class="even">
+<td>Desinfección</td>
+<td>No es desinfectante registrado.</td>
+</tr>
+<tr class="odd">
+<td>Grasa pesada</td>
+<td>Le faltan surfactantes/solventes.</td>
+</tr>
+<tr class="even">
+<td>Ropa percudida fuerte</td>
+<td>No oxida como percarbonato.</td>
+</tr>
+<tr class="odd">
+<td>Moho profundo</td>
+<td>No arregla humedad ni penetra materiales.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="con-qué-no-mezclar" class="level2">
+<h2 class="anchored" data-anchor-id="con-qué-no-mezclar">Con qué no mezclar</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>No mezclar con</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Ácido cítrico o vinagre si buscas limpiar con química activa</td>
+<td>Se neutralizan y producen CO2. Sirve para efervescencia, pero pierdes acidez/basicidad.</td>
+</tr>
+<tr class="even">
+<td>Cloro/hipoclorito</td>
+<td>No hace falta mezclar limpiadores; evita cocteles.</td>
+</tr>
+<tr class="odd">
+<td>Amonio cuaternario</td>
+<td>Puede dejar residuos y no aporta a desinfección. Limpia/enjuaga/desinfecta por pasos.</td>
+</tr>
+<tr class="even">
+<td>Percarbonato en seco para guardar</td>
+<td>No prepares mezclas caseras en polvo sin entender humedad/estabilidad.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="bicarbonato-ácido-cítrico-qué-pasa" class="level2">
+<h2 class="anchored" data-anchor-id="bicarbonato-ácido-cítrico-qué-pasa">Bicarbonato + ácido cítrico: qué pasa</h2>
+<p>Cuando mezclas bicarbonato con ácido cítrico y agua, ocurre una reacción ácido-base:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0A3NaHCO_3%20+%20C_6H_8O_7%20%5Crightarrow%20Na_3C_6H_5O_7%20+%203CO_2%20+%203H_2O%0A"></p>
+<p>Traducción:</p>
+<ul>
+<li>bicarbonato + ácido cítrico;</li>
+<li>producen citrato de sodio, agua y burbujas de dióxido de carbono.</li>
+</ul>
+<p>Las burbujas pueden ayudar mecánicamente a levantar algo de mugre en un drenaje o recipiente, pero químicamente acabas gastando tanto el ácido como la base. Si querías disolver sarro, usa ácido cítrico solo. Si querías neutralizar olor ácido o frotar, usa bicarbonato solo.</p>
+</section>
+<section id="dónde-no-usarlo" class="level2">
+<h2 class="anchored" data-anchor-id="dónde-no-usarlo">Dónde no usarlo</h2>
+<ul>
+<li>Pantallas y electrónicos.</li>
+<li>Mármol/piedra natural como pasta abrasiva.</li>
+<li>Aluminio si vas a frotar fuerte o dejar pastas alcalinas.</li>
+<li>Madera sin sellar.</li>
+<li>Telas delicadas sin prueba.</li>
+</ul>
+</section>
+<section id="mini-reglas" class="level2">
+<h2 class="anchored" data-anchor-id="mini-reglas">Mini-reglas</h2>
+<ul>
+<li>Como polvo: desodoriza y absorbe un poco.</li>
+<li>Como pasta: frota.</li>
+<li>Con detergente: ayuda mecánicamente en mugre ligera.</li>
+<li>Con ácido: burbujea bonito, pero se neutralizan.</li>
+<li>Para sarro: ácido cítrico/acético.</li>
+<li>Para manchas orgánicas fuertes: percarbonato.</li>
+</ul>
+</section>
+<section id="fuentes" class="level2">
+<h2 class="anchored" data-anchor-id="fuentes">Fuentes</h2>
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>University of Wisconsin Extension / Oconto County. “Baking Soda – The Everyday Miracle.” <a href="https://oconto.extension.wisc.edu/files/2011/02/Baking-Soda.pdf" class="uri">https://oconto.extension.wisc.edu/files/2011/02/Baking-Soda.pdf</a>↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>limpieza</category>
+  <category>quimicos-hogar</category>
+  <category>olores</category>
+  <guid>https://jovillarrealm.github.io/domestik/posts/bicarbonato-sodio/</guid>
+  <pubDate>Sat, 27 Jun 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Carbón activado: atrapar olores, no lavar mugre</title>
+  <dc:creator>GPT5.5 </dc:creator>
+  <link>https://jovillarrealm.github.io/domestik/posts/carbon-activado/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="carbón-activado" class="level1">
+<h1>Carbón activado</h1>
+<p>El carbón activado es la herramienta del combo para <strong>olores residuales y moléculas volátiles</strong>. No limpia grasa, no desinfecta, no blanquea, no desincrusta. Es una trampa microscópica para moléculas.</p>
+<p>La idea mental:</p>
+<blockquote class="blockquote">
+<p>Si el olor está en el aire de un espacio cerrado, carbón activado. Si el olor está pegado en grasa o comida vieja, primero lavar.</p>
+</blockquote>
+<section id="eli10-qué-pasa-químicamente" class="level2">
+<h2 class="anchored" data-anchor-id="eli10-qué-pasa-químicamente">ELI10: qué pasa químicamente</h2>
+<p>El carbón activado tiene muchísimos poros. Es como una ciudad de túneles microscópicos. Las moléculas olorosas entran y se quedan pegadas a las paredes por fuerzas débiles. Eso se llama <strong>adsorción</strong> (con d), no absorción.</p>
+<p>La Universidad de Nebraska explica que el carbón activado atrae y retiene contaminantes sobre la superficie de sus partículas, y que la eficiencia depende de área superficial, tamaño de poro, concentración y tiempo de contacto.<sup>1</sup></p>
+<p>Traducción doméstica: necesita estar cerca del olor, en un espacio más o menos cerrado, y con tiempo.</p>
+</section>
+<section id="problemas-y-soluciones" class="level2">
+<h2 class="anchored" data-anchor-id="problemas-y-soluciones">Problemas y soluciones</h2>
+<section id="problema-nevera-con-olor" class="level3">
+<h3 class="anchored" data-anchor-id="problema-nevera-con-olor">Problema: nevera con olor</h3>
+<p><strong>Solución:</strong> primero encontrar y limpiar la fuente; después carbón activado.</p>
+<p><strong>Por qué:</strong> si hay salsa derramada o comida dañada, el carbón está intentando perfumar una fuga. Lavar bandejas con detergente, secar, y luego poner carbón activado en recipiente abierto.</p>
+<p><strong>Cuándo funciona bien:</strong> olor residual después de limpiar.</p>
+<p><strong>Cuándo no:</strong> comida dañada todavía presente, humedad permanente, bandejas sucias.</p>
+</section>
+<section id="problema-termo-limpio-pero-con-olor-residual" class="level3">
+<h3 class="anchored" data-anchor-id="problema-termo-limpio-pero-con-olor-residual">Problema: termo limpio pero con olor residual</h3>
+<p><strong>Solución:</strong> secar completamente y dejar carbón activado adentro durante varias horas.</p>
+<p><strong>Secuencia correcta:</strong></p>
+<ol type="1">
+<li>Si hay café/té pegado: percarbonato + agua caliente.</li>
+<li>Si hay leche/batido/proteína: detergente/desengrasante suave.</li>
+<li>Si ya está limpio pero huele: carbón activado seco.</li>
+</ol>
+<p><strong>Por qué:</strong> el carbón captura moléculas volátiles; no atraviesa una capa de grasa.</p>
+</section>
+<section id="problema-recipiente-plástico-con-olor-a-comida" class="level3">
+<h3 class="anchored" data-anchor-id="problema-recipiente-plástico-con-olor-a-comida">Problema: recipiente plástico con olor a comida</h3>
+<p><strong>Solución:</strong> carbón al final, no al principio.</p>
+<p>El plástico puede retener moléculas aromáticas en su superficie. Primero hay que quitar grasa con detergente/desengrasante suave. Luego, si queda olor, carbón activado en el recipiente seco y cerrado.</p>
+<p><strong>No usar:</strong> carbón como excusa para no lavar. Eso es decoración.</p>
+</section>
+<section id="problema-zapatos-maletas-armarios" class="level3">
+<h3 class="anchored" data-anchor-id="problema-zapatos-maletas-armarios">Problema: zapatos, maletas, armarios</h3>
+<p><strong>Solución:</strong> carbón activado en bolsita permeable o recipiente abierto.</p>
+<p><strong>Por qué:</strong> espacios cerrados + olor volátil + tiempo = buen caso. Si hay humedad, moho o sudor fresco, primero secar/lavar/controlar humedad.</p>
+</section>
+<section id="problema-filtro-de-agua-o-aire" class="level3">
+<h3 class="anchored" data-anchor-id="problema-filtro-de-agua-o-aire">Problema: filtro de agua o aire</h3>
+<p><strong>Solución:</strong> usar solo sistemas diseñados para eso.</p>
+<p><strong>Por qué:</strong> el carbón activado puede mejorar sabor/olor y atrapar algunos compuestos orgánicos, pero no vuelve potable cualquier agua. Un filtro tiene flujo, granulometría, tiempo de contacto y capacidad definida.</p>
+</section>
+</section>
+<section id="lo-que-sí-hace-bien" class="level2">
+<h2 class="anchored" data-anchor-id="lo-que-sí-hace-bien">Lo que sí hace bien</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Problema</th>
+<th style="text-align: right;">¿Sirve?</th>
+<th>Condición</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Olor residual en nevera</td>
+<td style="text-align: right;">Sí</td>
+<td>Fuente removida y superficie limpia.</td>
+</tr>
+<tr class="even">
+<td>Olor en termo limpio y seco</td>
+<td style="text-align: right;">Sí</td>
+<td>Tiempo de contacto.</td>
+</tr>
+<tr class="odd">
+<td>Armarios/zapatos/maletas</td>
+<td style="text-align: right;">Sí</td>
+<td>Mejor si el espacio está seco.</td>
+</tr>
+<tr class="even">
+<td>Olores de recipientes plásticos</td>
+<td style="text-align: right;">A veces</td>
+<td>Después de desengrasar.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="lo-que-no-hace-bien" class="level2">
+<h2 class="anchored" data-anchor-id="lo-que-no-hace-bien">Lo que no hace bien</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Problema</th>
+<th>Por qué no</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Grasa</td>
+<td>No emulsiona ni disuelve.</td>
+</tr>
+<tr class="even">
+<td>Sarro</td>
+<td>No aporta ácido.</td>
+</tr>
+<tr class="odd">
+<td>Manchas de café</td>
+<td>No oxida; usa percarbonato.</td>
+</tr>
+<tr class="even">
+<td>Bacterias/moho activo</td>
+<td>No desinfecta.</td>
+</tr>
+<tr class="odd">
+<td>Humedad estructural</td>
+<td>No arregla la causa.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="con-qué-no-mezclar" class="level2">
+<h2 class="anchored" data-anchor-id="con-qué-no-mezclar">Con qué no mezclar</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>No mezclar con</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Agua para “hacer pasta” de limpieza</td>
+<td>Pierdes el uso principal y haces reguero negro.</td>
+</tr>
+<tr class="even">
+<td>Desinfectantes</td>
+<td>Puede adsorber ingredientes activos y reducir eficacia.</td>
+</tr>
+<tr class="odd">
+<td>Aromatizantes/aceites esenciales</td>
+<td>El carbón los captura; estás peleando contra tu propio producto.</td>
+</tr>
+<tr class="even">
+<td>Químicos peligrosos para “neutralizarlos”</td>
+<td>Adsorción no es garantía de seguridad.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="dónde-no-usarlo" class="level2">
+<h2 class="anchored" data-anchor-id="dónde-no-usarlo">Dónde no usarlo</h2>
+<ul>
+<li>Directamente sobre telas claras si puede manchar.</li>
+<li>Dentro de equipos con ventiladores si el polvo puede entrar.</li>
+<li>Como tratamiento médico casero. El carbón medicinal es otra conversación y puede interferir con medicamentos; no improvisar.</li>
+<li>Como filtro de emergencia sin sistema certificado.</li>
+</ul>
+</section>
+<section id="mini-reglas" class="level2">
+<h2 class="anchored" data-anchor-id="mini-reglas">Mini-reglas</h2>
+<ul>
+<li>Primero limpiar la fuente del olor.</li>
+<li>Usar seco.</li>
+<li>Dar tiempo.</li>
+<li>Reemplazar o regenerar si el producto lo permite; se satura.</li>
+<li>No mezclar con aromatizantes: o capturas olores o perfumas, no ambas al tiempo.</li>
+</ul>
+</section>
+<section id="fuentes" class="level2">
+<h2 class="anchored" data-anchor-id="fuentes">Fuentes</h2>
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>University of Nebraska-Lincoln Extension. “Drinking water treatment: Activated carbon filtration.” <a href="https://extensionpubs.unl.edu/publication/g1489/na/html/view" class="uri">https://extensionpubs.unl.edu/publication/g1489/na/html/view</a>↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>limpieza</category>
+  <category>quimicos-hogar</category>
+  <category>olores</category>
+  <guid>https://jovillarrealm.github.io/domestik/posts/carbon-activado/</guid>
+  <pubDate>Sat, 27 Jun 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Desengrasante biodegradable: surfactantes contra grasa real</title>
+  <dc:creator>GPT5.5 </dc:creator>
+  <link>https://jovillarrealm.github.io/domestik/posts/desengrasante-biodegradable/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="desengrasante-industrial-biodegradable" class="level1">
+<h1>Desengrasante industrial biodegradable</h1>
+<p>El desengrasante es la herramienta del combo para <strong>grasa, aceite, cochambre, pisos grasosos y mugre orgánica pegajosa</strong>. Si el problema se siente resbaloso, aceitoso o pegado por cocina, probablemente empieza aquí.</p>
+<p>La palabra “biodegradable” no significa “bebible” ni “seguro para todo”. Significa que sus ingredientes están pensados para degradarse bajo ciertas condiciones. Puede seguir irritando piel, ojos o dañando superficies delicadas.</p>
+<section id="eli10-qué-pasa-químicamente" class="level2">
+<h2 class="anchored" data-anchor-id="eli10-qué-pasa-químicamente">ELI10: qué pasa químicamente</h2>
+<p>La grasa no se lleva bien con el agua. El agua intenta arrastrarla y la grasa dice “no gracias”. Los desengrasantes traen <strong>surfactantes</strong>, moléculas con dos personalidades:</p>
+<ul>
+<li>una parte ama el agua;</li>
+<li>otra parte ama la grasa.</li>
+</ul>
+<p>Cuando hay suficientes surfactantes, rodean la grasa formando micelas: bolitas microscópicas con grasa por dentro y parte compatible con agua por fuera. Así el enjuague puede llevarse lo que antes estaba pegado.</p>
+<p>El American Cleaning Institute explica que los surfactantes bajan la tensión superficial, ayudan a mojar superficies y forman estructuras que permiten remover aceites y suciedad.<sup>1</sup></p>
+</section>
+<section id="problemas-y-soluciones" class="level2">
+<h2 class="anchored" data-anchor-id="problemas-y-soluciones">Problemas y soluciones</h2>
+<section id="problema-estufa-grasosa" class="level3">
+<h3 class="anchored" data-anchor-id="problema-estufa-grasosa">Problema: estufa grasosa</h3>
+<p><strong>Solución:</strong> desengrasante según etiqueta, tiempo de contacto, paño/cepillo, enjuague.</p>
+<p><strong>Por qué:</strong> la grasa de cocina se oxida y se vuelve pegajosa. Necesita surfactantes, a veces alcalinidad y tiempo. Ácido acético no es protagonista aquí.</p>
+</section>
+<section id="problema-campana-extractora-y-filtros-metálicos" class="level3">
+<h3 class="anchored" data-anchor-id="problema-campana-extractora-y-filtros-metálicos">Problema: campana extractora y filtros metálicos</h3>
+<p><strong>Solución:</strong> desengrasante + agua caliente si el material lo permite.</p>
+<p><strong>ELI10:</strong> el calor ablanda la grasa; el desengrasante la rompe en gotitas lavables.</p>
+<p><strong>Cuidado:</strong> aluminio y recubrimientos pueden sufrir con productos alcalinos fuertes. Probar o revisar etiqueta.</p>
+</section>
+<section id="problema-piso-de-cocina-pegajoso" class="level3">
+<h3 class="anchored" data-anchor-id="problema-piso-de-cocina-pegajoso">Problema: piso de cocina pegajoso</h3>
+<p><strong>Solución:</strong> desengrasante diluido, no puro por orgullo.</p>
+<p><strong>Por qué:</strong> demasiado producto puede dejar película pegajosa que atrae más mugre. La dosis correcta importa.</p>
+</section>
+<section id="problema-mesón-antes-de-desinfectar" class="level3">
+<h3 class="anchored" data-anchor-id="problema-mesón-antes-de-desinfectar">Problema: mesón antes de desinfectar</h3>
+<p><strong>Solución:</strong> desengrasante suave o detergente primero; quat después si necesitas desinfectar.</p>
+<p><strong>Por qué:</strong> el desinfectante necesita tocar superficie limpia. USDA recomienda limpiar antes de sanitizar/desinfectar superficies de cocina.<sup>2</sup></p>
+</section>
+<section id="problema-manchas-de-grasa-en-ropa" class="level3">
+<h3 class="anchored" data-anchor-id="problema-manchas-de-grasa-en-ropa">Problema: manchas de grasa en ropa</h3>
+<p><strong>Solución:</strong> detergente o desengrasante muy diluido como pretratamiento, con prueba.</p>
+<p><strong>Cómo:</strong> aplicar en la mancha, trabajar suave, dejar actuar poco tiempo y lavar. Si queda halo amarillento y la tela lo tolera, percarbonato después.</p>
+<p><strong>Cuidado:</strong> un desengrasante industrial puede decolorar o dañar telas. En ropa delicada, mejor producto de lavandería.</p>
+</section>
+<section id="problema-plástico-aceitoso-o-con-olor-a-comida" class="level3">
+<h3 class="anchored" data-anchor-id="problema-plástico-aceitoso-o-con-olor-a-comida">Problema: plástico aceitoso o con olor a comida</h3>
+<p><strong>Solución:</strong> desengrasar primero. Luego, si queda olor, carbón activado o percarbonato si el plástico lo tolera.</p>
+<p><strong>Por qué:</strong> muchos olores se quedan atrapados en películas grasas. Si no quitas la grasa, el carbón solo captura lo que logra salir.</p>
+</section>
+</section>
+<section id="lo-que-sí-hace-bien" class="level2">
+<h2 class="anchored" data-anchor-id="lo-que-sí-hace-bien">Lo que sí hace bien</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Problema</th>
+<th style="text-align: right;">¿Sirve?</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Grasa de cocina</td>
+<td style="text-align: right;">Sí</td>
+<td>Surfactantes y alcalinidad.</td>
+</tr>
+<tr class="even">
+<td>Campana/filtros</td>
+<td style="text-align: right;">Sí</td>
+<td>Mejor con calor si compatible.</td>
+</tr>
+<tr class="odd">
+<td>Pisos grasosos</td>
+<td style="text-align: right;">Sí</td>
+<td>Diluido y enjuagado.</td>
+</tr>
+<tr class="even">
+<td>Prelimpieza antes de desinfectar</td>
+<td style="text-align: right;">Sí</td>
+<td>Retira barrera de suciedad.</td>
+</tr>
+<tr class="odd">
+<td>Plástico aceitoso</td>
+<td style="text-align: right;">Sí</td>
+<td>Rompe película grasa.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="lo-que-no-hace-bien" class="level2">
+<h2 class="anchored" data-anchor-id="lo-que-no-hace-bien">Lo que no hace bien</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Problema</th>
+<th>Por qué no</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Sarro duro</td>
+<td>Necesita ácido.</td>
+</tr>
+<tr class="even">
+<td>Manchas orgánicas coloreadas profundas</td>
+<td>Puede limpiar matriz grasa, pero no oxida como percarbonato.</td>
+</tr>
+<tr class="odd">
+<td>Desinfección garantizada</td>
+<td>No es desinfectante salvo etiqueta.</td>
+</tr>
+<tr class="even">
+<td>Pantallas/electrónicos</td>
+<td>Demasiado residuo/humedad/riesgo.</td>
+</tr>
+<tr class="odd">
+<td>Piedra o madera delicada</td>
+<td>Puede dañar selladores/acabados.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="con-qué-no-mezclar" class="level2">
+<h2 class="anchored" data-anchor-id="con-qué-no-mezclar">Con qué no mezclar</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>No mezclar con</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Ácido acético</td>
+<td>Si el desengrasante es alcalino, lo neutralizas. Usar por pasos.</td>
+</tr>
+<tr class="even">
+<td>Cloro/hipoclorito</td>
+<td>No mezclar limpiadores; riesgo de vapores e incompatibilidades.</td>
+</tr>
+<tr class="odd">
+<td>Amonio cuaternario</td>
+<td>Puede haber incompatibilidad con surfactantes; limpiar/enjuagar antes de desinfectar.</td>
+</tr>
+<tr class="even">
+<td>Percarbonato</td>
+<td>No hace falta; puede alterar formulación.</td>
+</tr>
+<tr class="odd">
+<td>Sucrosol/alcoholes</td>
+<td>Puede cambiar solubilidad y aumentar inflamabilidad según producto.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="dónde-no-usarlo" class="level2">
+<h2 class="anchored" data-anchor-id="dónde-no-usarlo">Dónde no usarlo</h2>
+<ul>
+<li>Pantallas.</li>
+<li>Madera sin sellar.</li>
+<li>Mármol/piedra natural sin prueba.</li>
+<li>Aluminio o metales blandos si es alcalino fuerte.</li>
+<li>Recipientes de comida sin enjuague abundante.</li>
+<li>Telas delicadas.</li>
+</ul>
+</section>
+<section id="mini-reglas" class="level2">
+<h2 class="anchored" data-anchor-id="mini-reglas">Mini-reglas</h2>
+<ul>
+<li>Diluir como dice la etiqueta.</li>
+<li>Dar tiempo de contacto.</li>
+<li>Enjuagar si la superficie toca comida o si queda película.</li>
+<li>Para grasa: desengrasante primero; para microbios: quat después.</li>
+<li>Si huele a químico después de limpiar, probablemente usaste demasiado o enjuagaste poco.</li>
+</ul>
+</section>
+<section id="fuentes" class="level2">
+<h2 class="anchored" data-anchor-id="fuentes">Fuentes</h2>
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>American Cleaning Institute. “An introduction to the science of how things get clean.” <a href="https://www.cleaninginstitute.org/sites/default/files/assets/1/AssetManager/SoapBook.pdf" class="uri">https://www.cleaninginstitute.org/sites/default/files/assets/1/AssetManager/SoapBook.pdf</a>↩︎</p></li>
+<li id="fn2"><p>USDA. “Clean THEN Sanitize: A One-Two Punch to Stop Foodborne Illness in the Kitchen.” <a href="https://www.usda.gov/about-usda/news/blog/clean-then-sanitize-one-two-punch-stop-foodborne-illness-kitchen" class="uri">https://www.usda.gov/about-usda/news/blog/clean-then-sanitize-one-two-punch-stop-foodborne-illness-kitchen</a>↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>limpieza</category>
+  <category>quimicos-hogar</category>
+  <category>cocina</category>
+  <guid>https://jovillarrealm.github.io/domestik/posts/desengrasante-biodegradable/</guid>
+  <pubDate>Sat, 27 Jun 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Detergentes en Medellín: opciones que sí pasan la checklist</title>
+  <dc:creator>GPT-5 </dc:creator>
+  <link>https://jovillarrealm.github.io/domestik/posts/detergentes-medellin/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="detergentes-en-medellín" class="level1">
+<h1>Detergentes en Medellín</h1>
+<p>Este artículo es la parte práctica de la guía química: qué buscar en el supermercado y cuáles opciones tienen mejor pinta para comprar en Medellín.</p>
+<p>La dificultad es que en Colombia muchas etiquetas comerciales dicen “poder antimanchas”, “biodegradable”, “fragancia duradera” o “limpieza profunda”, pero no siempre publican la fórmula completa. Entonces usé una escala honesta:</p>
+<ul>
+<li><strong>Fuerte:</strong> hay ingredientes o ficha técnica accesible.</li>
+<li><strong>Media:</strong> la marca declara enzimas/tecnología, pero la etiqueta pública no es completa.</li>
+<li><strong>Débil:</strong> es comprable, pero toca revisar la etiqueta física.</li>
+</ul>
+<p>No es una sentencia eterna. Es una foto de disponibilidad e información consultada el <strong>27 de junio de 2026</strong>.</p>
+<section id="la-checklist-de-compra" class="level2">
+<h2 class="anchored" data-anchor-id="la-checklist-de-compra">La checklist de compra</h2>
+<p>Un detergente de ropa bueno debería cumplir la mayor cantidad posible de esto:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterio</th>
+<th>Señal en etiqueta</th>
+<th>Por qué importa</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Surfactantes aniónicos + no iónicos</td>
+<td>“tensoactivos aniónicos/no iónicos”, LAS, alcoholes etoxilados</td>
+<td>Remueven grasa, polvo y mugre mixta.</td>
+</tr>
+<tr class="even">
+<td>Multienzimas</td>
+<td>proteasa, amilasa, lipasa, celulasa, mananasa</td>
+<td>Cortan manchas de comida, sudor y grasa.</td>
+</tr>
+<tr class="odd">
+<td>Builders/quelantes</td>
+<td>carbonato, citrato, zeolita, fosfonatos, policarboxilatos</td>
+<td>Mejoran desempeño con minerales del agua.</td>
+</tr>
+<tr class="even">
+<td>Anti-redeposición</td>
+<td>carboximetilcelulosa, cellulose gum, poliacrilato, dispersantes</td>
+<td>Evitan que la ropa salga gris.</td>
+</tr>
+<tr class="odd">
+<td>Bajo residuo / dosis clara</td>
+<td>instrucciones por carga y nivel de suciedad</td>
+<td>Menos percudido por exceso de detergente.</td>
+</tr>
+<tr class="even">
+<td>Compatibilidad</td>
+<td>color, blancos, oscuros, HE/carga frontal</td>
+<td>Evita daño o exceso de espuma.</td>
+</tr>
+<tr class="odd">
+<td>Transparencia</td>
+<td>web, ficha o etiqueta legible</td>
+<td>Si no podemos saber qué trae, baja confianza.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="ganadores-por-caso-de-uso" class="level2">
+<h2 class="anchored" data-anchor-id="ganadores-por-caso-de-uso">Ganadores por caso de uso</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Uso</th>
+<th>Mejor elección práctica</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Un solo detergente para casi todo</td>
+<td><strong>Ariel líquido o polvo de gama alta</strong></td>
+<td>Buena probabilidad de surfactantes mixtos, enzimas, polímeros y builders.</td>
+</tr>
+<tr class="even">
+<td>Opción premium líquida</td>
+<td><strong>Persil Acción Profunda / Universal</strong></td>
+<td>Persil suele competir fuerte en enzimas y desempeño en manchas.</td>
+</tr>
+<tr class="odd">
+<td>Opción común y fácil de encontrar</td>
+<td><strong>FAB Ultra Flash Bio Enzimas</strong></td>
+<td>Declara bioenzimas y está disponible en grandes superficies.</td>
+</tr>
+<tr class="even">
+<td>Blancos percudidos</td>
+<td><strong>Detergente bueno + percarbonato/oxígeno activo aparte</strong></td>
+<td>El detergente remueve; el oxígeno activo oxida el amarillo.</td>
+</tr>
+<tr class="odd">
+<td>Manchas de grasa puntuales</td>
+<td><strong>Lavaplatos líquido + lavado normal</strong></td>
+<td>Excelente pretratamiento localizado, no reemplazo de detergente.</td>
+</tr>
+<tr class="even">
+<td>Ropa negra</td>
+<td><strong>Detergente para color/oscuros</strong></td>
+<td>Menos riesgo de aclarar tintes; evitar oxígeno activo rutinario.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="ariel-la-compra-segura-si-revisas-versión" class="level2">
+<h2 class="anchored" data-anchor-id="ariel-la-compra-segura-si-revisas-versión">1. Ariel: la compra segura si revisas versión</h2>
+<p><strong>Veredicto:</strong> recomendado como detergente principal, especialmente en versiones “original”, “doble poder”, “triple poder” o similares de mayor gama.</p>
+<p><strong>Evidencia:</strong> media a fuerte, dependiendo de la versión local.</p>
+<p>P&amp;G publica ingredientes de familias Ariel en otros mercados con lo que uno esperaría de un detergente moderno: surfactantes aniónicos/no iónicos, enzimas como subtilisina/proteasa y lipasa, polímeros como poliacrilato y cellulose gum, abrillantadores ópticos y builders alcalinos.<sup>1</sup> En Colombia, las páginas de retail suelen listar el producto pero no toda la fórmula.</p>
+<p><strong>Por qué pasa la checklist:</strong></p>
+<ul>
+<li>Probable mezcla de surfactantes.</li>
+<li>Probables enzimas en versiones superiores.</li>
+<li>Suele incluir polímeros anti-redeposición.</li>
+<li>Polvos suelen traer builders alcalinos útiles para ropa muy sucia.</li>
+</ul>
+<p><strong>Cuándo elegir líquido:</strong> si quieres pretratar manchas directamente, lavar en frío o usar ciclos cortos.</p>
+<p><strong>Cuándo elegir polvo:</strong> si lavas blancos, toallas, ropa de cama o cargas muy sucias. Los polvos tienden a ser más alcalinos y pueden rendir mejor en mugre pesada.</p>
+<p><strong>Dónde buscar en Medellín:</strong> Éxito, Carulla, Jumbo, Olímpica, Alkosto y Mercado Libre suelen manejar Ariel. En Éxito aparece en distintas presentaciones de detergente de ropa Ariel.<sup>2</sup></p>
+<p><strong>Cuidado:</strong> para ropa negra no lo usaría como primera opción si la versión trae blanqueadores ópticos/oxígeno activo. Mejor usar línea para color u oscuros.</p>
+</section>
+<section id="persil-buen-candidato-premium" class="level2">
+<h2 class="anchored" data-anchor-id="persil-buen-candidato-premium">2. Persil: buen candidato premium</h2>
+<p><strong>Veredicto:</strong> recomendado si aparece a precio razonable.</p>
+<p><strong>Evidencia:</strong> media.</p>
+<p>Persil globalmente se vende como detergente de alto desempeño y sus guías publicadas explican el uso de enzimas y polímeros anti-redeposición en sus fórmulas.<sup>3</sup> <sup>4</sup> En Colombia ha tenido presencia en retail y marketplace; la disponibilidad puede cambiar por ciudad y canal.</p>
+<p><strong>Por qué pasa la checklist:</strong></p>
+<ul>
+<li>Persil suele formularse con enfoque en manchas difíciles.</li>
+<li>Buena probabilidad de enzimas múltiples.</li>
+<li>Líquido cómodo para pretratamiento.</li>
+<li>Buena opción para ropa diaria, sudor y comida.</li>
+</ul>
+<p><strong>Dónde buscar en Medellín:</strong> grandes superficies y marketplace. Revisa Éxito/Jumbo/Olímpica y Mercado Libre Colombia si no aparece en tienda física.</p>
+<p><strong>Cuidado:</strong> revisa si es “universal”, “color” o “sensitive”. No todas las versiones están optimizadas para lo mismo.</p>
+</section>
+<section id="fab-ultra-flash-bio-enzimas-opción-común-con-buena-señal" class="level2">
+<h2 class="anchored" data-anchor-id="fab-ultra-flash-bio-enzimas-opción-común-con-buena-señal">3. FAB Ultra Flash Bio Enzimas: opción común con buena señal</h2>
+<p><strong>Veredicto:</strong> recomendado como opción local fácil de conseguir, sobre todo si el precio está bueno.</p>
+<p><strong>Evidencia:</strong> media.</p>
+<p>FAB Ultra Flash se comercializa en Colombia con reclamos de “bio enzimas” y remoción de manchas. Las páginas de retail muestran presentaciones de FAB Ultra Flash y suelen destacar esa tecnología.<sup>5</sup></p>
+<p><strong>Por qué pasa parte de la checklist:</strong></p>
+<ul>
+<li>Declara enzimas, que es una señal importante.</li>
+<li>Es fácil de encontrar.</li>
+<li>Suele tener buen costo por lavado.</li>
+<li>Sirve como detergente diario si la ropa no está en casos extremos.</li>
+</ul>
+<p><strong>Lo que falta verificar en etiqueta física:</strong></p>
+<ul>
+<li>Si declara surfactantes aniónicos y no iónicos.</li>
+<li>Si trae anti-redeposición explícito.</li>
+<li>Si trae enzimas específicas o solo dice “bio enzimas”.</li>
+</ul>
+<p><strong>Dónde buscar en Medellín:</strong> Éxito, Olímpica, D1/tiendas de barrio según referencia, tiendas de cadena y apps de mercado.</p>
+<p><strong>Cuidado:</strong> si tu problema principal es ropa gris/percudida, yo lo acompañaría ocasionalmente con percarbonato en blancos o revisaría una versión más potente.</p>
+</section>
+<section id="detergentes-con-oxígeno-activo-buenos-pero-como-herramienta-específica" class="level2">
+<h2 class="anchored" data-anchor-id="detergentes-con-oxígeno-activo-buenos-pero-como-herramienta-específica">4. Detergentes “con oxígeno activo”: buenos, pero como herramienta específica</h2>
+<p><strong>Veredicto:</strong> útiles para blancos y manchas orgánicas; no necesariamente mejor detergente para todo.</p>
+<p><strong>Evidencia:</strong> depende mucho de la etiqueta.</p>
+<p>Los productos con “oxígeno activo” suelen apoyarse en percarbonato/peróxido u oxidantes similares. La química es buena para café, té, vino, sudor oxidado, toallas con olor y ropa blanca percudida. Pero un oxidante no reemplaza surfactantes, enzimas ni anti-redeposición.</p>
+<p><strong>Cómo usarlo bien:</strong></p>
+<ul>
+<li>Como booster aparte para blancos.</li>
+<li>En remojo si la prenda lo tolera.</li>
+<li>Con agua tibia/caliente cuando la etiqueta de la prenda lo permite.</li>
+<li>No como rutina para ropa negra.</li>
+</ul>
+<p><strong>Dónde buscar en Medellín:</strong> Vanish/Oxi, marcas propias de supermercado, percarbonato de sodio en tiendas químicas o tiendas tipo Químicos para el Hogar.</p>
+<p><strong>Cuidado:</strong> “oxígeno activo” en el empaque no garantiza multienzimas ni buena anti-redeposición.</p>
+</section>
+<section id="lavaplatos-líquido-para-manchas-de-grasa-sí-pero-puntual" class="level2">
+<h2 class="anchored" data-anchor-id="lavaplatos-líquido-para-manchas-de-grasa-sí-pero-puntual">5. Lavaplatos líquido para manchas de grasa: sí, pero puntual</h2>
+<p><strong>Veredicto:</strong> recomendado como pretratamiento de grasa, no como detergente de lavadora.</p>
+<p>El lavaplatos líquido está diseñado para grasa de cocina. Si cae aceite, salsa o mantequilla sobre una camiseta lavable, una gota puede ser más efectiva que echar la prenda directo a la lavadora. Dawn recomienda este uso como pretratamiento de grasa en telas lavables, retirando exceso y usando poca cantidad.<sup>6</sup></p>
+<p><strong>Protocolo local:</strong></p>
+<ol type="1">
+<li>Quita exceso de grasa.</li>
+<li>Aplica una gota de Axion, Salvo, Dawn u otro lavaplatos líquido.</li>
+<li>Masajea suave.</li>
+<li>Espera 10-20 minutos.</li>
+<li>Lava con detergente de ropa.</li>
+</ol>
+<p><strong>Por qué no reemplaza detergente:</strong></p>
+<ul>
+<li>Hace demasiada espuma.</li>
+<li>No trae sistema completo de enzimas/anti-redeposición de ropa.</li>
+<li>Puede dejar perfume/colorante.</li>
+<li>La lavadora puede quedar con exceso de espuma y mal enjuague.</li>
+</ul>
+</section>
+<section id="opciones-que-compraría" class="level2">
+<h2 class="anchored" data-anchor-id="opciones-que-compraría">Opciones que compraría</h2>
+<section id="compra-1-kit-sensato-para-una-casa-normal" class="level3">
+<h3 class="anchored" data-anchor-id="compra-1-kit-sensato-para-una-casa-normal">Compra 1: Kit sensato para una casa normal</h3>
+<ul>
+<li><strong>Ariel o Persil líquido</strong> para ropa diaria.</li>
+<li><strong>Detergente para oscuros/color</strong> si tienes mucha ropa negra.</li>
+<li><strong>Percarbonato u oxígeno activo</strong> para blancos, toallas y sábanas.</li>
+<li><strong>Lavaplatos líquido transparente o común</strong> para pretratar grasa.</li>
+</ul>
+<p>Con eso cubres 90% de problemas sin llenar la casa de botellas.</p>
+</section>
+<section id="compra-2-presupuesto-ajustado" class="level3">
+<h3 class="anchored" data-anchor-id="compra-2-presupuesto-ajustado">Compra 2: Presupuesto ajustado</h3>
+<ul>
+<li><strong>FAB Ultra Flash Bio Enzimas</strong> como detergente diario.</li>
+<li><strong>Percarbonato</strong> solo para blancos percudidos.</li>
+<li><strong>Lavaplatos</strong> para grasa puntual.</li>
+</ul>
+<p>La clave aquí es dosificar bien y no sobrecargar la lavadora.</p>
+</section>
+<section id="compra-3-ropa-deportiva-sudor-fuerte" class="level3">
+<h3 class="anchored" data-anchor-id="compra-3-ropa-deportiva-sudor-fuerte">Compra 3: Ropa deportiva / sudor fuerte</h3>
+<ul>
+<li><strong>Detergente con enzimas</strong> líquido.</li>
+<li>Nada de suavizante.</li>
+<li>Remojo corto con detergente si huele.</li>
+<li>Percarbonato ocasional solo si la tela/color lo permite.</li>
+</ul>
+<p>El poliéster retiene grasa corporal. Si le pones suavizante, le agregas otra película.</p>
+</section>
+<section id="compra-4-blancos-que-ya-están-amarillos" class="level3">
+<h3 class="anchored" data-anchor-id="compra-4-blancos-que-ya-están-amarillos">Compra 4: Blancos que ya están amarillos</h3>
+<ul>
+<li>Detergente bueno.</li>
+<li>Percarbonato/oxígeno activo.</li>
+<li>Agua tibia/caliente si la prenda lo permite.</li>
+<li>Remojo de 2-6 horas.</li>
+</ul>
+<p>No empezaría con cloro. El cloro blanquea rápido, pero puede debilitar fibras y arruinar elastanos.</p>
+</section>
+</section>
+<section id="productos-que-miraría-con-sospecha" class="level2">
+<h2 class="anchored" data-anchor-id="productos-que-miraría-con-sospecha">Productos que miraría con sospecha</h2>
+<p>No porque sean malos, sino porque no se dejan auditar:</p>
+<ul>
+<li>Detergentes que solo dicen “fragancia intensa” y no mencionan enzimas.</li>
+<li>Productos que prometen “desinfectar ropa” sin explicar ingrediente activo ni uso.</li>
+<li>Detergentes baratos sin dosis clara.</li>
+<li>“Jabón líquido multiusos” usado como detergente de ropa.</li>
+<li>Suavizantes vendidos como si resolvieran olor. Muchas veces lo maquillan.</li>
+</ul>
+</section>
+<section id="cómo-leer-la-etiqueta-en-30-segundos" class="level2">
+<h2 class="anchored" data-anchor-id="cómo-leer-la-etiqueta-en-30-segundos">Cómo leer la etiqueta en 30 segundos</h2>
+<ol type="1">
+<li>Busca “enzimas”. Si no aparece, baja puntos.</li>
+<li>Busca “tensoactivos aniónicos/no iónicos”. Si tiene ambos, sube puntos.</li>
+<li>Busca “color” u “oscuros” si tu ropa lo necesita.</li>
+<li>Si dice “oxígeno activo”, piensa blancos/manchas, no ropa negra.</li>
+<li>Si no hay ingredientes, revisa web o cambia de opción.</li>
+<li>Si tu lavadora es carga frontal, busca baja espuma/HE o usa poca dosis.</li>
+</ol>
+</section>
+<section id="ranking-práctico" class="level2">
+<h2 class="anchored" data-anchor-id="ranking-práctico">Ranking práctico</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 18%">
+<col style="width: 18%">
+<col style="width: 18%">
+<col style="width: 18%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: right;">Ranking</th>
+<th>Producto/categoría</th>
+<th>Mejor para</th>
+<th>Evidencia</th>
+<th>Comentario</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;">1</td>
+<td>Ariel gama alta</td>
+<td>Detergente único diario</td>
+<td>Media-fuerte</td>
+<td>Mejor equilibrio entre disponibilidad y sistema químico completo.</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2</td>
+<td>Persil Acción Profunda / Universal</td>
+<td>Premium antimanchas</td>
+<td>Media</td>
+<td>Muy buen candidato si se consigue fresco y a buen precio.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">3</td>
+<td>FAB Ultra Flash Bio Enzimas</td>
+<td>Presupuesto / compra fácil</td>
+<td>Media</td>
+<td>Buena señal por enzimas; revisar etiqueta física.</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">4</td>
+<td>Booster oxígeno activo/percarbonato</td>
+<td>Blancos y manchas orgánicas</td>
+<td>Fuerte químicamente</td>
+<td>No es reemplazo de detergente.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">5</td>
+<td>Lavaplatos líquido</td>
+<td>Grasa puntual</td>
+<td>Fuerte para ese caso</td>
+<td>Solo pretratamiento; no lavadora.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="mi-recomendación-final-para-medellín" class="level2">
+<h2 class="anchored" data-anchor-id="mi-recomendación-final-para-medellín">Mi recomendación final para Medellín</h2>
+<p>Si tuviera que comprar hoy sin complicarme:</p>
+<ol type="1">
+<li><strong>Ariel o Persil líquido</strong> como detergente base.</li>
+<li><strong>FAB Ultra Flash Bio Enzimas</strong> si el presupuesto manda.</li>
+<li><strong>Percarbonato/oxígeno activo</strong> aparte para blancos y toallas.</li>
+<li><strong>Lavaplatos líquido</strong> para manchas de grasa antes del lavado.</li>
+<li><strong>Detergente de oscuros</strong> si tienes mucha ropa negra que quieras cuidar.</li>
+</ol>
+<p>La mejor compra no es el producto más caro. Es el sistema: un detergente con surfactantes + enzimas + anti-redeposición para lavar, un oxidante para blancos cuando toca, y un lavaplatos para atacar grasa puntual antes de que la lavadora haga el resto.</p>
+</section>
+<section id="fuentes-consultadas" class="level2">
+<h2 class="anchored" data-anchor-id="fuentes-consultadas">Fuentes consultadas</h2>
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Ariel Detergent. “Ariel Original Powder Laundry Detergent.” Consultado el 27 de junio de 2026. <a href="https://arieldetergent.com/en-us/shop-products/ariel-original-powder-laundry-detergent" class="uri">https://arieldetergent.com/en-us/shop-products/ariel-original-powder-laundry-detergent</a>↩︎</p></li>
+<li id="fn2"><p>Éxito. Búsqueda de detergentes Ariel disponibles en Colombia. Consultado el 27 de junio de 2026. <a href="https://www.exito.com/s?q=ariel%20detergente" class="uri">https://www.exito.com/s?q=ariel%20detergente</a>↩︎</p></li>
+<li id="fn3"><p>Persil. “Enzyme Laundry Detergent Guide: Stain Fighting Enzymes.” Consultado el 27 de junio de 2026. <a href="https://www.persillaundry.com/us/en/sustainability/our-ingredients/articles/enzymes.html" class="uri">https://www.persillaundry.com/us/en/sustainability/our-ingredients/articles/enzymes.html</a>↩︎</p></li>
+<li id="fn4"><p>Persil. “Ingredient Guide: Polymers.” Consultado el 27 de junio de 2026. <a href="https://www.persillaundry.com/us/en/sustainability/our-ingredients/articles/polymers.html" class="uri">https://www.persillaundry.com/us/en/sustainability/our-ingredients/articles/polymers.html</a>↩︎</p></li>
+<li id="fn5"><p>Éxito. Búsqueda de detergentes FAB Ultra Flash disponibles en Colombia. Consultado el 27 de junio de 2026. <a href="https://www.exito.com/s?q=fab%20ultra%20flash" class="uri">https://www.exito.com/s?q=fab%20ultra%20flash</a>↩︎</p></li>
+<li id="fn6"><p>Dawn. “How to Remove Grease Stains from Clothes.” Consultado el 27 de junio de 2026. <a href="https://dawn-dish.com/en-us/how-to/remove-grease-stains-from-clothes/" class="uri">https://dawn-dish.com/en-us/how-to/remove-grease-stains-from-clothes/</a>↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>limpieza</category>
+  <category>ropa</category>
+  <category>compras</category>
+  <guid>https://jovillarrealm.github.io/domestik/posts/detergentes-medellin/</guid>
+  <pubDate>Sat, 27 Jun 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Cómo elegir detergentes: química ELI10 para no comprar a ciegas</title>
+  <dc:creator>GPT-5 </dc:creator>
+  <link>https://jovillarrealm.github.io/domestik/posts/detergentes-quimica/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="cómo-elegir-detergentes" class="level1">
+<h1>Cómo elegir detergentes</h1>
+<p>Elegir detergente parece una decisión de supermercado: aroma, precio, promoción 2x1, empaque bonito. Pero debajo hay una pregunta más útil:</p>
+<blockquote class="blockquote">
+<p>¿Qué tiene que mover este producto de la tela hacia el agua?</p>
+</blockquote>
+<p>La ropa no se ensucia con una sola cosa. Una camiseta usada tiene grasa de piel, sales del sudor, proteínas, partículas de polvo, restos de desodorante, pigmentos de comida, olor bacteriano y a veces minerales del agua. Un buen detergente no es “un jabón más fuerte”; es una mezcla de herramientas. La gracia está en que cada herramienta pelea una parte distinta de la mugre.</p>
+<p>Este artículo es un ELI10: explicado como para alguien de 10 años, pero sin mentirle a la química.</p>
+<section id="la-idea-grande-la-mugre-necesita-transporte" class="level2">
+<h2 class="anchored" data-anchor-id="la-idea-grande-la-mugre-necesita-transporte">La idea grande: la mugre necesita transporte</h2>
+<p>Cuando lavas ropa, no estás destruyendo la suciedad. La estás <strong>despegando</strong>, <strong>partiendo</strong>, <strong>manteniendo suspendida</strong> y finalmente <strong>sacándola con el enjuague</strong>.</p>
+<p>Un detergente bueno hace cuatro trabajos:</p>
+<ol type="1">
+<li><strong>Mojar la tela</strong> para que el agua entre mejor.</li>
+<li><strong>Soltar grasa y partículas</strong> con surfactantes.</li>
+<li><strong>Romper manchas específicas</strong> con enzimas u oxidantes.</li>
+<li><strong>Evitar que la mugre vuelva a pegarse</strong> con agentes anti-redeposición.</li>
+</ol>
+<p>La American Cleaning Institute resume la limpieza como una cooperación entre agua, ingredientes del producto, acción mecánica, tiempo y temperatura.<sup>1</sup> En versión doméstica: detergente bueno + dosis correcta + lavadora no sobrecargada + tiempo suficiente gana más veces que “echar más producto”.</p>
+</section>
+<section id="surfactantes-los-traductores-entre-grasa-y-agua" class="level2">
+<h2 class="anchored" data-anchor-id="surfactantes-los-traductores-entre-grasa-y-agua">Surfactantes: los traductores entre grasa y agua</h2>
+<p>El agua y la grasa se caen mal. Si pones aceite en agua, se separan. Los surfactantes son moléculas con doble personalidad:</p>
+<ul>
+<li>Una parte ama el agua.</li>
+<li>Otra parte ama la grasa.</li>
+</ul>
+<p>Cuando hay suficiente surfactante, esas moléculas rodean la grasa formando micelas: bolitas microscópicas con grasa adentro y una superficie compatible con agua. Así la lavadora puede arrastrar lo que antes estaba pegado a la tela.<sup>2</sup></p>
+<section id="aniónicos-los-caballos-de-batalla" class="level3">
+<h3 class="anchored" data-anchor-id="aniónicos-los-caballos-de-batalla">Aniónicos: los caballos de batalla</h3>
+<p>Los surfactantes <strong>aniónicos</strong> tienen carga negativa. Suelen ser muy buenos removiendo suciedad particulada y grasa general, hacen espuma y son baratos. En detergentes de ropa aparecen familias como LAS, alcohol sulfatos y alcohol etoxisulfatos.</p>
+<p>ELI10: son como muchas cucharitas cargadas que arrancan grasa de la tela y la llevan al agua.</p>
+<p>Punto débil: pueden ser sensibles al agua dura y pueden irritar más si quedan residuos.</p>
+</section>
+<section id="no-iónicos-buenos-con-grasa-menos-drama-con-agua-dura" class="level3">
+<h3 class="anchored" data-anchor-id="no-iónicos-buenos-con-grasa-menos-drama-con-agua-dura">No iónicos: buenos con grasa, menos drama con agua dura</h3>
+<p>Los surfactantes <strong>no iónicos</strong> no tienen carga neta. Suelen limpiar muy bien grasa y funcionan bien en distintas condiciones de agua. También ayudan a que una fórmula sea más estable.</p>
+<p>ELI10: son como ayudantes silenciosos que se meten en aceites y sebo sin pelearse tanto con los minerales del agua.</p>
+<p>Un detergente moderno decente casi siempre usa mezcla de aniónicos + no iónicos, porque la ropa trae mugre mixta.</p>
+</section>
+<section id="catiónicos-útiles-pero-no-como-protagonista-del-lavado" class="level3">
+<h3 class="anchored" data-anchor-id="catiónicos-útiles-pero-no-como-protagonista-del-lavado">Catiónicos: útiles, pero no como protagonista del lavado</h3>
+<p>Los surfactantes <strong>catiónicos</strong> tienen carga positiva. Esa carga se pega con facilidad a superficies y fibras, por eso aparecen en suavizantes, acondicionadores textiles y desinfectantes tipo amonios cuaternarios.<sup>3</sup></p>
+<p>Pero hay trampa: los catiónicos suelen ser incompatibles con surfactantes aniónicos. Positivo + negativo se atraen, se neutralizan o forman complejos que limpian peor.<sup>4</sup></p>
+<p>ELI10: si mezclas al policía que agarra grasa con el suavizante que se quiere quedar pegado a la tela, pueden abrazarse entre ellos y olvidarse de la mugre.</p>
+<p>Conclusión práctica: no uses suavizante como si fuera refuerzo de detergente. Y si vas a desinfectar con amonio cuaternario, primero limpia y enjuaga; luego desinfecta si la etiqueta lo permite.</p>
+</section>
+</section>
+<section id="enzimas-tijeras-microscópicas-para-manchas-específicas" class="level2">
+<h2 class="anchored" data-anchor-id="enzimas-tijeras-microscópicas-para-manchas-específicas">Enzimas: tijeras microscópicas para manchas específicas</h2>
+<p>Las enzimas son proteínas que cortan otras moléculas. En detergentes sirven porque muchas manchas son moléculas grandes que se vuelven solubles si las partes.</p>
+<p>No “blanquean” por magia. Trabajan como tijeras selectivas.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Enzima</th>
+<th>Qué rompe</th>
+<th>Manchas donde ayuda</th>
+<th>Nota práctica</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Proteasa</strong></td>
+<td>Proteínas</td>
+<td>Sangre, huevo, leche, sudor, comida, fluidos corporales</td>
+<td>No usar agua muy caliente al inicio: el calor puede cocinar proteínas.</td>
+</tr>
+<tr class="even">
+<td><strong>Amilasa</strong></td>
+<td>Almidones</td>
+<td>Arroz, papa, pasta, avena, salsas espesas</td>
+<td>Muy útil en ropa de niños y cocina.</td>
+</tr>
+<tr class="odd">
+<td><strong>Lipasa</strong></td>
+<td>Grasas y aceites</td>
+<td>Sebo, mantequilla, aceites, salsa grasosa</td>
+<td>Necesita tiempo; no siempre actúa instantáneo.</td>
+</tr>
+<tr class="even">
+<td><strong>Celulasa</strong></td>
+<td>Microfibrillas de algodón</td>
+<td>Percudido, aspereza, bolitas, opacidad</td>
+<td>Puede mejorar apariencia, pero en exceso desgasta algodón.</td>
+</tr>
+<tr class="odd">
+<td><strong>Mananasa</strong></td>
+<td>Gomas vegetales tipo guar/mananos</td>
+<td>Helado, aderezos, salsas, productos espesados</td>
+<td>Muy buena contra manchas modernas de comida procesada.</td>
+</tr>
+<tr class="even">
+<td><strong>Pectinasa</strong></td>
+<td>Pectinas vegetales</td>
+<td>Frutas, mermeladas, jugos</td>
+<td>Menos visible en etiquetas domésticas, pero útil en formulación avanzada.</td>
+</tr>
+</tbody>
+</table>
+<p>La industria de detergentes usa combinaciones multienzima porque una mancha real rara vez es pura. Un derrame de chocolate con leche puede tener grasa, proteína, azúcar, almidón y pigmento. Si el detergente solo trae surfactante, puede levantar parte. Si además trae proteasa, amilasa y lipasa, tiene más formas de atacar el mismo desastre.<sup>5</sup></p>
+<section id="entonces-multienzimas-siempre-es-mejor" class="level3">
+<h3 class="anchored" data-anchor-id="entonces-multienzimas-siempre-es-mejor">Entonces, ¿multienzimas siempre es mejor?</h3>
+<p>Para ropa diaria, sí suele ser una buena señal. Pero hay excepciones:</p>
+<ul>
+<li>Lana y seda son fibras proteicas. Una proteasa mal usada puede dañarlas.</li>
+<li>Ropa muy delicada prefiere detergente suave específico.</li>
+<li>Personas sensibles pueden preferir fórmulas sin fragancia y con buen enjuague antes que “la fórmula más potente”.</li>
+<li>Las enzimas necesitan tiempo, agua y pH adecuados. Echar detergente y hacer un ciclo ultrarrápido reduce su ventaja.</li>
+</ul>
+</section>
+</section>
+<section id="builders-quelantes-y-control-del-agua" class="level2">
+<h2 class="anchored" data-anchor-id="builders-quelantes-y-control-del-agua">Builders, quelantes y control del agua</h2>
+<p>El agua no es solo H2O. Trae minerales, sobre todo calcio y magnesio. Esos minerales estorban porque pueden reaccionar con surfactantes, formar residuos y dejar la ropa opaca.</p>
+<p>Los <strong>builders</strong> y <strong>quelantes</strong> son ingredientes que manejan esos minerales:</p>
+<ul>
+<li>Carbonato de sodio: sube pH y ayuda a controlar dureza.</li>
+<li>Citratos: capturan calcio/magnesio con menor agresividad.</li>
+<li>Zeolitas: intercambian iones y ablandan el agua en detergentes en polvo.</li>
+<li>Fosfonatos y policarboxilatos: secuestran minerales y ayudan contra incrustación.</li>
+</ul>
+<p>ELI10: son guardaespaldas. Mantienen ocupados a los minerales para que no molesten al surfactante.</p>
+<p>En Medellín el agua suele ser tratada y relativamente cómoda para uso doméstico comparada con zonas de agua muy dura, pero aun así los builders importan porque la ropa y la suciedad también aportan minerales. Además, lavadoras, jabones previos, sudor y polvo pueden dejar sales acumuladas.</p>
+</section>
+<section id="agentes-anti-redeposición-la-diferencia-entre-limpiar-y-no-despercudir" class="level2">
+<h2 class="anchored" data-anchor-id="agentes-anti-redeposición-la-diferencia-entre-limpiar-y-no-despercudir">Agentes anti-redeposición: la diferencia entre limpiar y no despercudir</h2>
+<p>Una lavadora es una sopa. Si el detergente desprende mugre pero no la mantiene suspendida, esa mugre puede volver a pegarse en la ropa. Eso es parte del “percudido”: ropa que técnicamente se lavó, pero sale gris, apagada o con olor raro.</p>
+<p>Los agentes <strong>anti-redeposición</strong> ayudan a que la mugre suelta no regrese. Los más comunes incluyen:</p>
+<ul>
+<li><strong>Carboximetilcelulosa / cellulose gum / CMC:</strong> se pega preferentemente a algodón y deja la superficie más negativa e hidratada, dificultando que la suciedad vuelva.</li>
+<li><strong>Poliacrilatos y policarboxilatos:</strong> dispersan partículas y minerales.</li>
+<li><strong>PVP u otros polímeros:</strong> pueden ayudar con transferencia de colorantes o dispersión, según fórmula.</li>
+</ul>
+<p>ELI10: son guardias de tránsito. Cuando la mugre sale de la tela, le dicen: “por aquí no vuelves, te vas por el desagüe”.</p>
+<p>Este punto es importante porque un detergente barato puede levantar algo de grasa y oler rico, pero si no dispersa bien la suciedad, con el tiempo la ropa se pone gris.</p>
+</section>
+<section id="oxidantes-y-blanqueadores-útiles-pero-no-para-todo" class="level2">
+<h2 class="anchored" data-anchor-id="oxidantes-y-blanqueadores-útiles-pero-no-para-todo">Oxidantes y blanqueadores: útiles, pero no para todo</h2>
+<p>Los blanqueadores con oxígeno, como percarbonato de sodio o peróxido de hidrógeno, atacan moléculas coloreadas. Funcionan muy bien en ropa blanca o clara contra café, té, vino, sudor oxidado y olores orgánicos.</p>
+<p>Pero no son el corazón de todo lavado:</p>
+<ul>
+<li>En ropa de color pueden aclarar tintes inestables.</li>
+<li>En lana, seda y elastano hay que tener cuidado.</li>
+<li>No reemplazan surfactantes ni enzimas.</li>
+<li>No disuelven sarro como un ácido.</li>
+</ul>
+<p>ELI10: el oxidante es el borrador de colores. Buenísimo cuando quieres borrar una mancha visible; mala idea cuando el “color” que borra es el tinte de tu camiseta negra.</p>
+</section>
+<section id="detergente-de-platos-para-manchas-vs-detergente-de-ropa" class="level2">
+<h2 class="anchored" data-anchor-id="detergente-de-platos-para-manchas-vs-detergente-de-ropa">Detergente de platos para manchas vs detergente de ropa</h2>
+<p>Este ejemplo es clave.</p>
+<p>El lavaplatos líquido está diseñado para grasa de comida en superficies duras: platos, vasos, cubiertos. Por eso suele tener surfactantes desengrasantes potentes y mucha espuma. En una mancha fresca de aceite, salsa o grasa, unas gotas pueden funcionar excelente como <strong>pretratamiento</strong>.</p>
+<p>Protocolo:</p>
+<ol type="1">
+<li>Quitar exceso de grasa con papel o cuchara sin embarrar más.</li>
+<li>Poner una gota de lavaplatos sobre la mancha.</li>
+<li>Masajear suave con dedos o cepillo blando.</li>
+<li>Esperar 10-20 minutos.</li>
+<li>Lavar con detergente de ropa normal.</li>
+</ol>
+<p>¿Por qué funciona? Porque la mancha es grasa localizada y el lavaplatos está hecho para emulsificar grasa. Marcas como Dawn incluso recomiendan su uso como pretratamiento puntual para manchas de grasa en telas lavables, con la advertencia de no usarlo en exceso ni en materiales delicados.<sup>6</sup></p>
+<p>Pero no reemplaza detergente de ropa en la lavadora:</p>
+<ul>
+<li>Produce demasiada espuma para muchas lavadoras.</li>
+<li>No necesariamente trae enzimas de ropa.</li>
+<li>No siempre trae anti-redeposición.</li>
+<li>Puede traer colorantes, fragancias o ingredientes pensados para vajilla, no para fibras.</li>
+<li>No está formulado para proteger colores, algodón, sintéticos y ciclos de enjuague.</li>
+</ul>
+<p>ELI10: el lavaplatos es un bisturí para grasa puntual. El detergente de ropa es el equipo completo para una ciudad entera de mugre.</p>
+</section>
+<section id="checklist-de-un-buen-detergente" class="level2">
+<h2 class="anchored" data-anchor-id="checklist-de-un-buen-detergente">Checklist de un buen detergente</h2>
+<p>Esta es la lista útil para comprar:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterio</th>
+<th>Qué buscar en etiqueta</th>
+<th>Por qué importa</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Surfactantes mixtos</td>
+<td>Aniónicos + no iónicos</td>
+<td>Mejor contra mugre mixta: grasa, polvo, comida, sudor.</td>
+</tr>
+<tr class="even">
+<td>Multienzimas</td>
+<td>Proteasa, amilasa, lipasa, cellulase/celulasa, mannanase/mananasa</td>
+<td>Corta manchas biológicas y comida.</td>
+</tr>
+<tr class="odd">
+<td>Builders/quelantes</td>
+<td>Carbonato, citrato, zeolita, fosfonato, policarboxilato</td>
+<td>Controlan minerales y mejoran desempeño.</td>
+</tr>
+<tr class="even">
+<td>Anti-redeposición</td>
+<td>Cellulose gum/CMC, poliacrilatos, polímeros dispersantes</td>
+<td>Evitan ropa gris y mugre de regreso.</td>
+</tr>
+<tr class="odd">
+<td>Cuidado del color</td>
+<td>Indicación para color/oscuros si aplica</td>
+<td>Menos riesgo de desteñir.</td>
+</tr>
+<tr class="even">
+<td>Oxígeno activo</td>
+<td>Percarbonato/peróxido en polvos o boosters</td>
+<td>Buen refuerzo para blancos y manchas orgánicas.</td>
+</tr>
+<tr class="odd">
+<td>Baja espuma si aplica</td>
+<td>“HE”, “carga frontal”, “baja espuma”</td>
+<td>Evita problemas en lavadoras modernas.</td>
+</tr>
+<tr class="even">
+<td>Transparencia</td>
+<td>Ingredientes o ficha accesible</td>
+<td>Si no dice nada, compras a ciegas.</td>
+</tr>
+<tr class="odd">
+<td>Aroma/sensibilidad</td>
+<td>Sin perfume o hipoalergénico si hay piel sensible</td>
+<td>Lo que huele “limpio” puede irritar.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="cómo-escoger-según-tu-ropa" class="level2">
+<h2 class="anchored" data-anchor-id="cómo-escoger-según-tu-ropa">Cómo escoger según tu ropa</h2>
+<p><strong>Ropa diaria mixta:</strong> detergente líquido o polvo con aniónicos + no iónicos + enzimas. Líquido es cómodo para pretratar; polvo suele ser fuerte en blancos y mugre pesada.</p>
+<p><strong>Blancos percudidos:</strong> detergente bueno + percarbonato/oxígeno activo ocasional. Agua tibia/caliente si la etiqueta de la prenda lo permite.</p>
+<p><strong>Ropa negra u oscura:</strong> detergente para color/oscuros, agua fría, poca fricción, nada de oxidantes como rutina.</p>
+<p><strong>Ropa deportiva:</strong> busca enzimas y buena detergencia grasa. Evita suavizante porque deja película y empeora olores en poliéster.</p>
+<p><strong>Bebés o piel sensible:</strong> menos perfume, buen enjuague, dosis correcta. “Más suave” no significa “menos detergente”; significa fórmula y uso adecuados.</p>
+<p><strong>Lana/seda/delicados:</strong> detergente específico. Aquí la mejor química es la que no ataca la fibra.</p>
+</section>
+<section id="errores-caros" class="level2">
+<h2 class="anchored" data-anchor-id="errores-caros">Errores caros</h2>
+<ul>
+<li>Usar demasiado detergente: deja residuos, olor y rigidez.</li>
+<li>Sobrecargar lavadora: no hay espacio para que la mugre salga.</li>
+<li>Usar suavizante en toallas y ropa deportiva: reduce absorción y atrapa olor.</li>
+<li>Pretender que aroma = limpieza.</li>
+<li>Tratar todas las manchas con agua caliente: fija sangre, huevo y proteína.</li>
+<li>Usar oxidantes en ropa oscura como costumbre.</li>
+<li>Mezclar productos “para potenciar”: muchas veces se neutralizan o se vuelven peligrosos.</li>
+</ul>
+</section>
+<section id="regla-final" class="level2">
+<h2 class="anchored" data-anchor-id="regla-final">Regla final</h2>
+<p>Un buen detergente no es el que más espuma hace ni el que más huele. Es el que combina:</p>
+<p><strong>surfactantes para soltar</strong>, <strong>enzimas para cortar</strong>, <strong>builders para controlar el agua</strong>, <strong>polímeros para que la mugre no vuelva</strong>, y <strong>buenas instrucciones de dosis</strong>.</p>
+<p>Lo demás es marketing con perfume.</p>
+</section>
+<section id="fuentes-consultadas" class="level2">
+<h2 class="anchored" data-anchor-id="fuentes-consultadas">Fuentes consultadas</h2>
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>American Cleaning Institute. “An Introduction to the Science of How Things Get Clean.” Consultado el 27 de junio de 2026. <a href="https://www.cleaninginstitute.org/sites/default/files/assets/1/AssetManager/SoapBook.pdf" class="uri">https://www.cleaninginstitute.org/sites/default/files/assets/1/AssetManager/SoapBook.pdf</a>↩︎</p></li>
+<li id="fn2"><p>American Cleaning Institute. “An Introduction to the Science of How Things Get Clean.” Consultado el 27 de junio de 2026. <a href="https://www.cleaninginstitute.org/sites/default/files/assets/1/AssetManager/SoapBook.pdf" class="uri">https://www.cleaninginstitute.org/sites/default/files/assets/1/AssetManager/SoapBook.pdf</a>↩︎</p></li>
+<li id="fn3"><p>CDC. “Chemical Disinfectants: Quaternary Ammonium Compounds.” Consultado el 27 de junio de 2026. <a href="https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html" class="uri">https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html</a>↩︎</p></li>
+<li id="fn4"><p>American Cleaning Institute. “An Introduction to the Science of How Things Get Clean.” Consultado el 27 de junio de 2026. <a href="https://www.cleaninginstitute.org/sites/default/files/assets/1/AssetManager/SoapBook.pdf" class="uri">https://www.cleaninginstitute.org/sites/default/files/assets/1/AssetManager/SoapBook.pdf</a>↩︎</p></li>
+<li id="fn5"><p>American Cleaning Institute. “The role of enzymes in detergent products.” Consultado el 27 de junio de 2026. <a href="https://www.cleaninginstitute.org/sites/default/files/documents/Enzymes-factsheet.pdf" class="uri">https://www.cleaninginstitute.org/sites/default/files/documents/Enzymes-factsheet.pdf</a>↩︎</p></li>
+<li id="fn6"><p>Dawn. “How to Remove Grease Stains from Clothes.” Consultado el 27 de junio de 2026. <a href="https://dawn-dish.com/en-us/how-to/remove-grease-stains-from-clothes/" class="uri">https://dawn-dish.com/en-us/how-to/remove-grease-stains-from-clothes/</a>↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>limpieza</category>
+  <category>ropa</category>
+  <category>química</category>
+  <guid>https://jovillarrealm.github.io/domestik/posts/detergentes-quimica/</guid>
+  <pubDate>Sat, 27 Jun 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Percarbonato de sodio: oxígeno activo para manchas, olores y termos</title>
+  <dc:creator>GPT5.5 </dc:creator>
+  <link>https://jovillarrealm.github.io/domestik/posts/percarbonato-sodio/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="percarbonato-de-sodio" class="level1">
+<h1>Percarbonato de sodio</h1>
+<p>El percarbonato de sodio es la herramienta del combo para <strong>manchas orgánicas, ropa percudida, olores en textiles y mugre coloreada en acero inoxidable o cerámica</strong>. No es un desengrasante puro, no es un desincrustante de sarro, no es un desinfectante de etiqueta. Es un oxidante alcalino.</p>
+<p>La idea mental es esta:</p>
+<blockquote class="blockquote">
+<p>Si el problema se ve como color pegado, olor orgánico o percudido: piensa percarbonato. Si el problema es sarro blanco duro: ácido. Si es grasa pesada: desengrasante.</p>
+</blockquote>
+<section id="eli10-qué-pasa-químicamente" class="level2">
+<h2 class="anchored" data-anchor-id="eli10-qué-pasa-químicamente">ELI10: qué pasa químicamente</h2>
+<p>El percarbonato es como una pastilla seca hecha de <strong>carbonato de sodio</strong> y <strong>peróxido de hidrógeno</strong>. Cuando toca agua se separa:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0A2Na_2CO_3%20%5Ccdot%203H_2O_2%20%5Crightarrow%202Na_2CO_3%20+%203H_2O_2%0A"></p>
+<p>La parte carbonato sube el pH. Eso ayuda a que el agua lave mejor, ablanda parte de la mugre grasa y ayuda al detergente. La parte peróxido oxida moléculas coloreadas. Muchas manchas de café, té, vino, sudor viejo o comida tienen estructuras que absorben luz. El peróxido les cambia la forma química y dejan de verse tanto.</p>
+<p>Por eso es una herramienta doble:</p>
+<ul>
+<li><strong>Alcalinidad:</strong> ayuda a despegar mugre orgánica.</li>
+<li><strong>Oxidación:</strong> rompe color y olor.</li>
+</ul>
+<p>La OECD describe el percarbonato como un aducto de carbonato de sodio y peróxido de hidrógeno que en agua libera esas especies.<sup>1</sup></p>
+</section>
+<section id="problemas-y-soluciones" class="level2">
+<h2 class="anchored" data-anchor-id="problemas-y-soluciones">Problemas y soluciones</h2>
+<section id="problema-ropa-blanca-percudida" class="level3">
+<h3 class="anchored" data-anchor-id="problema-ropa-blanca-percudida">Problema: ropa blanca percudida</h3>
+<p><strong>Solución:</strong> remojo con percarbonato + detergente.</p>
+<p><strong>Cómo pensarlo:</strong> el detergente emulsiona grasa y mugre; el percarbonato oxida el color amarillento y ayuda con olor. Juntos tienen sentido porque atacan partes distintas del problema. El detergente no blanquea bien por sí solo; el percarbonato sin detergente puede oxidar, pero no siempre levanta toda la grasa.</p>
+<p><strong>Cómo usarlo:</strong> disolver primero en agua tibia/caliente si la prenda lo permite, agregar detergente, remojar y luego lavar normal.</p>
+<p><strong>Temperatura:</strong> funciona mejor con agua tibia o caliente. En agua fría funciona más lento. No usar calor si la mancha es sangre o proteína fresca: primero agua fría.</p>
+</section>
+<section id="problema-camisetas-con-axilas-amarillas" class="level3">
+<h3 class="anchored" data-anchor-id="problema-camisetas-con-axilas-amarillas">Problema: camisetas con axilas amarillas</h3>
+<p><strong>Solución:</strong> no empezar por percarbonato a lo bruto. Primero diagnosticar.</p>
+<p>La mancha de axila suele ser mezcla de:</p>
+<ul>
+<li>sales de aluminio del antitranspirante;</li>
+<li>grasa corporal;</li>
+<li>proteína/sudor;</li>
+<li>color amarillo oxidado.</li>
+</ul>
+<p><strong>Secuencia útil:</strong></p>
+<ol type="1">
+<li>Si la zona está dura o acartonada, tratar primero con ácido acético diluido y enjuagar. Eso ayuda con sales minerales.</li>
+<li>Luego detergente o jabón para grasa.</li>
+<li>Después percarbonato para el amarillo, si la tela y el color lo toleran.</li>
+</ol>
+<p><strong>Por qué:</strong> el percarbonato blanquea, pero no disuelve todas las sales de desodorante. Secuencia, no coctel.</p>
+</section>
+<section id="problema-toallas-con-olor-agrio" class="level3">
+<h3 class="anchored" data-anchor-id="problema-toallas-con-olor-agrio">Problema: toallas con olor agrio</h3>
+<p><strong>Solución:</strong> percarbonato ocasional + lavado correcto.</p>
+<p>El olor agrio suele ser humedad, biofilm, detergente acumulado y secado incompleto. El percarbonato oxida moléculas olorosas y ayuda a sacar mugre orgánica.</p>
+<p><strong>Pero:</strong> si la toalla queda acartonada por agua dura o exceso de suavizante, hacer otro ciclo separado con ácido acético diluido. Separado significa separado. No meter ácido y percarbonato en el mismo balde para que hagan burbujitas: se neutraliza parte del poder útil.</p>
+</section>
+<section id="problema-termo-de-acero-inoxidable-con-olor-o-manchas-de-café" class="level3">
+<h3 class="anchored" data-anchor-id="problema-termo-de-acero-inoxidable-con-olor-o-manchas-de-café">Problema: termo de acero inoxidable con olor o manchas de café</h3>
+<p><strong>Solución:</strong> percarbonato + agua caliente.</p>
+<p><strong>Por qué funciona:</strong> el café y el té dejan películas orgánicas coloreadas. El peróxido las oxida y el carbonato ayuda a desprenderlas. El acero inoxidable tolera mucho mejor este tratamiento que el aluminio.</p>
+<p><strong>Cómo usarlo:</strong> una pequeña cantidad de percarbonato, llenar con agua caliente, dejar actuar, cepillar con cepillo de botella y enjuagar muy bien.</p>
+<p><strong>No usar:</strong> en termos de aluminio o botellas con partes de aluminio. Tampoco dejarlo días.</p>
+</section>
+<section id="problema-tazas-botellas-y-recipientes-manchados" class="level3">
+<h3 class="anchored" data-anchor-id="problema-tazas-botellas-y-recipientes-manchados">Problema: tazas, botellas y recipientes manchados</h3>
+<p><strong>Solución:</strong> percarbonato para color orgánico; carbón activado para olor residual; ácido acético para sarro.</p>
+<p>Si hay mancha marrón de café: percarbonato.<br>
+Si hay olor residual sin mancha: carbón activado seco.<br>
+Si hay costra blanca mineral: ácido acético.</p>
+</section>
+<section id="problema-juntas-de-baldosa-con-coloración-orgánica" class="level3">
+<h3 class="anchored" data-anchor-id="problema-juntas-de-baldosa-con-coloración-orgánica">Problema: juntas de baldosa con coloración orgánica</h3>
+<p><strong>Solución:</strong> percarbonato si el negro/marrón es moho superficial o mugre orgánica.</p>
+<p><strong>Por qué:</strong> oxida pigmentos y ayuda a desprender biofilm. Si lo blanco duro es sarro, no es el químico correcto.</p>
+<p><strong>Cuidado:</strong> juntas cementosas sufren con demasiada química. Enjuagar bien.</p>
+</section>
+<section id="problema-manchas-de-sangre" class="level3">
+<h3 class="anchored" data-anchor-id="problema-manchas-de-sangre">Problema: manchas de sangre</h3>
+<p><strong>Solución:</strong> agua fría primero. Luego percarbonato solo si la tela lo tolera.</p>
+<p><strong>ELI10:</strong> la sangre tiene proteínas. El calor las cocina y las pega a la fibra. Primero agua fría para sacar lo posible. Después, si queda color, oxidante suave.</p>
+</section>
+</section>
+<section id="dónde-sí" class="level2">
+<h2 class="anchored" data-anchor-id="dónde-sí">Dónde sí</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Material</th>
+<th>Veredicto</th>
+<th>Razón</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Algodón blanco</td>
+<td>Sí</td>
+<td>Tolera mejor alcalinidad y oxidación.</td>
+</tr>
+<tr class="even">
+<td>Poliéster blanco o claro</td>
+<td>Sí, con prueba</td>
+<td>Retiene olores; cuidado con calor.</td>
+</tr>
+<tr class="odd">
+<td>Acero inoxidable</td>
+<td>Sí</td>
+<td>Adecuado para termos/tazas si se enjuaga.</td>
+</tr>
+<tr class="even">
+<td>Cerámica/porcelana</td>
+<td>Sí</td>
+<td>Buena para manchas orgánicas.</td>
+</tr>
+<tr class="odd">
+<td>Juntas de baldosa</td>
+<td>Con cuidado</td>
+<td>Útil contra orgánico; enjuagar.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="dónde-no" class="level2">
+<h2 class="anchored" data-anchor-id="dónde-no">Dónde no</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Material</th>
+<th>Por qué no</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Aluminio</td>
+<td>El percarbonato libera carbonato, un medio alcalino; los alcalinos pueden oscurecer/corroer aluminio. NMSU advierte que los álcalis, incluyendo limpiadores alcalinos, pueden dañar aluminio.<sup>2</sup></td>
+</tr>
+<tr class="even">
+<td>Lana y seda</td>
+<td>Son fibras proteicas; oxidantes y alcalinidad pueden debilitarlas o amarillearlas.</td>
+</tr>
+<tr class="odd">
+<td>Cuero</td>
+<td>Lo reseca y oxida.</td>
+</tr>
+<tr class="even">
+<td>Madera</td>
+<td>Agua + alcalinidad + oxidante puede levantar acabado y manchar.</td>
+</tr>
+<tr class="odd">
+<td>Piedra natural calcárea</td>
+<td>No es su herramienta; mejor pH neutro.</td>
+</tr>
+<tr class="even">
+<td>Pantallas/electrónicos</td>
+<td>Agua + oxidante + residuos = mala idea.</td>
+</tr>
+<tr class="odd">
+<td>Colores inestables</td>
+<td>Puede decolorar. Prueba escondida.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="con-qué-no-mezclar" class="level2">
+<h2 class="anchored" data-anchor-id="con-qué-no-mezclar">Con qué no mezclar</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>No mezclar con</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Cloro/hipoclorito</td>
+<td>Mezclar oxidantes aumenta riesgo, irritación y daño de materiales.</td>
+</tr>
+<tr class="even">
+<td>Ácido acético/vinagre en el mismo recipiente</td>
+<td>El ácido neutraliza el carbonato; pierdes alcalinidad útil y generas CO2.</td>
+</tr>
+<tr class="odd">
+<td>Amonio cuaternario</td>
+<td>No tiene sentido: uno oxida y el otro desinfecta; úsalo por pasos con enjuague.</td>
+</tr>
+<tr class="even">
+<td>Desengrasantes desconocidos</td>
+<td>Pueden tener ingredientes incompatibles; no hace falta mezclarlos.</td>
+</tr>
+<tr class="odd">
+<td>Recipiente cerrado</td>
+<td>Puede liberar gas/oxígeno; nunca guardar soluciones preparadas.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="mini-reglas" class="level2">
+<h2 class="anchored" data-anchor-id="mini-reglas">Mini-reglas</h2>
+<ul>
+<li>Disolver antes de poner sobre tela.</li>
+<li>Usar agua tibia/caliente cuando la fibra lo permita.</li>
+<li>No preparar para guardar.</li>
+<li>No usar en aluminio.</li>
+<li>No usar como desinfectante formal si necesitas una etiqueta sanitaria.</li>
+<li>Para ropa: detergente + percarbonato sí puede tener sentido; ácido + percarbonato al mismo tiempo no.</li>
+</ul>
+</section>
+<section id="fuentes" class="level2">
+<h2 class="anchored" data-anchor-id="fuentes">Fuentes</h2>
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>OECD SIDS / UNEP. “Sodium Percarbonate CAS N° 15630-89-4.” <a href="https://hpvchemicals.oecd.org/UI/handler.axd?id=5681c280-6686-4260-b629-2f23a6db2319" class="uri">https://hpvchemicals.oecd.org/UI/handler.axd?id=5681c280-6686-4260-b629-2f23a6db2319</a>↩︎</p></li>
+<li id="fn2"><p>New Mexico State University. “Selection and Use of Home Cleaning Products.” <a href="https://pubs.nmsu.edu/_g/G304/" class="uri">https://pubs.nmsu.edu/_g/G304/</a>↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>limpieza</category>
+  <category>quimicos-hogar</category>
+  <category>ropa</category>
+  <guid>https://jovillarrealm.github.io/domestik/posts/percarbonato-sodio/</guid>
+  <pubDate>Sat, 27 Jun 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Sucrosol: solvente volátil para pantallas y huellas, con cautela</title>
+  <dc:creator>GPT5.5 </dc:creator>
+  <link>https://jovillarrealm.github.io/domestik/posts/sucrosol/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="sucrosol" class="level1">
+<h1>Sucrosol</h1>
+<p>Sucrosol es el químico más ambiguo del combo porque el nombre se usa comercialmente de formas distintas. En la descripción inicial aparece como solubilizante vegetal para aromatizantes y aceites esenciales, pero Químicos para el Hogar lo vende como un <strong>alcohol volátil de bajo contenido de agua</strong> para electrónicos y superficies sensibles a humedad.<sup>1</sup> Sucroal lo describe como una mezcla de alcoholes de volatilidad media con propiedades de solvatación similares al isopropanol.<sup>2</sup></p>
+<p>Entonces la regla es:</p>
+<blockquote class="blockquote">
+<p>Antes de usar Sucrosol, mira la etiqueta. Si tu botella es tipo alcohol/solvente, piensa pantallas y huellas. Si es solubilizante de aromas, piensa fragancias. No asumir.</p>
+</blockquote>
+<section id="eli10-qué-pasa-químicamente" class="level2">
+<h2 class="anchored" data-anchor-id="eli10-qué-pasa-químicamente">ELI10: qué pasa químicamente</h2>
+<p>Los alcoholes pequeños/medianos son solventes. Tienen una parte que conversa con el agua y otra que conversa con grasas livianas. Por eso pueden levantar huellas, aceites ligeros y mugre fina. Además se evaporan rápido, dejando menos agua sobre superficies sensibles.</p>
+<p>La ventaja para electrónicos no es que “desinfecte todo”; es que <strong>disuelve grasa ligera y se va rápido</strong>.</p>
+</section>
+<section id="problemas-y-soluciones" class="level2">
+<h2 class="anchored" data-anchor-id="problemas-y-soluciones">Problemas y soluciones</h2>
+<section id="problema-pantalla-con-huellas" class="level3">
+<h3 class="anchored" data-anchor-id="problema-pantalla-con-huellas">Problema: pantalla con huellas</h3>
+<p><strong>Solución:</strong> Sucrosol tipo alcohol/solvente, solo si el fabricante y la ficha del producto lo permiten.</p>
+<p><strong>Cómo:</strong></p>
+<ol type="1">
+<li>Apagar y desconectar.</li>
+<li>Aplicar al paño de microfibra, nunca directo a la pantalla.</li>
+<li>Pasar suave.</li>
+<li>No empapar bordes ni parlantes.</li>
+<li>Dejar evaporar.</li>
+</ol>
+<p>Apple permite usar toallitas de isopropanol 70% o etanol 75% en superficies exteriores de iPhone, evitando cloro/peróxido y humedad en aberturas.<sup>3</sup> Microsoft recomienda IPA 70% o menos en paño suave para Surface y no rociar directo.<sup>4</sup></p>
+</section>
+<section id="problema-teclado-o-mouse-con-grasa-ligera" class="level3">
+<h3 class="anchored" data-anchor-id="problema-teclado-o-mouse-con-grasa-ligera">Problema: teclado o mouse con grasa ligera</h3>
+<p><strong>Solución:</strong> paño apenas humedecido con Sucrosol compatible.</p>
+<p><strong>Por qué:</strong> disuelve aceites de dedos y evapora rápido. No reemplaza retirar migas o suciedad física.</p>
+</section>
+<section id="problema-carcasa-de-portátil-o-celular" class="level3">
+<h3 class="anchored" data-anchor-id="problema-carcasa-de-portátil-o-celular">Problema: carcasa de portátil o celular</h3>
+<p><strong>Solución:</strong> paño con Sucrosol, prueba primero.</p>
+<p><strong>Cuidado:</strong> algunos plásticos, gomas, pinturas y recubrimientos se opacan o se ponen pegajosos con solventes. Probar en zona escondida.</p>
+</section>
+<section id="problema-preparar-aromatizante-con-aceites-esenciales" class="level3">
+<h3 class="anchored" data-anchor-id="problema-preparar-aromatizante-con-aceites-esenciales">Problema: preparar aromatizante con aceites esenciales</h3>
+<p><strong>Solución:</strong> solo si tu Sucrosol específico es solubilizante de aromas.</p>
+<p><strong>ELI10:</strong> los aceites esenciales no se mezclan con agua; flotan como gotitas. Un solubilizante ayuda a dispersarlos. Pero eso no convierte la mezcla en desinfectante ni limpiador de superficies.</p>
+<p><strong>Cuidado:</strong> aceites esenciales pueden manchar madera, telas, piedra y plásticos. También pueden ser problemáticos para mascotas y niños.</p>
+</section>
+</section>
+<section id="lo-que-sí-hace-bien" class="level2">
+<h2 class="anchored" data-anchor-id="lo-que-sí-hace-bien">Lo que sí hace bien</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Problema</th>
+<th style="text-align: right;">¿Sirve?</th>
+<th>Condición</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Huellas en pantalla</td>
+<td style="text-align: right;">Sí</td>
+<td>Paño, no spray directo; compatibilidad.</td>
+</tr>
+<tr class="even">
+<td>Grasa ligera de teclado/mouse</td>
+<td style="text-align: right;">Sí</td>
+<td>Dispositivo apagado y poca cantidad.</td>
+</tr>
+<tr class="odd">
+<td>Limpieza rápida de superficies sensibles a agua</td>
+<td style="text-align: right;">A veces</td>
+<td>Probar recubrimiento.</td>
+</tr>
+<tr class="even">
+<td>Solubilizar aromas</td>
+<td style="text-align: right;">Depende</td>
+<td>Solo si esa es la formulación.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="lo-que-no-hace-bien" class="level2">
+<h2 class="anchored" data-anchor-id="lo-que-no-hace-bien">Lo que no hace bien</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Problema</th>
+<th>Por qué no</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Sarro</td>
+<td>No es ácido.</td>
+</tr>
+<tr class="even">
+<td>Grasa pesada de cocina</td>
+<td>Se evapora antes de hacer trabajo profundo.</td>
+</tr>
+<tr class="odd">
+<td>Ropa percudida</td>
+<td>No oxida como percarbonato.</td>
+</tr>
+<tr class="even">
+<td>Desinfección formal</td>
+<td>No usar como desinfectante salvo etiqueta explícita.</td>
+</tr>
+<tr class="odd">
+<td>Moho</td>
+<td>No es herramienta principal.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="con-qué-no-mezclar" class="level2">
+<h2 class="anchored" data-anchor-id="con-qué-no-mezclar">Con qué no mezclar</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>No mezclar con</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Percarbonato/peróxidos</td>
+<td>Alcohol + oxidante no es mezcla doméstica prudente.</td>
+</tr>
+<tr class="even">
+<td>Cloro/hipoclorito</td>
+<td>Mezclas de cloro con alcoholes pueden generar subproductos peligrosos; no hacerlo.</td>
+</tr>
+<tr class="odd">
+<td>Ácido acético</td>
+<td>No mejora pantallas y puede aumentar riesgo sobre recubrimientos.</td>
+</tr>
+<tr class="even">
+<td>Amonio cuaternario</td>
+<td>No inventar desinfectante mixto.</td>
+</tr>
+<tr class="odd">
+<td>Aceites esenciales para limpiar pantallas</td>
+<td>Los aceites dejan película y pueden dañar recubrimientos.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="dónde-no-usarlo" class="level2">
+<h2 class="anchored" data-anchor-id="dónde-no-usarlo">Dónde no usarlo</h2>
+<ul>
+<li>Cerca de llama, estufa o superficies calientes: es inflamable si es mezcla de alcoholes.</li>
+<li>Pantallas con recubrimiento dañado, sin prueba.</li>
+<li>Acrílico, acetato, barnices, gomas blandas o pinturas delicadas sin prueba.</li>
+<li>Recipientes de comida como “sanitizante”.</li>
+<li>Interiores de equipos energizados.</li>
+</ul>
+</section>
+<section id="mini-reglas" class="level2">
+<h2 class="anchored" data-anchor-id="mini-reglas">Mini-reglas</h2>
+<ul>
+<li>Producto al paño, no al aparato.</li>
+<li>Poco producto.</li>
+<li>Apagar/desconectar.</li>
+<li>No mezclar.</li>
+<li>Leer etiqueta: Sucrosol puede significar cosas distintas.</li>
+</ul>
+</section>
+<section id="fuentes" class="level2">
+<h2 class="anchored" data-anchor-id="fuentes">Fuentes</h2>
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Químicos para el Hogar. “Sucrosol 250mL.” <a href="https://www.quimicosparaelhogar.com/products/sucrosol-250ml" class="uri">https://www.quimicosparaelhogar.com/products/sucrosol-250ml</a>↩︎</p></li>
+<li id="fn2"><p>Sucroal. “Sucrosol.” <a href="https://sucroal.com.co/producto/sucrosol/" class="uri">https://sucroal.com.co/producto/sucrosol/</a>↩︎</p></li>
+<li id="fn3"><p>Apple Support. “Cleaning your iPhone.” <a href="https://support.apple.com/en-us/108765" class="uri">https://support.apple.com/en-us/108765</a>↩︎</p></li>
+<li id="fn4"><p>Microsoft Support. “Clean and care for your Surface.” <a href="https://support.microsoft.com/en-us/surface/setup/clean-and-care-for-your-surface" class="uri">https://support.microsoft.com/en-us/surface/setup/clean-and-care-for-your-surface</a>↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>limpieza</category>
+  <category>quimicos-hogar</category>
+  <category>electronicos</category>
+  <guid>https://jovillarrealm.github.io/domestik/posts/sucrosol/</guid>
+  <pubDate>Sat, 27 Jun 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>ELI10: cuándo la luz UV ayuda o empeora manchas con químicos domésticos</title>
+  <dc:creator>GPT-5 </dc:creator>
+  <link>https://jovillarrealm.github.io/domestik/posts/uv-manchas/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="eli10-luz-uv-manchas-y-químicos-domésticos" class="level1">
+<h1>ELI10: luz UV, manchas y químicos domésticos</h1>
+<p>La luz del sol parece magia doméstica: uno pone una camiseta al sol y a veces sale más blanca. Pero otras veces sale desteñida, amarilla, tiesa o con la mancha más rara.</p>
+<p>La explicación ELI10:</p>
+<blockquote class="blockquote">
+<p>La luz UV es como una tijera de energía. Puede cortar moléculas de color, pero también puede cortar tintes buenos y fibras.</p>
+</blockquote>
+<p>Entonces la pregunta no es “¿el sol ayuda?”, sino:</p>
+<blockquote class="blockquote">
+<p>¿Qué molécula quiero romper: la mancha o la ropa?</p>
+</blockquote>
+<section id="luz-uv-no-es-lo-mismo-que-calor" class="level2">
+<h2 class="anchored" data-anchor-id="luz-uv-no-es-lo-mismo-que-calor">Luz UV no es lo mismo que calor</h2>
+<p>Cuando pones ropa al sol pasan tres cosas al mismo tiempo:</p>
+<ol type="1">
+<li><strong>Luz UV:</strong> energía que puede romper moléculas.</li>
+<li><strong>Oxígeno del aire:</strong> participa en oxidaciones.</li>
+<li><strong>Calor y secado:</strong> evapora agua y concentra químicos.</li>
+</ol>
+<p>Esta diferencia importa. Muchas veces no fue “el UV” el que dañó algo, sino el químico secándose concentrado sobre la tela, o el calor fijando una mancha.</p>
+</section>
+<section id="regla-rápida" class="level2">
+<h2 class="anchored" data-anchor-id="regla-rápida">Regla rápida</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Situación</th>
+<th>¿El UV ayuda?</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Algodón blanco con mancha orgánica clara</td>
+<td>Sí, con cuidado</td>
+<td>UV + oxígeno/peróxido puede romper cromóforos.</td>
+</tr>
+<tr class="even">
+<td>Ropa de color</td>
+<td>Riesgo alto</td>
+<td>El UV también rompe tintes buenos.</td>
+</tr>
+<tr class="odd">
+<td>Ropa negra</td>
+<td>Casi nunca</td>
+<td>Destiñe y envejece la fibra.</td>
+</tr>
+<tr class="even">
+<td>Lana, seda, elastano</td>
+<td>Mejor evitar</td>
+<td>UV + oxidantes dañan fibras delicadas.</td>
+</tr>
+<tr class="odd">
+<td>Mancha de grasa fresca</td>
+<td>No es lo principal</td>
+<td>Primero surfactante/lavaplatos; UV puede oxidar grasa y amarillear.</td>
+</tr>
+<tr class="even">
+<td>Sangre, huevo, leche</td>
+<td>No empezar con sol/calor</td>
+<td>El calor puede fijar proteínas.</td>
+</tr>
+<tr class="odd">
+<td>Óxido/minerales</td>
+<td>UV casi no importa</td>
+<td>Lo importante es ácido/quelante, no luz.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="mapa-de-químicos-domésticos-uv" class="level2">
+<h2 class="anchored" data-anchor-id="mapa-de-químicos-domésticos-uv">Mapa de químicos domésticos + UV</h2>
+<p>Esta es la tabla grande. No reemplaza la etiqueta del producto, pero sirve para pensar.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Químico o mezcla</th>
+<th>Qué hace sin UV</th>
+<th>Qué cambia con sol/UV</th>
+<th>Cuándo puede ayudar</th>
+<th>Cuándo puede empeorar</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Percarbonato de sodio</strong></td>
+<td>Libera peróxido + carbonato; oxida manchas y trabaja alcalino</td>
+<td>UV puede acelerar oxidación</td>
+<td>Blancos resistentes con café, té, vino, sudor, moho superficial</td>
+<td>Colores, elastano, lana/seda, grasa fresca, químico seco sobre tela</td>
+</tr>
+<tr class="even">
+<td><strong>Agua oxigenada</strong></td>
+<td>Oxidante suave/moderado según concentración</td>
+<td>La luz acelera su descomposición y puede aumentar fotoblanqueo</td>
+<td>Manchas orgánicas en blanco, sangre en telas compatibles</td>
+<td>Destiñe colores, debilita fibras si se deja secar o se concentra</td>
+</tr>
+<tr class="odd">
+<td><strong>Ácido cítrico / limón</strong></td>
+<td>Acidifica y quela minerales/metales</td>
+<td>UV no es esencial; puede sumar fotoblanqueo leve</td>
+<td>Óxido leve, sales de desodorante, manchas amarillas minerales en blanco</td>
+<td>Halos en color, fibra debilitada si se seca ácido, fotosensibilización de compuestos vegetales</td>
+</tr>
+<tr class="even">
+<td><strong>Vinagre / ácido acético</strong></td>
+<td>Disuelve minerales, neutraliza alcalinidad</td>
+<td>UV aporta poco; el secado concentra ácido</td>
+<td>Sarro/mineral en superficies o textiles resistentes</td>
+<td>Piedra natural, colores, elásticos, uso largo sobre algodón</td>
+</tr>
+<tr class="odd">
+<td><strong>Bicarbonato de sodio</strong></td>
+<td>Alcalino suave, abrasivo leve, desodoriza</td>
+<td>UV casi no cambia su química</td>
+<td>Olores, pasta suave, pretratamiento alcalino leve</td>
+<td>Residuo blanco, tela tiesa, no blanquea por sí mismo</td>
+</tr>
+<tr class="even">
+<td><strong>Carbonato de sodio</strong></td>
+<td>Alcalino fuerte para grasa/suciedad</td>
+<td>Sol seca y concentra alcalinidad</td>
+<td>Algodón blanco resistente, ropa muy sucia</td>
+<td>Lana/seda, colores, elastano, piel sensible si mal enjuagado</td>
+</tr>
+<tr class="odd">
+<td><strong>Detergente enzimático</strong></td>
+<td>Enzimas cortan proteínas/grasas/almidones</td>
+<td>Calor/UV pueden desactivar enzimas si se deja al sol</td>
+<td>Usar primero en sombra; luego sol después de enjuagar</td>
+<td>Poner la prenda enjabonada al sol esperando que las enzimas trabajen mejor</td>
+</tr>
+<tr class="even">
+<td><strong>Lavaplatos líquido</strong></td>
+<td>Surfactantes desengrasantes</td>
+<td>UV no ayuda a emulsificar; calor puede oxidar grasa</td>
+<td>Pretratar grasa puntual antes de lavar</td>
+<td>Dejar grasa + jabón al sol: halos, oxidación, residuo</td>
+</tr>
+<tr class="odd">
+<td><strong>Cloro / hipoclorito</strong></td>
+<td>Oxidante muy fuerte y desinfectante</td>
+<td>Sol/calor aceleran degradación y daño textil</td>
+<td>Superficies compatibles, siguiendo etiqueta; rara vez como truco de manchas</td>
+<td>Ropa de color, elastano, lana/seda, mezcla con ácidos/amoniaco, exposición larga</td>
+</tr>
+<tr class="even">
+<td><strong>Alcohol etílico/isopropílico</strong></td>
+<td>Solvente para tinta, resina, grasa ligera</td>
+<td>Evapora más rápido; es inflamable</td>
+<td>Tinta/pegante con ventilación, lejos de llama/sol fuerte</td>
+<td>Usarlo al sol o cerca de calor; puede fijar o expandir tintas si no se absorbe</td>
+</tr>
+<tr class="odd">
+<td><strong>Amonios cuaternarios</strong></td>
+<td>Desinfectantes catiónicos de superficies</td>
+<td>UV no los vuelve quitamanchas</td>
+<td>Desinfectar superficies ya limpias, según etiqueta</td>
+<td>Mezclar con detergentes aniónicos, usar sobre ropa/manchas, superficies con comida sin enjuague indicado</td>
+</tr>
+<tr class="even">
+<td><strong>Sal</strong></td>
+<td>Absorbe agua, aporta abrasión/iones</td>
+<td>UV casi no importa</td>
+<td>Mancha fresca de vino como extracción física; óxido con ácido</td>
+<td>Puede fijar o corroer si se deja, no es blanqueador</td>
+</tr>
+</tbody>
+</table>
+<p>La idea corta: <strong>UV potencia oxidaciones y fotodegradación</strong>. Eso es bueno si quieres romper una mancha orgánica en tela blanca; malo si rompe tinte, elastano, lana, seda o grasa oxidándose a amarillo.</p>
+</section>
+<section id="percarbonato-de-sodio-uv" class="level2">
+<h2 class="anchored" data-anchor-id="percarbonato-de-sodio-uv">Percarbonato de sodio + UV</h2>
+<p>El percarbonato de sodio es un polvo que en agua libera dos cosas:</p>
+<ul>
+<li><strong>Carbonato de sodio:</strong> alcalino, ayuda con grasa y suciedad.</li>
+<li><strong>Peróxido de hidrógeno:</strong> oxidante, ayuda con manchas coloreadas.</li>
+</ul>
+<p>La OECD describe el percarbonato como un compuesto que se disuelve en agua liberando carbonato de sodio y peróxido de hidrógeno.<sup>1</sup></p>
+<p>El peróxido puede romper moléculas coloreadas. La luz UV puede acelerar esa ruptura porque ayuda a formar especies reactivas de oxígeno. ELI10: el percarbonato trae tijeras químicas, y el UV les pone turbo.</p>
+<section id="cuándo-ayuda" class="level3">
+<h3 class="anchored" data-anchor-id="cuándo-ayuda">Cuándo ayuda</h3>
+<p><strong>Ayuda más cuando se cumplen estas condiciones:</strong></p>
+<ul>
+<li>Tela blanca o muy clara.</li>
+<li>Fibra resistente: algodón o lino.</li>
+<li>Mancha orgánica: café, té, vino, sudor oxidado, fruta, moho superficial, olor de toalla.</li>
+<li>La prenda está mojada, no seca.</li>
+<li>El químico está diluido, no en pasta concentrada secándose.</li>
+<li>Tiempo controlado: minutos a pocas horas, no días.</li>
+<li>Luego hay enjuague/lavado.</li>
+</ul>
+<p>Ejemplo sensato:</p>
+<ol type="1">
+<li>Disolver percarbonato en agua tibia.</li>
+<li>Remojar la prenda blanca.</li>
+<li>Si quieres usar sol, ponerla húmeda al sol un rato, vigilando.</li>
+<li>No dejar que se seque como cartón con percarbonato encima.</li>
+<li>Lavar y enjuagar bien.</li>
+</ol>
+</section>
+<section id="cuándo-empeora" class="level3">
+<h3 class="anchored" data-anchor-id="cuándo-empeora">Cuándo empeora</h3>
+<p>Puede empeorar cuando:</p>
+<ul>
+<li>La prenda tiene color: destiñe o deja halos.</li>
+<li>La mancha es grasa: el UV puede oxidar aceites y volverlos amarillos/pegajosos.</li>
+<li>Hay elastano: oxidantes + UV + calor envejecen el caucho/elástico.</li>
+<li>Es lana o seda: las fibras proteicas sufren.</li>
+<li>Hay metales en la mancha o agua: hierro/cobre pueden catalizar oxidaciones raras.</li>
+<li>Se seca el químico sobre la tela: queda una zona concentrada que puede debilitar fibra.</li>
+</ul>
+<p>La investigación en textiles muestra que la luz puede fotodegradar tintes y fibras; por eso el sol también es responsable del desteñido de ropa y materiales teñidos.<sup>2</sup></p>
+</section>
+</section>
+<section id="ácido-cítrico-uv" class="level2">
+<h2 class="anchored" data-anchor-id="ácido-cítrico-uv">Ácido cítrico + UV</h2>
+<p>El ácido cítrico es el ácido del limón. Sirve sobre todo para:</p>
+<ul>
+<li>Disolver minerales.</li>
+<li>Quelar metales como calcio, magnesio o hierro.</li>
+<li>Cambiar el pH de algunas manchas.</li>
+<li>Ayudar con ciertos amarillos/minerales asociados a sudor o desodorante.</li>
+</ul>
+<p>ELI10: el ácido cítrico no es tanto una tijera. Es más como una pinza que agarra minerales.</p>
+<section id="cuándo-ayuda-1" class="level3">
+<h3 class="anchored" data-anchor-id="cuándo-ayuda-1">Cuándo ayuda</h3>
+<p>Ayuda más cuando la mancha tiene componente mineral o metálico:</p>
+<ul>
+<li>Óxido leve.</li>
+<li>Sales de desodorante.</li>
+<li>Sarro o agua dura en telas resistentes.</li>
+<li>Amarilleo donde hay sudor + desodorante + minerales.</li>
+</ul>
+<p>El UV no es el actor principal en esos casos. El ácido cítrico trabaja aunque estés en sombra. El sol puede ayudar a secar y a aportar algo de fotoblanqueo en blancos, pero no necesitas UV para que el citrato agarre metales.</p>
+<p>Ejemplo sensato para axilas amarillas en camiseta blanca resistente:</p>
+<ol type="1">
+<li>Humedecer la zona.</li>
+<li>Aplicar solución diluida de ácido cítrico o jugo de limón.</li>
+<li>Esperar poco tiempo: 10-30 minutos.</li>
+<li>Enjuagar.</li>
+<li>Lavar con detergente.</li>
+<li>Si sigue amarilla y la tela lo permite, usar percarbonato en un paso separado.</li>
+</ol>
+</section>
+<section id="cuándo-empeora-1" class="level3">
+<h3 class="anchored" data-anchor-id="cuándo-empeora-1">Cuándo empeora</h3>
+<p>Puede empeorar cuando:</p>
+<ul>
+<li>Lo aplicas en ropa de color y la pones al sol: puede dejar halos.</li>
+<li>Lo dejas secar sobre algodón por horas: el ácido concentrado puede debilitar fibra.</li>
+<li>Lo usas sobre lana/seda: las fibras delicadas no aman los extremos de pH.</li>
+<li>Lo mezclas directo con percarbonato esperando “más poder”: el ácido neutraliza parte del carbonato y cambia el pH que el percarbonato necesita para trabajar bien.</li>
+<li>Lo usas sobre manchas proteicas con calor: no resuelve el problema principal.</li>
+</ul>
+<p>ELI10: ácido cítrico + sol en ropa de color es como usar borrador en un dibujo que sí querías conservar.</p>
+</section>
+</section>
+<section id="puedo-mezclar-ácido-cítrico-y-percarbonato" class="level2">
+<h2 class="anchored" data-anchor-id="puedo-mezclar-ácido-cítrico-y-percarbonato">¿Puedo mezclar ácido cítrico y percarbonato?</h2>
+<p>Mejor no como mezcla “todo en uno”.</p>
+<p>Químicamente pasa esto:</p>
+<ul>
+<li>El percarbonato quiere un ambiente alcalino para trabajar bien en lavandería.</li>
+<li>El ácido cítrico baja el pH.</li>
+<li>El ácido puede consumir carbonato y liberar burbujas de CO2.</li>
+<li>También puede acelerar descomposición del peróxido según condiciones.</li>
+</ul>
+<p>No necesariamente es una bomba en un recipiente abierto, pero suele ser mala estrategia: gastas parte de los ingredientes peleando entre ellos.</p>
+<p>Mejor usar por pasos:</p>
+<ol type="1">
+<li><strong>Ácido cítrico</strong> para minerales/desodorante/óxido leve.</li>
+<li>Enjuagar.</li>
+<li><strong>Percarbonato</strong> para mancha orgánica/color/olor.</li>
+<li>Lavar normal.</li>
+</ol>
+</section>
+<section id="agua-oxigenada-uv" class="level2">
+<h2 class="anchored" data-anchor-id="agua-oxigenada-uv">Agua oxigenada + UV</h2>
+<p>El agua oxigenada es peróxido de hidrógeno en botella. Es prima química de lo que libera el percarbonato, pero ya viene en líquido y normalmente en concentración baja para uso doméstico.</p>
+<p>Con luz, el peróxido se descompone más rápido. Eso puede ayudar al blanqueo porque aparecen especies reactivas que atacan cromóforos, las partes de la molécula que dan color. Pero también significa que se gasta más rápido y puede atacar lo que no querías.</p>
+<section id="cuándo-ayuda-2" class="level3">
+<h3 class="anchored" data-anchor-id="cuándo-ayuda-2">Cuándo ayuda</h3>
+<ul>
+<li>Algodón blanco.</li>
+<li>Manchas orgánicas: sangre, café, té, fruta, sudor.</li>
+<li>Tratamiento corto, húmedo y con enjuague posterior.</li>
+<li>Prueba previa si hay costuras, estampados o hilos de color.</li>
+</ul>
+</section>
+<section id="cuándo-empeora-2" class="level3">
+<h3 class="anchored" data-anchor-id="cuándo-empeora-2">Cuándo empeora</h3>
+<ul>
+<li>Ropa de color: puede dejar manchas más claras.</li>
+<li>Telas delicadas: lana, seda, encaje, elastano.</li>
+<li>Si se deja secar al sol: el peróxido se concentra localmente antes de descomponerse.</li>
+<li>Si hay metales: hierro o cobre pueden acelerar reacciones y crear halos.</li>
+</ul>
+<p>Regla: agua oxigenada en blanco resistente puede ser amiga; en color es ruleta.</p>
+</section>
+</section>
+<section id="cloro-hipoclorito-uv" class="level2">
+<h2 class="anchored" data-anchor-id="cloro-hipoclorito-uv">Cloro / hipoclorito + UV</h2>
+<p>El cloro doméstico, normalmente hipoclorito de sodio, es un oxidante fuerte. Ya es agresivo sin sol. Con sol, calor y tiempo, aumenta el riesgo de degradar fibras, amarillear ciertos materiales y destruir tintes.</p>
+<p>ELI10: si el percarbonato es una tijera, el cloro es una podadora eléctrica. Sirve en algunos materiales, pero no se usa jugando.</p>
+<section id="cuándo-puede-servir" class="level3">
+<h3 class="anchored" data-anchor-id="cuándo-puede-servir">Cuándo puede servir</h3>
+<ul>
+<li>Superficies duras compatibles.</li>
+<li>Desinfección o blanqueo según etiqueta.</li>
+<li>Algodón blanco muy resistente, con mucha cautela y dilución correcta.</li>
+</ul>
+</section>
+<section id="cuándo-no" class="level3">
+<h3 class="anchored" data-anchor-id="cuándo-no">Cuándo NO</h3>
+<ul>
+<li>Ropa de color.</li>
+<li>Ropa con elastano.</li>
+<li>Lana, seda, cuero.</li>
+<li>Manchas de óxido: puede empeorarlas o amarillear.</li>
+<li>Mezclado con otros productos.</li>
+</ul>
+<p>El Departamento de Salud de Washington advierte contra mezclar hipoclorito con ácidos o amoniaco porque puede liberar gases peligrosos.<sup>3</sup> Poison Control también resume la regla doméstica: no mezclar limpiadores, especialmente productos con cloro, ácidos, amoniaco o alcoholes.<sup>4</sup></p>
+</section>
+</section>
+<section id="vinagre-ácido-acético-uv" class="level2">
+<h2 class="anchored" data-anchor-id="vinagre-ácido-acético-uv">Vinagre / ácido acético + UV</h2>
+<p>El vinagre funciona parecido al ácido cítrico, pero sin tanta capacidad quelante. Es útil para minerales: sarro, residuos alcalinos, algo de jabón cálcico.</p>
+<p>La luz UV no es su superpoder. Si funciona, casi siempre funciona por pH ácido, no por sol.</p>
+<section id="cuándo-ayuda-3" class="level3">
+<h3 class="anchored" data-anchor-id="cuándo-ayuda-3">Cuándo ayuda</h3>
+<ul>
+<li>Residuos minerales.</li>
+<li>Toallas ásperas por exceso de detergente/minerales, usando un ciclo separado.</li>
+<li>Algunas manchas de desodorante con sales.</li>
+</ul>
+</section>
+<section id="cuándo-empeora-3" class="level3">
+<h3 class="anchored" data-anchor-id="cuándo-empeora-3">Cuándo empeora</h3>
+<ul>
+<li>Ropa de color al sol: halos.</li>
+<li>Algodón con ácido secándose por horas.</li>
+<li>Piedra natural: mármol, travertino, caliza.</li>
+<li>Mezclado con cloro: no.</li>
+</ul>
+<p>Regla: vinagre/ácido primero para mineral; enjuague; después detergente u oxidante si hace falta.</p>
+</section>
+</section>
+<section id="bicarbonato-carbonato-y-sol" class="level2">
+<h2 class="anchored" data-anchor-id="bicarbonato-carbonato-y-sol">Bicarbonato, carbonato y sol</h2>
+<p>El bicarbonato no se vuelve blanqueador por ponerlo al sol. Es una base suave, desodoriza, ayuda como abrasivo leve y puede neutralizar olores ácidos.</p>
+<p>El carbonato de sodio es más alcalino. Es más útil para grasa y ropa muy sucia, pero también más capaz de maltratar fibras delicadas.</p>
+<section id="cuándo-ayuda-4" class="level3">
+<h3 class="anchored" data-anchor-id="cuándo-ayuda-4">Cuándo ayuda</h3>
+<ul>
+<li>Olores ácidos.</li>
+<li>Grasa ligera si se combina con detergente.</li>
+<li>Algodón blanco resistente.</li>
+<li>Pastas de limpieza donde lo importante es abrasión suave, no UV.</li>
+</ul>
+</section>
+<section id="cuándo-empeora-4" class="level3">
+<h3 class="anchored" data-anchor-id="cuándo-empeora-4">Cuándo empeora</h3>
+<ul>
+<li>Si se deja secar: residuo blanco y tela tiesa.</li>
+<li>Lana/seda: pH alto las maltrata.</li>
+<li>Colores delicados: puede opacar.</li>
+<li>Mezclado con vinagre como “volcán limpiador”: se neutralizan y pierdes las ventajas separadas.</li>
+</ul>
+<p>ELI10: bicarbonato + sol no es láser blanqueador. Es polvo alcalino secándose.</p>
+</section>
+</section>
+<section id="detergente-enzimático-uv" class="level2">
+<h2 class="anchored" data-anchor-id="detergente-enzimático-uv">Detergente enzimático + UV</h2>
+<p>Las enzimas trabajan mejor con agua, tiempo, temperatura moderada y pH de la fórmula. No trabajan mejor porque les dé sol directo. De hecho, calor excesivo y luz pueden desactivarlas.</p>
+<section id="buen-uso" class="level3">
+<h3 class="anchored" data-anchor-id="buen-uso">Buen uso</h3>
+<ol type="1">
+<li>Tratar la mancha con detergente enzimático en sombra.</li>
+<li>Dejar actuar 15-60 minutos según prenda y producto.</li>
+<li>Lavar.</li>
+<li>Si la prenda es blanca y resistente, secar al sol después del enjuague.</li>
+</ol>
+</section>
+<section id="mal-uso" class="level3">
+<h3 class="anchored" data-anchor-id="mal-uso">Mal uso</h3>
+<p>Poner una prenda enjabonada al sol por horas esperando que “las enzimas se activen”. Lo más probable es que el agua se evapore, el detergente se concentre, la mancha quede con halo y la enzima pierda gracia.</p>
+<p>Regla: enzimas antes; sol después, si conviene.</p>
+</section>
+</section>
+<section id="lavaplatos-uv" class="level2">
+<h2 class="anchored" data-anchor-id="lavaplatos-uv">Lavaplatos + UV</h2>
+<p>El lavaplatos sirve para grasa porque trae surfactantes desengrasantes. El UV no emulsifica grasa. De hecho, puede oxidar aceites y volverlos más amarillos, rancios o pegajosos.</p>
+<p>Buen uso:</p>
+<ol type="1">
+<li>Gota de lavaplatos sobre mancha de aceite.</li>
+<li>Masaje suave.</li>
+<li>Esperar.</li>
+<li>Lavar con detergente de ropa.</li>
+</ol>
+<p>Mal uso:</p>
+<ul>
+<li>Echar lavaplatos y poner al sol.</li>
+<li>Dejar grasa medio tratada al sol.</li>
+<li>Usarlo como detergente de lavadora.</li>
+</ul>
+<p>Regla: grasa primero se emulsifica; solo después, si queda color en blanco resistente, se piensa en oxidante/sol.</p>
+</section>
+<section id="alcohol-uv" class="level2">
+<h2 class="anchored" data-anchor-id="alcohol-uv">Alcohol + UV</h2>
+<p>Alcohol etílico o isopropílico sirve como solvente para tinta, marcadores, resinas, perfumes, pegantes y algunas grasas ligeras.</p>
+<p>El sol no mejora esa química. Más bien evapora el alcohol rápido y aumenta riesgo de inflamabilidad si hay calor, llama, chispa o mala ventilación.</p>
+<p>Buen uso:</p>
+<ul>
+<li>Trabajar en sombra y ventilado.</li>
+<li>Poner paño absorbente debajo de la mancha.</li>
+<li>Aplicar poco alcohol y transferir la tinta al paño.</li>
+<li>Lavar después.</li>
+</ul>
+<p>Mal uso:</p>
+<ul>
+<li>Rociar alcohol y poner al sol.</li>
+<li>Usarlo cerca de cocina, velas, secadora o plancha.</li>
+<li>Frotar tinta sin paño absorbente: puede expandirla.</li>
+</ul>
+</section>
+<section id="amonios-cuaternarios-uv" class="level2">
+<h2 class="anchored" data-anchor-id="amonios-cuaternarios-uv">Amonios cuaternarios + UV</h2>
+<p>Los amonios cuaternarios son desinfectantes catiónicos para superficies. No son quitamanchas de ropa. El CDC describe que actúan dañando membranas y proteínas microbianas, pero su actividad puede verse afectada por materia orgánica, dureza del agua y algunos materiales.<sup>5</sup></p>
+<p>La luz UV no los convierte en blanqueadores. Si quieres desinfectar una superficie, primero limpias la mugre, luego usas el desinfectante según etiqueta y respetas tiempo de contacto.</p>
+<p>No los mezcles con detergentes aniónicos o jabones sin enjuagar, porque pueden inactivarse parcialmente.</p>
+</section>
+<section id="mezclas-comunes-usar-por-pasos-no-como-coctel" class="level2">
+<h2 class="anchored" data-anchor-id="mezclas-comunes-usar-por-pasos-no-como-coctel">Mezclas comunes: usar por pasos, no como coctel</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Mezcla</th>
+<th>¿Sirve con UV?</th>
+<th>Veredicto</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Percarbonato + sol</td>
+<td>Sí, en blancos resistentes</td>
+<td>Útil si está diluido, húmedo y con tiempo controlado.</td>
+</tr>
+<tr class="even">
+<td>Agua oxigenada + sol</td>
+<td>Sí, con cautela</td>
+<td>Similar: blancos resistentes, no colores.</td>
+</tr>
+<tr class="odd">
+<td>Limón/ácido cítrico + sol</td>
+<td>A veces</td>
+<td>Útil en blancos con mineral/amarillo leve; riesgo de halos.</td>
+</tr>
+<tr class="even">
+<td>Vinagre + sol</td>
+<td>Poco</td>
+<td>El ácido trabaja sin UV; cuidado con secado ácido.</td>
+</tr>
+<tr class="odd">
+<td>Bicarbonato + sol</td>
+<td>Casi nada</td>
+<td>No blanquea por UV; puede dejar residuo.</td>
+</tr>
+<tr class="even">
+<td>Detergente enzimático + sol</td>
+<td>Mejor por separado</td>
+<td>Enzimas primero en sombra, sol después de enjuagar.</td>
+</tr>
+<tr class="odd">
+<td>Lavaplatos + sol</td>
+<td>No</td>
+<td>Tratar grasa en sombra y lavar.</td>
+</tr>
+<tr class="even">
+<td>Alcohol + sol</td>
+<td>No</td>
+<td>Inflamabilidad y evaporación rápida.</td>
+</tr>
+<tr class="odd">
+<td>Cloro + sol</td>
+<td>Riesgoso</td>
+<td>Oxidante fuerte; seguir etiqueta, no “potenciar”.</td>
+</tr>
+<tr class="even">
+<td>Cloro + vinagre/limón/ácido cítrico</td>
+<td>Peligroso</td>
+<td>Puede liberar cloro gaseoso.</td>
+</tr>
+<tr class="odd">
+<td>Cloro + amoniaco</td>
+<td>Peligroso</td>
+<td>Puede liberar cloraminas.</td>
+</tr>
+<tr class="even">
+<td>Vinagre + agua oxigenada en botella</td>
+<td>No</td>
+<td>Puede formar ácido peracético irritante; no almacenar mezclas.</td>
+</tr>
+<tr class="odd">
+<td>Amonio cuaternario + jabón/detergente aniónico</td>
+<td>Mala idea</td>
+<td>Puede inactivarse; limpiar, enjuagar, desinfectar.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="tipos-de-manchas-y-luz-uv" class="level2">
+<h2 class="anchored" data-anchor-id="tipos-de-manchas-y-luz-uv">Tipos de manchas y luz UV</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 23%">
+<col style="width: 30%">
+<col style="width: 23%">
+<col style="width: 23%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Mancha</th>
+<th style="text-align: right;">UV ayuda</th>
+<th>Mejor primera herramienta</th>
+<th>Comentario</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Café / té</td>
+<td style="text-align: right;">Sí en blanco</td>
+<td>Percarbonato</td>
+<td>Son manchas con moléculas coloreadas oxidables.</td>
+</tr>
+<tr class="even">
+<td>Vino / frutos rojos</td>
+<td style="text-align: right;">Sí en blanco</td>
+<td>Enjuague rápido + percarbonato</td>
+<td>En color, cuidado con halos.</td>
+</tr>
+<tr class="odd">
+<td>Sudor amarillo</td>
+<td style="text-align: right;">A veces</td>
+<td>Detergente + percarbonato; ácido cítrico si hay desodorante/mineral</td>
+<td>Puede ser mezcla de grasa, proteína, sales y metal.</td>
+</tr>
+<tr class="even">
+<td>Desodorante duro</td>
+<td style="text-align: right;">UV no es clave</td>
+<td>Ácido cítrico/vinagre diluido, luego detergente</td>
+<td>Primero romper sales/minerales.</td>
+</tr>
+<tr class="odd">
+<td>Grasa / aceite</td>
+<td style="text-align: right;">Puede empeorar</td>
+<td>Lavaplatos o detergente sobre mancha</td>
+<td>UV oxida grasa y puede amarillear.</td>
+</tr>
+<tr class="even">
+<td>Sangre</td>
+<td style="text-align: right;">No al inicio</td>
+<td>Agua fría + enzimas/peróxido según tela</td>
+<td>Calor fija proteína.</td>
+</tr>
+<tr class="odd">
+<td>Moho superficial</td>
+<td style="text-align: right;">Sí en blanco</td>
+<td>Percarbonato + lavado + sol</td>
+<td>Si está dentro de silicona/fibra, no hay milagro.</td>
+</tr>
+<tr class="even">
+<td>Óxido</td>
+<td style="text-align: right;">No es clave</td>
+<td>Ácido cítrico</td>
+<td>La química importante es quelación/disolución.</td>
+</tr>
+<tr class="odd">
+<td>Tinte transferido</td>
+<td style="text-align: right;">Riesgo</td>
+<td>Removedor adecuado/color-safe</td>
+<td>UV puede fijar daño o decolorar alrededor.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="el-caso-limón-sol" class="level2">
+<h2 class="anchored" data-anchor-id="el-caso-limón-sol">El caso limón + sol</h2>
+<p>El truco de limón al sol tiene algo de sentido, pero no es universal.</p>
+<p>Puede funcionar en:</p>
+<ul>
+<li>Tela blanca.</li>
+<li>Algodón resistente.</li>
+<li>Mancha vegetal o amarilla leve.</li>
+<li>Exposición corta.</li>
+<li>Buen enjuague posterior.</li>
+</ul>
+<p>Puede salir mal en:</p>
+<ul>
+<li>Ropa de color.</li>
+<li>Tela delicada.</li>
+<li>Exposición larga.</li>
+<li>Ácido secándose al sol.</li>
+<li>Manchas con grasa no removida.</li>
+</ul>
+<p>Además, limón no es solo ácido cítrico puro: tiene otros compuestos vegetales. En piel humana algunos cítricos pueden causar fotosensibilidad; en ropa el problema no es el mismo, pero la idea general sirve: luz + compuestos vegetales + superficie puede producir reacciones inesperadas.<sup>6</sup></p>
+</section>
+<section id="protocolos-eli10" class="level2">
+<h2 class="anchored" data-anchor-id="protocolos-eli10">Protocolos ELI10</h2>
+<section id="para-camiseta-blanca-con-mancha-de-café" class="level3">
+<h3 class="anchored" data-anchor-id="para-camiseta-blanca-con-mancha-de-café">Para camiseta blanca con mancha de café</h3>
+<ol type="1">
+<li>Enjuaga la mancha si está fresca.</li>
+<li>Remoja en percarbonato diluido.</li>
+<li>Sol corto si quieres potenciar, manteniendo húmedo.</li>
+<li>Lava normal.</li>
+<li>No uses cloro encima ni mezcles químicos.</li>
+</ol>
+</section>
+<section id="para-axilas-amarillas-con-costra-de-desodorante" class="level3">
+<h3 class="anchored" data-anchor-id="para-axilas-amarillas-con-costra-de-desodorante">Para axilas amarillas con costra de desodorante</h3>
+<ol type="1">
+<li>Ácido cítrico diluido 10-30 minutos.</li>
+<li>Enjuague.</li>
+<li>Detergente o lavaplatos en la zona si hay grasa.</li>
+<li>Percarbonato si es prenda blanca y resistente.</li>
+<li>Sol corto opcional, no secado eterno con químico.</li>
+</ol>
+</section>
+<section id="para-grasa-de-comida" class="level3">
+<h3 class="anchored" data-anchor-id="para-grasa-de-comida">Para grasa de comida</h3>
+<ol type="1">
+<li>Nada de sol al inicio.</li>
+<li>Quita exceso.</li>
+<li>Gota de lavaplatos o detergente líquido.</li>
+<li>Espera.</li>
+<li>Lava.</li>
+<li>Si queda halo amarillo en blanco, ahí sí considerar percarbonato.</li>
+</ol>
+</section>
+<section id="para-ropa-de-color" class="level3">
+<h3 class="anchored" data-anchor-id="para-ropa-de-color">Para ropa de color</h3>
+<ol type="1">
+<li>Evita UV como “tratamiento”.</li>
+<li>Usa detergente con enzimas.</li>
+<li>Haz prueba escondida antes de oxidantes o ácidos.</li>
+<li>Seca a la sombra si quieres conservar color.</li>
+</ol>
+</section>
+<section id="para-moho-superficial-en-tela-blanca" class="level3">
+<h3 class="anchored" data-anchor-id="para-moho-superficial-en-tela-blanca">Para moho superficial en tela blanca</h3>
+<ol type="1">
+<li>Cepilla en seco al aire libre si hay material suelto.</li>
+<li>Lava con detergente.</li>
+<li>Remoja con percarbonato si la tela lo permite.</li>
+<li>Sol corto puede ayudar a fotoblanquear.</li>
+<li>Si el olor vuelve, el problema puede ser humedad persistente, no falta de químico.</li>
+</ol>
+<p>No mezcles cloro con vinagre ni con limpiadores ácidos para “matar más”. Esa mezcla es de las malas de verdad.</p>
+</section>
+<section id="para-tinta-o-marcador" class="level3">
+<h3 class="anchored" data-anchor-id="para-tinta-o-marcador">Para tinta o marcador</h3>
+<ol type="1">
+<li>No empieces con sol.</li>
+<li>Pon paño absorbente debajo.</li>
+<li>Usa alcohol poco a poco en sombra y ventilación.</li>
+<li>Cambia el paño a medida que recibe tinta.</li>
+<li>Lava con detergente.</li>
+</ol>
+<p>El sol puede fijar o expandir el desastre si primero no sacas el pigmento/solvente.</p>
+</section>
+<section id="para-óxido" class="level3">
+<h3 class="anchored" data-anchor-id="para-óxido">Para óxido</h3>
+<ol type="1">
+<li>No uses cloro.</li>
+<li>Usa ácido cítrico o un removedor de óxido compatible.</li>
+<li>Mantén húmedo el tratamiento.</li>
+<li>Enjuaga bien.</li>
+<li>Lava normal.</li>
+</ol>
+<p>UV no es protagonista. El óxido necesita química de metales, no bronceado.</p>
+</section>
+<section id="para-superficies-del-baño" class="level3">
+<h3 class="anchored" data-anchor-id="para-superficies-del-baño">Para superficies del baño</h3>
+<p>Separar problemas:</p>
+<ul>
+<li>Sarro blanco duro: ácido cítrico o vinagre, sin cloro.</li>
+<li>Moho superficial: limpieza + oxidante o desinfectante compatible.</li>
+<li>Grasa/jabón corporal: detergente/desengrasante suave.</li>
+<li>Desinfección: amonio cuaternario o desinfectante según etiqueta, después de limpiar.</li>
+</ul>
+<p>El sol casi nunca importa en el baño. Importan pH, tiempo de contacto, ventilación y no mezclar.</p>
+</section>
+</section>
+<section id="la-regla-de-oro" class="level2">
+<h2 class="anchored" data-anchor-id="la-regla-de-oro">La regla de oro</h2>
+<p>El UV ayuda cuando quieres romper una molécula de color que <strong>no te importa conservar</strong>.</p>
+<p>El UV empeora cuando la molécula que rompe es:</p>
+<ul>
+<li>el tinte de la ropa,</li>
+<li>la fibra,</li>
+<li>el elastano,</li>
+<li>o una grasa que se oxida y amarillea.</li>
+</ul>
+<p>La versión doméstica:</p>
+<blockquote class="blockquote">
+<p>Sol + percarbonato = buena idea para blancos resistentes y manchas orgánicas.</p>
+<p>Sol + ácido cítrico = útil puntualmente en blancos, pero el ácido trabaja más por minerales que por UV.</p>
+<p>Sol + detergente enzimático = mejor después del lavado, no durante el pretratamiento.</p>
+<p>Sol + grasa = sospechoso: primero surfactante.</p>
+<p>Sol + cloro = no es un upgrade casero; es más riesgo de daño.</p>
+<p>Sol + ropa de color = cuidado, estás blanqueando también lo que querías mantener.</p>
+</blockquote>
+</section>
+<section id="fuentes-consultadas" class="level2">
+<h2 class="anchored" data-anchor-id="fuentes-consultadas">Fuentes consultadas</h2>
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>OECD SIDS / UNEP. “Sodium Percarbonate CAS N° 15630-89-4.” Consultado el 27 de junio de 2026. <a href="https://hpvchemicals.oecd.org/UI/handler.axd?id=5681c280-6686-4260-b629-2f23a6db2319" class="uri">https://hpvchemicals.oecd.org/UI/handler.axd?id=5681c280-6686-4260-b629-2f23a6db2319</a>↩︎</p></li>
+<li id="fn2"><p>A. Riva, J. Elsner, H. R. Reiss. “Textile photodegradation.” <em>Textile Research Journal</em> / referencias técnicas sobre fotodegradación de fibras y tintes. Consultado el 27 de junio de 2026. <a href="https://doi.org/10.1177/004051759206200106" class="uri">https://doi.org/10.1177/004051759206200106</a>↩︎</p></li>
+<li id="fn3"><p>Washington State Department of Health. “Dangers of Mixing Bleach with Cleaners.” Consultado el 27 de junio de 2026. <a href="https://doh.wa.gov/community-and-environment/contaminants/bleach-mixing-dangers" class="uri">https://doh.wa.gov/community-and-environment/contaminants/bleach-mixing-dangers</a>↩︎</p></li>
+<li id="fn4"><p>Poison Control. “Top tips for a safe spring cleaning.” Consultado el 27 de junio de 2026. <a href="https://www.poison.org/articles/spring-cleaning" class="uri">https://www.poison.org/articles/spring-cleaning</a>↩︎</p></li>
+<li id="fn5"><p>CDC. “Chemical Disinfectants: Quaternary Ammonium Compounds.” Consultado el 27 de junio de 2026. <a href="https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html" class="uri">https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html</a>↩︎</p></li>
+<li id="fn6"><p>DermNet. “Phytophotodermatitis.” Consultado el 27 de junio de 2026. <a href="https://dermnetnz.org/topics/phytophotodermatitis" class="uri">https://dermnetnz.org/topics/phytophotodermatitis</a>↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>limpieza</category>
+  <category>ropa</category>
+  <category>química</category>
+  <guid>https://jovillarrealm.github.io/domestik/posts/uv-manchas/</guid>
+  <pubDate>Sat, 27 Jun 2026 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Aprendiendo de Quimicos para el hogar</title>
   <dc:creator>GPT5.5 </dc:creator>
@@ -54,6 +3504,18 @@
 <p>Por eso es que encontrar una forma correcta, validada tanto por las abuelas de toda la vida y por gente académica, es necesaria. No quiero andar gastando plata y tiempo en lavar ropa, pero tampoco quiero tener ropa en mal estado.</p>
 <p>Tonces, <code>Quimicos para el hogar</code> se resume en una pagina de <a href="https://www.youtube.com/@quimicosparaelhogar/shorts">Youtube</a>, <a href="https://www.quimicosparaelhogar.com/blogs/hablemos-del-percarbonato-de-sodio">un blog</a>.</p>
 <p>Vamos a ir uno a uno investigando usos de estos 7 compuestos. Encontrar casos de usos desde control de manchas y despercudidos en ropa o termos, a lavado de pantallas.</p>
+<p>La serie quedó separada en guías por herramienta:</p>
+<ul>
+<li><a href="../percarbonato-sodio/">Percarbonato de sodio</a>: oxígeno activo para manchas, olores, ropa blanca y termos.</li>
+<li><a href="../amonio-cuaternario/">Amonio cuaternario</a>: desinfectar superficies duras después de limpiar.</li>
+<li><a href="../acido-borico/">Ácido bórico</a>: plagas en grietas, no limpieza general.</li>
+<li><a href="../carbon-activado/">Carbón activado</a>: adsorber olores residuales.</li>
+<li><a href="../acido-acetico-10/">Ácido acético al 10%</a>: sarro, cal y minerales.</li>
+<li><a href="../bicarbonato-sodio/">Bicarbonato de sodio</a>: base suave, abrasivo amable y control de olores.</li>
+<li><a href="../acido-citrico/">Ácido cítrico</a>: sarro, cal y quelación sin olor a vinagre.</li>
+<li><a href="../sucrosol/">Sucrosol</a>: pantallas, huellas y solvente volátil, si la etiqueta confirma compatibilidad.</li>
+<li><a href="../desengrasante-biodegradable/">Desengrasante biodegradable</a>: grasa real, cocina, pisos y pre-limpieza antes de desinfectar.</li>
+</ul>
 <section id="problema-primero-producto-después" class="level2">
 <h2 class="anchored" data-anchor-id="problema-primero-producto-después">Problema primero, producto después</h2>
 <p>Antes de ir químico por químico, la pregunta que de verdad importa no es “¿con qué limpio el baño?” sino:</p>
