@@ -2,6 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/despercudir-ollas/index.html",
+      "/posts/manzanas-cocidas/index.html",
+      "/posts/pretratamiento-ropa/index.html",
+      "/posts/remedios/index.html",
+      "/posts/detergentes-medellin/index.html",
       "/posts/acido-acetico-10/index.html",
       "/posts/acido-borico/index.html",
       "/posts/acido-citrico/index.html",
@@ -10,14 +15,12 @@
       "/posts/carbon-activado/index.html",
       "/posts/cloro-color/index.html",
       "/posts/desengrasante-biodegradable/index.html",
-      "/posts/detergentes-medellin/index.html",
       "/posts/detergentes-quimica/index.html",
       "/posts/jabon-coco-rey/index.html",
       "/posts/percarbonato-sodio/index.html",
       "/posts/sucrosol/index.html",
       "/posts/uv-manchas/index.html",
       "/posts/quimicoshogar/index.html",
-      "/posts/remedios/index.html",
       "/posts/ropa/index.html",
       "/posts/superficie/index.html"
     ]
